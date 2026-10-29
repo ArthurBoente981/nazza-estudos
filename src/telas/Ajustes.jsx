@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react'
 import { tresMeses, configPadrao, carregar } from '../estado.js'
 import { Icone } from '../Nazza.jsx'
+import BotaoInstalar from '../BotaoInstalar.jsx'
 
 const CHAVE = 'nazza-estudos-v1'
 
@@ -43,6 +44,8 @@ export default function Ajustes({ estado, aoMudar }) {
       <header className="tela-topo">
         <h1>Ajustes</h1>
       </header>
+
+      <BotaoInstalar sempre />
 
       <Grupo titulo="Aparência" icone="Palette">
         <Linha rotulo="Tema">

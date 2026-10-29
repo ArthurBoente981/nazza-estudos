@@ -11,6 +11,7 @@ export default defineConfig(({ command, isPreview }) => ({
       registerType: 'autoUpdate', // versão nova é baixada sozinha e entra na próxima abertura
       includeAssets: ['icones/*.png'],
       manifest: {
+        id: '/nazza-estudos/',
         name: 'Estuda com a Nazza',
         short_name: 'Nazza',
         description: 'Questões do concurso UFRJ com a Nazzareh',

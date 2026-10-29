@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { secoes } from '../trilha.js'
 import { xpHoje } from '../estado.js'
 import { Icone, NazzaVideo, Nazza } from '../Nazza.jsx'
+import BotaoInstalar from '../BotaoInstalar.jsx'
 
 const ZIGUE = [0, 44, 70, 44, 0, -44, -70, -44] // deslocamento horizontal dos nós (px)
 
@@ -25,6 +26,7 @@ export default function Trilha({ estado, aoIniciar }) {
 
   return (
     <div className="tela trilha">
+      <BotaoInstalar />
       <section className="hero">
         <NazzaVideo nome="acenando" className="hero-video" />
         <div className="hero-texto">

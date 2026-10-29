@@ -3,12 +3,12 @@ import {
   CheckCheck, ChevronRight, Circle, Clock, Construction, Crown, Database, Download,
   Dumbbell, Flame, Footprints, GraduationCap, Landmark, Lightbulb, Link2, ListChecks,
   Lock, Map, Medal, Palette, PenLine, Play, Repeat, RotateCcw,
-  Scale, ScrollText, Settings, Star, Target, Timer, Trash2, Trophy,
+  Scale, ScrollText, Settings, Smartphone, Star, Target, Timer, Trash2, Trophy,
   Upload, Volume2, X, Zap,
 } from 'lucide-react'
 
 // Só os ícones usados no app (importar a biblioteca inteira pesa ~600 kB)
-const Icones = { Bomb, BookCheck, BookOpen, BookOpenText, CalendarCheck, CalendarClock, ChartNoAxesColumn, Check, CheckCheck, ChevronRight, Circle, Clock, Construction, Crown, Database, Download, Dumbbell, Flame, Footprints, GraduationCap, Landmark, Lightbulb, Link2, ListChecks, Lock, Map, Medal, Palette, PenLine, Play, Repeat, RotateCcw, Scale, ScrollText, Settings, Star, Target, Timer, Trash2, Trophy, Upload, Volume2, X, Zap }
+const Icones = { Bomb, BookCheck, BookOpen, BookOpenText, CalendarCheck, CalendarClock, ChartNoAxesColumn, Check, CheckCheck, ChevronRight, Circle, Clock, Construction, Crown, Database, Download, Dumbbell, Flame, Footprints, GraduationCap, Landmark, Lightbulb, Link2, ListChecks, Lock, Map, Medal, Palette, PenLine, Play, Repeat, RotateCcw, Scale, ScrollText, Settings, Smartphone, Star, Target, Timer, Trash2, Trophy, Upload, Volume2, X, Zap }
 
 const base = import.meta.env.BASE_URL
 
