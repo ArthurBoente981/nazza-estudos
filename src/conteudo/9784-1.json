@@ -1,0 +1,175 @@
+{
+  "id": "9784-1",
+  "unidadeId": "9784",
+  "ordem": 1,
+  "titulo": "Abrangência, princípios, direitos e deveres",
+  "materia": "Lei 9.784/99 (Processo administrativo)",
+  "fonte": "Lei 9.784",
+  "dica": "A 9.784 vale para a Administração Federal direta e indireta, e também para Legislativo e Judiciário quando fazem função administrativa. Guarde: órgão = unidade SEM personalidade; entidade = COM personalidade; autoridade = quem tem poder de decisão. Advogado no processo é facultativo (salvo lei em contrário).",
+  "questoes": [
+    {
+      "id": "9784-1-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da Administração Federal ___, visando, em especial, à proteção dos direitos dos administrados.",
+      "banco": [
+        "direta e indireta",
+        "direta",
+        "indireta",
+        "autárquica"
+      ],
+      "correta": "direta e indireta",
+      "explicacao": "A lei alcança a Administração Federal DIRETA E INDIRETA.",
+      "artigo": "Art. 1º, caput"
+    },
+    {
+      "id": "9784-1-02",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Os preceitos da Lei 9.784/99 também se aplicam aos órgãos dos Poderes Legislativo e Judiciário da União quando estiverem no desempenho de função administrativa.",
+      "correta": true,
+      "explicacao": "Correto: o critério é a função ADMINISTRATIVA exercida, mesmo fora do Executivo.",
+      "artigo": "Art. 1º, § 1º"
+    },
+    {
+      "id": "9784-1-03",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Para os fins da Lei 9.784/99, considera-se autoridade:",
+      "opcoes": [
+        "a unidade de atuação dotada de personalidade jurídica",
+        "a unidade de atuação integrante da estrutura da Administração direta",
+        "o servidor ou agente público dotado de poder de decisão",
+        "o administrado que inicia o processo",
+        "a unidade que presta serviços ao público externo"
+      ],
+      "correta": 2,
+      "explicacao": "AUTORIDADE é o servidor ou agente público com poder de decisão. A unidade com personalidade jurídica é a entidade.",
+      "artigo": "Art. 1º, § 2º, III"
+    },
+    {
+      "id": "9784-1-04",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Para os fins desta Lei, considera-se ___ a unidade de atuação dotada de personalidade jurídica.",
+      "banco": [
+        "entidade",
+        "órgão",
+        "autoridade",
+        "agente"
+      ],
+      "correta": "entidade",
+      "explicacao": "Entidade tem personalidade jurídica; ÓRGÃO é só unidade de atuação integrante da estrutura, sem personalidade própria.",
+      "artigo": "Art. 1º, § 2º, II"
+    },
+    {
+      "id": "9784-1-05",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "NÃO consta do rol de princípios do caput do art. 2º da Lei 9.784/99:",
+      "opcoes": [
+        "Segurança jurídica",
+        "Contraditório",
+        "Eficiência",
+        "Proporcionalidade",
+        "Autotutela"
+      ],
+      "correta": 4,
+      "explicacao": "O caput lista legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência. AUTOTUTELA não está lá.",
+      "artigo": "Art. 2º, caput"
+    },
+    {
+      "id": "9784-1-06",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O administrado tem o direito de fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação por força de lei.",
+      "correta": true,
+      "explicacao": "A assistência por advogado é FACULTATIVA, a não ser que a lei exija a representação.",
+      "artigo": "Art. 3º, IV"
+    },
+    {
+      "id": "9784-1-07",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "Entre os critérios do processo está o atendimento a fins de interesse geral, vedada a ___ total ou parcial de poderes ou competências, salvo autorização em lei.",
+      "banco": [
+        "renúncia",
+        "delegação",
+        "avocação",
+        "substituição"
+      ],
+      "correta": "renúncia",
+      "explicacao": "É vedada a RENÚNCIA de poderes ou competências, salvo autorização em lei (a competência é irrenunciável).",
+      "artigo": "Art. 2º, parágrafo único, II"
+    },
+    {
+      "id": "9784-1-08",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Quanto às despesas processuais, a Lei 9.784/99 estabelece:",
+      "opcoes": [
+        "cobrança sempre permitida, a cargo do interessado",
+        "proibição de cobrança, ressalvadas as previstas em lei",
+        "cobrança obrigatória nos processos iniciados a pedido",
+        "isenção apenas para quem comprovar pobreza",
+        "cobrança permitida por ato do dirigente do órgão"
+      ],
+      "correta": 1,
+      "explicacao": "Há PROIBIÇÃO de cobrança de despesas processuais, ressalvadas as previstas em lei.",
+      "artigo": "Art. 2º, parágrafo único, XI"
+    },
+    {
+      "id": "9784-1-09",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo a Lei 9.784/99, é permitida a aplicação retroativa de nova interpretação da norma administrativa, desde que atenda melhor ao fim público.",
+      "correta": false,
+      "explicacao": "Pegadinha: a interpretação deve atender ao fim público, mas é VEDADA a aplicação retroativa de nova interpretação.",
+      "artigo": "Art. 2º, parágrafo único, XIII"
+    },
+    {
+      "id": "9784-1-10",
+      "tipo": "pares",
+      "categoria": "regras",
+      "enunciado": "Ligue o critério do art. 2º à sua vedação:",
+      "pares": [
+        [
+          "Objetividade no atendimento",
+          "Veda promoção pessoal de agentes"
+        ],
+        [
+          "Adequação entre meios e fins",
+          "Veda sanção além do necessário"
+        ],
+        [
+          "Fins de interesse geral",
+          "Veda renúncia de poderes"
+        ],
+        [
+          "Interpretação da norma",
+          "Veda retroação de nova interpretação"
+        ]
+      ],
+      "explicacao": "Cada critério do parágrafo único do art. 2º vem com uma vedação própria.",
+      "artigo": "Art. 2º, parágrafo único, II, III, VI e XIII"
+    },
+    {
+      "id": "9784-1-11",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "É dever do administrado perante a Administração expor os fatos conforme a verdade, proceder com lealdade, urbanidade e boa-fé, não agir de modo temerário e prestar as informações solicitadas.",
+      "correta": true,
+      "explicacao": "Esse é o rol dos DEVERES do administrado, sem prejuízo de outros previstos em ato normativo.",
+      "artigo": "Art. 4º, I a IV"
+    },
+    {
+      "id": "9784-1-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O administrado só pode formular alegações e apresentar documentos depois da decisão, os quais serão considerados em eventual recurso.",
+      "correta": false,
+      "explicacao": "Alegações e documentos são apresentados ANTES da decisão e devem ser considerados pelo órgão competente.",
+      "artigo": "Art. 3º, III"
+    }
+  ]
+}

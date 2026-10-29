@@ -1,0 +1,165 @@
+{
+  "id": "improbidade-2",
+  "unidadeId": "improbidade",
+  "ordem": 2,
+  "titulo": "Sanções, processo e prescrição",
+  "materia": "Lei 8.429/92 (Improbidade)",
+  "fonte": "Lei 8.429",
+  "dica": "Decore a escada: art. 9º = 14 anos (suspensão e proibição de contratar); art. 10 = 12 anos; art. 11 = só multa (até 24x a remuneração) e proibição de 4 anos, sem perda da função e sem suspensão de direitos políticos. Prescrição: 8 anos do fato; interrompida, recomeça pela metade (4 anos). Sanções só depois do trânsito em julgado.",
+  "questoes": [
+    {
+      "id": "improbidade-2-01",
+      "tipo": "lacuna",
+      "texto": "No caso de ato de improbidade que importe enriquecimento ilícito, a suspensão dos direitos políticos será de até ___ anos.",
+      "banco": [
+        "14",
+        "12",
+        "10",
+        "8"
+      ],
+      "correta": "14",
+      "explicacao": "Enriquecimento ilícito (art. 9º) tem a pena mais pesada: suspensão dos direitos políticos de até 14 anos.",
+      "artigo": "Art. 12, I",
+      "categoria": "prazos"
+    },
+    {
+      "id": "improbidade-2-02",
+      "tipo": "lacuna",
+      "texto": "No caso de ato de improbidade que cause prejuízo ao erário, a suspensão dos direitos políticos será de até ___ anos.",
+      "banco": [
+        "12",
+        "14",
+        "8",
+        "5"
+      ],
+      "correta": "12",
+      "explicacao": "Prejuízo ao erário (art. 10): até 12 anos de suspensão dos direitos políticos. Enriquecimento ilícito (art. 9º) é 14.",
+      "artigo": "Art. 12, II",
+      "categoria": "prazos"
+    },
+    {
+      "id": "improbidade-2-03",
+      "tipo": "mc",
+      "enunciado": "Nos casos de violação a princípios da administração pública (art. 11), as sanções previstas no art. 12, III, são:",
+      "opcoes": [
+        "perda da função pública e suspensão dos direitos políticos de até 8 anos",
+        "pagamento de multa civil de até 24 vezes o valor da remuneração percebida pelo agente e proibição de contratar com o poder público por prazo não superior a 4 anos",
+        "perda dos bens acrescidos ilicitamente e multa equivalente ao dano",
+        "suspensão dos direitos políticos de até 4 anos e perda da função pública",
+        "apenas advertência e multa de até 10 vezes a remuneração"
+      ],
+      "correta": 1,
+      "explicacao": "Violação de princípios: só multa civil de até 24 vezes a remuneração e proibição de contratar por até 4 anos. NÃO há perda da função nem suspensão de direitos políticos.",
+      "artigo": "Art. 12, III",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-2-04",
+      "tipo": "ce",
+      "enunciado": "O agente que pratica ato de improbidade do art. 11 pode sofrer suspensão dos direitos políticos, desde que por prazo não superior a 4 anos.",
+      "correta": false,
+      "explicacao": "Pegadinha: os 4 anos são da proibição de CONTRATAR com o poder público. Para o art. 11 não há suspensão de direitos políticos nem perda da função.",
+      "artigo": "Art. 12, III",
+      "categoria": "pegadinhas"
+    },
+    {
+      "id": "improbidade-2-05",
+      "tipo": "ce",
+      "enunciado": "As sanções por ato de improbidade podem ser aplicadas isolada ou cumulativamente, de acordo com a gravidade do fato.",
+      "correta": true,
+      "explicacao": "As sanções do art. 12 são aplicadas isolada ou cumulativamente, conforme a gravidade, sem prejuízo das sanções penais, civis e administrativas.",
+      "artigo": "Art. 12, caput",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-2-06",
+      "tipo": "mc",
+      "enunciado": "A respeito da execução das sanções por ato de improbidade, a Lei 8.429/92 dispõe que elas:",
+      "opcoes": [
+        "podem ser executadas após a sentença de primeiro grau",
+        "podem ser executadas após decisão do tribunal de segunda instância",
+        "só podem ser executadas após o trânsito em julgado da sentença condenatória",
+        "dependem de homologação do Tribunal de Contas",
+        "são executadas imediatamente, mesmo havendo recurso"
+      ],
+      "correta": 2,
+      "explicacao": "As sanções só são executadas após o TRÂNSITO EM JULGADO da sentença condenatória.",
+      "artigo": "Art. 12, § 9º",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-2-07",
+      "tipo": "mc",
+      "enunciado": "Quanto à indisponibilidade de bens na ação de improbidade, a lei estabelece que:",
+      "opcoes": [
+        "é medida automática com o ajuizamento da ação, com urgência sempre presumida",
+        "recai preferencialmente sobre contas bancárias, antes de qualquer outro bem",
+        "é vedada a indisponibilidade de quantia de até 40 salários mínimos depositada em caderneta de poupança, outras aplicações ou conta corrente",
+        "pode atingir sem limite o bem de família, em qualquer hipótese",
+        "pode alcançar a multa civil e o acréscimo patrimonial de atividade lícita"
+      ],
+      "correta": 2,
+      "explicacao": "É vedada a indisponibilidade de até 40 salários mínimos em poupança, aplicações ou conta corrente. A urgência não é presumida e a conta bancária só entra se não houver outros bens.",
+      "artigo": "Art. 16, § 13",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-2-08",
+      "tipo": "ce",
+      "enunciado": "A ação para a aplicação das sanções de improbidade é proposta pelo Ministério Público e segue o procedimento comum previsto no Código de Processo Civil.",
+      "correta": true,
+      "explicacao": "Pela letra do art. 17, a ação é proposta pelo Ministério Público e segue o procedimento comum do CPC. Atenção: o STF (ADIs 7042 e 7043) reconheceu também a legitimidade da PESSOA JURÍDICA interessada; em questão literal, vale o caput.",
+      "artigo": "Art. 17, caput",
+      "categoria": "competencias"
+    },
+    {
+      "id": "improbidade-2-09",
+      "tipo": "mc",
+      "enunciado": "Sobre o acordo de não persecução civil, previsto na Lei 8.429/92, é correto afirmar que:",
+      "opcoes": [
+        "é celebrado pelo Ministério Público e deve assegurar, no mínimo, o ressarcimento integral do dano e a reversão da vantagem indevida obtida",
+        "dispensa o ressarcimento do dano se o agente confessar o ato",
+        "só pode ser feito durante a execução da sentença",
+        "dispensa a homologação judicial",
+        "só pode ser celebrado antes do ajuizamento da ação"
+      ],
+      "correta": 0,
+      "explicacao": "O ANPC exige, no mínimo, ressarcimento integral do dano e reversão da vantagem indevida. Pode ser feito na investigação, na ação ou na execução, e precisa de homologação judicial.",
+      "artigo": "Art. 17-B, caput e § 4º",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-2-10",
+      "tipo": "lacuna",
+      "texto": "A ação para a aplicação das sanções de improbidade prescreve em ___ anos, contados da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+      "banco": [
+        "8",
+        "5",
+        "10",
+        "4"
+      ],
+      "correta": "8",
+      "explicacao": "O prazo prescricional é único de 8 anos, contados do fato ou do dia em que cessou a permanência. Acabaram as regras antigas por tipo de agente.",
+      "artigo": "Art. 23, caput",
+      "categoria": "prazos"
+    },
+    {
+      "id": "improbidade-2-11",
+      "tipo": "ce",
+      "enunciado": "Interrompida a prescrição da ação de improbidade, o prazo recomeça a correr do dia da interrupção, pela metade do prazo previsto no caput do art. 23.",
+      "correta": true,
+      "explicacao": "Interrompida a prescrição, o prazo volta a correr do zero, mas pela METADE do prazo de 8 anos, ou seja, 4 anos. Daí a prescrição intercorrente.",
+      "artigo": "Art. 23, § 5º",
+      "categoria": "prazos"
+    },
+    {
+      "id": "improbidade-2-12",
+      "tipo": "ce",
+      "enunciado": "A instauração de inquérito civil ou de processo administrativo para apurar a improbidade suspende a prescrição por prazo indeterminado, enquanto durar a apuração.",
+      "correta": false,
+      "explicacao": "A suspensão é limitada: no máximo 180 dias corridos, contados da instauração. Não existe suspensão por prazo indeterminado.",
+      "artigo": "Art. 23, § 1º",
+      "categoria": "pegadinhas"
+    }
+  ]
+}

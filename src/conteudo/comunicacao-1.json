@@ -1,0 +1,176 @@
+{
+  "id": "comunicacao-1",
+  "unidadeId": "comunicacao",
+  "ordem": 1,
+  "titulo": "Formas de tratamento (Decreto 9.758/2019)",
+  "dica": "O Decreto 9.758/2019 deixou UM só pronome: SENHOR (senhora, senhores), para qualquer cargo e ocasião. Vedados: Vossa Excelência/Excelentíssimo, Vossa Senhoria, Vossa Magnificência, doutor, ilustre/ilustríssimo, digno/digníssimo e respeitável. Endereçamento sem pronome nem nome.",
+  "questoes": [
+    {
+      "id": "comunicacao-1-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "O único pronome de tratamento utilizado na comunicação com agentes públicos federais é “___”, independentemente do nível hierárquico, da natureza do cargo ou da função ou da ocasião.",
+      "banco": [
+        "senhor",
+        "Vossa Senhoria",
+        "doutor",
+        "Vossa Excelência"
+      ],
+      "correta": "senhor",
+      "explicacao": "O art. 2º fixa “SENHOR” como único pronome de tratamento, inclusive para ministros e o Presidente.",
+      "artigo": "Art. 2º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-02",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "O pronome de tratamento “senhor” admite flexão de gênero e de número.",
+      "correta": true,
+      "explicacao": "O parágrafo único do art. 2º prevê as formas femininas (senhora) e plurais (senhores, senhoras).",
+      "artigo": "Art. 2º, parágrafo único, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-03",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Para tratar um Ministro de Estado em comunicação oficial, o pronome adequado segundo o Decreto 9.758/2019 é:",
+      "opcoes": [
+        "Vossa Excelência",
+        "Vossa Senhoria",
+        "senhor",
+        "doutor",
+        "Vossa Magnificência"
+      ],
+      "correta": 2,
+      "explicacao": "O pronome é único, independentemente do cargo: SENHOR (ou senhora).",
+      "artigo": "Art. 2º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-04",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O tratamento “doutor” é vedado pelo Decreto 9.758/2019 na comunicação com agentes públicos federais.",
+      "correta": true,
+      "explicacao": "O art. 3º veda DOUTOR (mesmo abreviado), junto com Vossa Excelência, Vossa Senhoria, Vossa Magnificência, ilustre, digno e respeitável.",
+      "artigo": "Art. 3º, IV, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-05",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "O Decreto 9.758/2019 aplica-se também a cerimônias de que participe agente público federal.",
+      "correta": true,
+      "explicacao": "O decreto alcança comunicações orais ou escritas e cerimônias das quais o agente público federal participe.",
+      "artigo": "Art. 1º, § 1º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-06",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O Decreto 9.758/2019 aplica-se apenas a servidores efetivos, não alcançando militares nem ocupantes de cargo em comissão.",
+      "correta": false,
+      "explicacao": "O âmbito é amplo: abrange servidores, militares, empregados públicos, temporários, ocupantes de cargo em comissão e autoridades, até o Presidente.",
+      "artigo": "Art. 1º, § 2º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-07",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "O Decreto 9.758, de 11 de abril de 2019, entrou em vigor em 1º de ___ de 2019.",
+      "banco": [
+        "maio",
+        "abril",
+        "junho",
+        "julho"
+      ],
+      "correta": "maio",
+      "explicacao": "O decreto é de 11 de abril de 2019, mas entrou em vigor em 1º de MAIO de 2019.",
+      "artigo": "Art. 5º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-08",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Quanto ao endereçamento das comunicações a agentes públicos federais, o decreto admite que conste o nome do destinatário quando:",
+      "opcoes": [
+        "a indicação do cargo, função e setor for insuficiente para identificá-lo",
+        "o destinatário tiver título de doutor",
+        "a comunicação for urgente",
+        "o destinatário for Ministro de Estado",
+        "o destinatário solicitar"
+      ],
+      "correta": 0,
+      "explicacao": "Como regra, o endereçamento indica cargo, função e setor, sem pronome nem nome. O nome entra quando essa indicação não basta ou quando se dirige a agente específico.",
+      "artigo": "Art. 4º, parágrafo único, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-09",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O agente público pode negar-se a praticar ato administrativo ou repreender o interlocutor no processo caso este use forma de tratamento incorreta.",
+      "correta": false,
+      "explicacao": "O § 2º do art. 3º PROÍBE recusar a prática de ato ou admoestar o interlocutor por causa de tratamento incorreto.",
+      "artigo": "Art. 3º, § 2º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-10",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Não se aplica o Decreto 9.758/2019 à comunicação com:",
+      "opcoes": [
+        "servidores efetivos federais",
+        "militares",
+        "ocupantes de cargo em comissão",
+        "autoridades estrangeiras e organismos internacionais",
+        "o Presidente da República"
+      ],
+      "correta": 3,
+      "explicacao": "O art. 1º, § 3º, exclui as autoridades estrangeiras e os organismos internacionais (e, quando norma própria exigir, agentes de outros Poderes e entes).",
+      "artigo": "Art. 1º, § 3º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-11",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue o artigo do Decreto 9.758/2019 ao assunto:",
+      "pares": [
+        [
+          "Art. 2º",
+          "Pronome único: senhor"
+        ],
+        [
+          "Art. 3º",
+          "Formas de tratamento vedadas"
+        ],
+        [
+          "Art. 4º",
+          "Endereçamento das correspondências"
+        ],
+        [
+          "Art. 1º, § 3º",
+          "Hipóteses de não aplicação"
+        ]
+      ],
+      "explicacao": "Quatro dispositivos centrais: pronome único (2º), vedações (3º), endereçamento (4º) e exceções (1º, § 3º).",
+      "artigo": "Arts. 1º a 4º, Decreto 9.758"
+    },
+    {
+      "id": "comunicacao-1-12",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "NÃO consta entre as formas de tratamento vedadas pelo Decreto 9.758/2019:",
+      "opcoes": [
+        "Vossa Magnificência",
+        "ilustríssimo",
+        "digníssimo",
+        "respeitável",
+        "senhora"
+      ],
+      "correta": 4,
+      "explicacao": "“Senhora” é a flexão feminina do pronome permitido. As demais são formas vedadas, mesmo abreviadas.",
+      "artigo": "Art. 3º, Decreto 9.758"
+    }
+  ],
+  "materia": "Decreto 9.758/19 (Comunicação oficial)",
+  "fonte": "Decreto 9.758"
+}

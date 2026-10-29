@@ -1,0 +1,180 @@
+{
+  "id": "principios-1",
+  "unidadeId": "principios",
+  "ordem": 1,
+  "titulo": "Princípios expressos (LIMPE)",
+  "dica": "LIMPE: Legalidade, Impessoalidade, Moralidade, Publicidade, Eficiência, todos no caput do art. 37 da CF. A eficiência veio depois, com a EC 19/98. Falou em ética e probidade? Moralidade. Falou em favoritismo ou promoção pessoal? Impessoalidade.",
+  "questoes": [
+    {
+      "id": "principios-1-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A administração pública direta e indireta de qualquer dos Poderes obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e ___.",
+      "banco": [
+        "eficiência",
+        "razoabilidade",
+        "economicidade",
+        "finalidade"
+      ],
+      "correta": "eficiência",
+      "explicacao": "O quinto princípio expresso do caput é a EFICIÊNCIA. Razoabilidade e finalidade são princípios implícitos (ou da Lei 9.784).",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "principios-1-02",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "O princípio que exige do administrador respeito a padrões éticos, probidade, lealdade e boa-fé é o da:",
+      "opcoes": [
+        "legalidade",
+        "impessoalidade",
+        "moralidade",
+        "publicidade",
+        "eficiência"
+      ],
+      "correta": 2,
+      "explicacao": "Ética e probidade na atuação administrativa são marca da MORALIDADE.",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "principios-1-03",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "O princípio da eficiência foi inserido no caput do art. 37 da Constituição pela Emenda Constitucional 19/98.",
+      "correta": true,
+      "explicacao": "Verdade. A EC 19/98 (reforma administrativa) acrescentou a EFICIÊNCIA aos quatro princípios que já estavam no texto original de 1988.",
+      "artigo": "Art. 37, caput, CF (EC 19/98)"
+    },
+    {
+      "id": "principios-1-04",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue cada princípio expresso ao que ele exige:",
+      "pares": [
+        [
+          "Legalidade",
+          "Agir só com autorização da lei"
+        ],
+        [
+          "Impessoalidade",
+          "Critérios objetivos, sem favoritismo"
+        ],
+        [
+          "Moralidade",
+          "Probidade, lealdade e boa-fé"
+        ],
+        [
+          "Publicidade",
+          "Divulgação oficial e transparência"
+        ],
+        [
+          "Eficiência",
+          "Presteza e bons resultados"
+        ]
+      ],
+      "explicacao": "Cada princípio do LIMPE tem uma ideia central; decorar a associação evita confusão entre eles.",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "principios-1-05",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Pelo princípio da legalidade, a Administração Pública pode fazer tudo o que a lei não proíbe.",
+      "correta": false,
+      "explicacao": "Essa regra vale para o PARTICULAR. A Administração só pode fazer o que a lei autoriza ou determina.",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "principios-1-06",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Uma autoridade concede alvará a uma empresa apenas porque o dono é seu amigo, ignorando os critérios objetivos exigidos. Fere, principalmente, o princípio da:",
+      "opcoes": [
+        "publicidade",
+        "eficiência",
+        "legalidade",
+        "impessoalidade",
+        "motivação"
+      ],
+      "correta": 3,
+      "explicacao": "Favoritismo e perseguição contrariam a IMPESSOALIDADE: todos devem ser tratados com neutralidade e critérios objetivos.",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "principios-1-07",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem ___ pessoal de autoridades ou servidores públicos.",
+      "banco": [
+        "promoção",
+        "propaganda",
+        "identificação",
+        "divulgação"
+      ],
+      "correta": "promoção",
+      "explicacao": "A vedação à PROMOÇÃO pessoal na publicidade oficial está no § 1º do art. 37.",
+      "artigo": "Art. 37, § 1º, CF"
+    },
+    {
+      "id": "principios-1-08",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Panfleto oficial de uma prefeitura, divulgando uma obra com a foto e o nome do prefeito em destaque, está de acordo com a Constituição.",
+      "correta": false,
+      "explicacao": "Nome, símbolo ou imagem que caracterize promoção pessoal é vedado na publicidade oficial; a doutrina liga isso à IMPESSOALIDADE.",
+      "artigo": "Art. 37, § 1º, CF"
+    },
+    {
+      "id": "principios-1-09",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "A divulgação oficial dos atos administrativos, que permite o controle social e a produção de efeitos externos desses atos, decorre do princípio da:",
+      "opcoes": [
+        "moralidade",
+        "publicidade",
+        "impessoalidade",
+        "eficiência",
+        "legalidade"
+      ],
+      "correta": 1,
+      "explicacao": "A PUBLICIDADE garante transparência e é o ponto de partida para a eficácia dos atos perante terceiros.",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "principios-1-10",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O princípio da publicidade é absoluto: a Constituição não admite sigilo de atos administrativos em nenhuma hipótese.",
+      "correta": false,
+      "explicacao": "A publicidade NÃO é absoluta. O sigilo é admitido quando imprescindível à segurança da sociedade e do Estado, além da proteção da intimidade.",
+      "artigo": "Art. 37, caput, e Art. 5º, XXXIII e LX, CF"
+    },
+    {
+      "id": "principios-1-11",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "O princípio da eficiência está ligado à ideia de uma administração pública:",
+      "opcoes": [
+        "patrimonialista, voltada ao governante",
+        "burocrática, centrada só nos procedimentos",
+        "gerencial, voltada a resultados",
+        "discricionária, sem controle",
+        "hierárquica, sem participação do cidadão"
+      ],
+      "correta": 2,
+      "explicacao": "A EC 19/98 consolidou o modelo GERENCIAL: foco em resultado, presteza, rendimento e bom uso dos recursos.",
+      "artigo": "Art. 37, caput, CF (EC 19/98)"
+    },
+    {
+      "id": "principios-1-12",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Um ato administrativo pode respeitar a forma prevista em lei e, mesmo assim, violar o princípio da moralidade.",
+      "correta": true,
+      "explicacao": "A moralidade vai além da legalidade formal: exige honestidade e boa-fé. Um ato legal na forma pode ser imoral na finalidade.",
+      "artigo": "Art. 37, caput, CF"
+    }
+  ],
+  "materia": "Princípios constitucionais",
+  "fonte": "CF/88"
+}

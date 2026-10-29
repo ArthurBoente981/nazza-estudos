@@ -1,0 +1,169 @@
+{
+  "id": "tae-1",
+  "unidadeId": "tae",
+  "ordem": 1,
+  "titulo": "Estrutura da carreira TAE",
+  "materia": "Lei 11.091/05 (Carreira TAE)",
+  "fonte": "Lei 11.091",
+  "dica": "O plano de carreira dos TAE segue o regime da Lei 8.112 e tem cinco níveis de classificação: A, B, C, D e E. O ingresso é sempre por concurso, no PADRÃO INICIAL. Mnemônico: A-B-C-D-E, do mais básico ao superior. Atenção: a Lei 15.141/2025 mexeu na estrutura (acabou o nível de capacitação).",
+  "questoes": [
+    {
+      "id": "tae-1-01",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O regime jurídico dos cargos do Plano de Carreira dos cargos técnico-administrativos em educação é o da Lei 8.112/90, observadas as disposições da Lei 11.091/05.",
+      "correta": true,
+      "explicacao": "Os cargos do plano são regidos pela Lei 8.112/90 (estatutária), com as regras específicas da própria Lei 11.091.",
+      "artigo": "Art. 1º, § 2º"
+    },
+    {
+      "id": "tae-1-02",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Plano de carreira: conjunto de princípios, diretrizes e normas que regulam o ___ profissional dos servidores titulares de cargos que integram determinada carreira, constituindo-se em instrumento de gestão do órgão ou entidade.",
+      "banco": [
+        "desenvolvimento",
+        "afastamento",
+        "recrutamento",
+        "enquadramento"
+      ],
+      "correta": "desenvolvimento",
+      "explicacao": "O plano de carreira trata do DESENVOLVIMENTO profissional do servidor na carreira.",
+      "artigo": "Art. 5º, I"
+    },
+    {
+      "id": "tae-1-03",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "O conjunto de cargos de mesma hierarquia, classificados a partir de escolaridade, responsabilidade, conhecimentos, experiência, risco e esforço físico, é denominado:",
+      "opcoes": [
+        "Nível de classificação",
+        "Ambiente organizacional",
+        "Padrão de vencimento",
+        "Plano de carreira",
+        "Cargo"
+      ],
+      "correta": 0,
+      "explicacao": "É o conceito de NÍVEL DE CLASSIFICAÇÃO. Cargo é o conjunto de atribuições e responsabilidades cometidas a um servidor.",
+      "artigo": "Art. 5º, II"
+    },
+    {
+      "id": "tae-1-04",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Os usuários, na Lei 11.091/05, são apenas as pessoas ou coletividades externas à instituição que utilizam seus serviços.",
+      "correta": false,
+      "explicacao": "Usuários são pessoas ou coletividades INTERNAS ou externas, que usam direta ou indiretamente os serviços da instituição.",
+      "artigo": "Art. 5º, VII"
+    },
+    {
+      "id": "tae-1-05",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "A gestão dos cargos do Plano de Carreira observará, entre seus princípios e diretrizes, a investidura em cada cargo condicionada à aprovação em ___ público.",
+      "banco": [
+        "concurso",
+        "sorteio",
+        "entrevista",
+        "indicação"
+      ],
+      "correta": "concurso",
+      "explicacao": "A investidura em cada cargo depende de aprovação em CONCURSO público, diretriz do plano.",
+      "artigo": "Art. 3º, VI"
+    },
+    {
+      "id": "tae-1-06",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue cada conceito à sua definição:",
+      "pares": [
+        [
+          "Cargo",
+          "Conj. de atribuições de um servidor"
+        ],
+        [
+          "Ambiente organizacional",
+          "Área específica de atuação do servidor"
+        ],
+        [
+          "Usuários",
+          "Quem usa os serviços da instituição"
+        ],
+        [
+          "Nível de classificação",
+          "Agrupa cargos de mesma hierarquia"
+        ]
+      ],
+      "explicacao": "Definições do art. 5º: cargo (atribuições e responsabilidades), ambiente organizacional (área de atuação), usuários e nível de classificação.",
+      "artigo": "Art. 5º, II, IV, VI e VII"
+    },
+    {
+      "id": "tae-1-07",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Uma das diretrizes do plano é o reconhecimento do saber não instituído resultante da atuação profissional na dinâmica de ensino, de pesquisa e de extensão.",
+      "correta": true,
+      "explicacao": "O reconhecimento do SABER NÃO INSTITUÍDO consta expressamente entre os princípios e diretrizes do plano.",
+      "artigo": "Art. 3º, IV"
+    },
+    {
+      "id": "tae-1-08",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Constitui princípio ou diretriz da gestão dos cargos do Plano de Carreira, EXCETO:",
+      "opcoes": [
+        "Considerar a natureza do processo educativo e a função social do Sistema Federal de Ensino",
+        "Vincular a gestão de cargos ao planejamento estratégico e ao desenvolvimento organizacional",
+        "Condicionar a investidura em cada cargo à aprovação em concurso público",
+        "Garantir programas de capacitação com formação específica e geral",
+        "Permitir o ingresso por indicação da chefia, dispensado o concurso"
+      ],
+      "correta": 4,
+      "explicacao": "O ingresso é por CONCURSO público; indicação sem concurso contraria o plano e a CF.",
+      "artigo": "Art. 3º"
+    },
+    {
+      "id": "tae-1-09",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Pela redação vigente da Lei 11.091/05 (Lei 15.141/2025), o cargo de Técnico em Educação integra o nível de classificação:",
+      "opcoes": [
+        "D",
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "correta": 0,
+      "explicacao": "Técnico em Educação é nível D; Analista em Educação é nível E.",
+      "artigo": "Art. 7º-B"
+    },
+    {
+      "id": "tae-1-10",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O ingresso nos cargos do plano ocorre mediante concurso público, no último padrão de vencimento do respectivo nível de classificação.",
+      "correta": false,
+      "explicacao": "O ingresso se dá no PADRÃO INICIAL do nível de classificação, por concurso de provas ou de provas e títulos.",
+      "artigo": "Art. 9º"
+    },
+    {
+      "id": "tae-1-11",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O concurso para ingresso na carreira pode ser organizado por áreas de especialização, em uma ou mais fases, e incluir curso de formação.",
+      "correta": true,
+      "explicacao": "A lei admite concurso por áreas de especialização, em mais de uma fase e com curso de formação.",
+      "artigo": "Art. 9º, § 1º"
+    },
+    {
+      "id": "tae-1-12",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Segundo a redação vigente, o padrão de vencimento é a posição do servidor na escala de vencimento da carreira em função do cargo e do nível de classificação.",
+      "correta": true,
+      "explicacao": "Após a Lei 15.141/2025 o padrão não depende mais do nível de capacitação (inciso V revogado). Cuidado com provas antigas.",
+      "artigo": "Art. 5º, III"
+    }
+  ]
+}

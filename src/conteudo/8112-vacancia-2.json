@@ -1,0 +1,171 @@
+{
+  "id": "8112-vacancia-2",
+  "unidadeId": "8112-vacancia",
+  "ordem": 2,
+  "titulo": "Remoção",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Remoção = deslocamento no MESMO quadro, com ou sem mudança de sede. Três modalidades: de ofício (interesse da Administração), a pedido a critério da Administração, e a pedido independentemente do interesse (cônjuge, saúde, processo seletivo). Não confunda com redistribuição, que muda de órgão e mexe no cargo.",
+  "questoes": [
+    {
+      "id": "8112-vacancia-2-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Remoção é o deslocamento do servidor, a pedido ou de ofício, no âmbito do mesmo ___, com ou sem mudança de sede.",
+      "banco": [
+        "quadro",
+        "órgão",
+        "Poder",
+        "município"
+      ],
+      "correta": "quadro",
+      "explicacao": "Remoção ocorre no âmbito do mesmo QUADRO, com ou sem mudança de sede. Mudar de órgão ou entidade é redistribuição.",
+      "artigo": "Art. 36, caput"
+    },
+    {
+      "id": "8112-vacancia-2-02",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Segundo o parágrafo único do art. 36 da Lei 8.112/90, NÃO é modalidade de remoção:",
+      "opcoes": [
+        "de ofício, no interesse da Administração",
+        "a pedido, a critério da Administração",
+        "a pedido, para outra localidade, independentemente do interesse da Administração",
+        "a pedido, para outra localidade, por motivo de saúde do servidor, comprovado por junta médica oficial",
+        "por permuta obrigatória entre servidores de carreiras diferentes"
+      ],
+      "correta": 4,
+      "explicacao": "As modalidades são três (de ofício; a pedido a critério da Administração; a pedido independentemente do interesse). Permuta obrigatória entre carreiras não existe na lei.",
+      "artigo": "Art. 36, parágrafo único"
+    },
+    {
+      "id": "8112-vacancia-2-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A remoção, por ser deslocamento do servidor, só pode ocorrer com mudança de sede.",
+      "correta": false,
+      "explicacao": "A remoção pode ser COM ou SEM mudança de sede, como diz o caput do art. 36.",
+      "artigo": "Art. 36, caput"
+    },
+    {
+      "id": "8112-vacancia-2-04",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A remoção de ofício é a realizada no interesse da Administração.",
+      "correta": true,
+      "explicacao": "Remoção de ofício = no interesse da Administração, por ato dela, sem pedido do servidor.",
+      "artigo": "Art. 36, parágrafo único, I"
+    },
+    {
+      "id": "8112-vacancia-2-05",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "A remoção a pedido, para outra localidade, independentemente do interesse da Administração, é cabível nas seguintes hipóteses, EXCETO:",
+      "opcoes": [
+        "para acompanhar cônjuge ou companheiro servidor deslocado no interesse da Administração",
+        "por motivo de saúde do servidor, cônjuge, companheiro ou dependente, comprovado por junta médica oficial",
+        "em virtude de processo seletivo, quando houver mais interessados do que vagas",
+        "por conveniência pessoal do servidor, sem outra justificativa",
+        "por motivo de saúde de dependente que viva às expensas do servidor e conste do seu assentamento funcional"
+      ],
+      "correta": 3,
+      "explicacao": "Conveniência pessoal sem amparo legal NÃO obriga a Administração: seria remoção a pedido a CRITÉRIO dela (inciso II), e não independentemente do interesse (inciso III).",
+      "artigo": "Art. 36, parágrafo único, III"
+    },
+    {
+      "id": "8112-vacancia-2-06",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "A remoção por motivo de saúde do servidor, cônjuge, companheiro ou dependente fica condicionada à comprovação por junta ___ oficial.",
+      "banco": [
+        "médica",
+        "pericial",
+        "administrativa",
+        "disciplinar"
+      ],
+      "correta": "médica",
+      "explicacao": "A comprovação é feita por JUNTA MÉDICA oficial. Laudo particular, por si só, não basta.",
+      "artigo": "Art. 36, parágrafo único, III, b"
+    },
+    {
+      "id": "8112-vacancia-2-07",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Para acompanhar cônjuge ou companheiro, também servidor público, que foi deslocado no interesse da Administração, o servidor tem direito à remoção a pedido independentemente do interesse da Administração.",
+      "correta": true,
+      "explicacao": "Alínea a do inciso III. O cônjuge ou companheiro pode ser servidor civil ou militar de qualquer dos Poderes e de qualquer esfera, desde que tenha sido deslocado no INTERESSE DA ADMINISTRAÇÃO.",
+      "artigo": "Art. 36, parágrafo único, III, a"
+    },
+    {
+      "id": "8112-vacancia-2-08",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue a modalidade de remoção à sua característica:",
+      "pares": [
+        [
+          "De ofício",
+          "No interesse da Administração"
+        ],
+        [
+          "A pedido, a critério",
+          "Administração decide se concede"
+        ],
+        [
+          "A pedido, sem interesse",
+          "Cônjuge, saúde, seletivo"
+        ]
+      ],
+      "explicacao": "Inciso I: de ofício. Inciso II: a pedido, a critério da Administração (discricionária). Inciso III: a pedido, independentemente do interesse, só nas hipóteses das alíneas a, b e c.",
+      "artigo": "Art. 36, parágrafo único, I a III"
+    },
+    {
+      "id": "8112-vacancia-2-09",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "Um servidor de um ministério é deslocado, com o seu cargo, para outro ministério do mesmo Poder, ocorrendo apenas ajuste da força de trabalho. Esse instituto é:",
+      "opcoes": [
+        "remoção de ofício",
+        "remoção a pedido",
+        "redistribuição",
+        "readaptação",
+        "recondução"
+      ],
+      "correta": 2,
+      "explicacao": "Se muda de órgão e o CARGO vai junto, é REDISTRIBUIÇÃO (art. 37). Remoção é dentro do mesmo quadro.",
+      "artigo": "Art. 36 e Art. 37"
+    },
+    {
+      "id": "8112-vacancia-2-10",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A remoção em virtude de processo seletivo promovido, quando o número de interessados for superior ao de vagas, segue normas preestabelecidas pelo órgão ou entidade em que os interessados estiverem lotados.",
+      "correta": true,
+      "explicacao": "Alínea c do inciso III: processo seletivo quando há mais interessados que vagas, conforme normas preestabelecidas do órgão ou entidade de lotação.",
+      "artigo": "Art. 36, parágrafo único, III, c"
+    },
+    {
+      "id": "8112-vacancia-2-11",
+      "tipo": "lacuna",
+      "categoria": "tipos",
+      "texto": "A remoção a pedido, a ___ da Administração, é a modalidade em que a Administração decide se concede ou não o deslocamento.",
+      "banco": [
+        "critério",
+        "interesse",
+        "obrigação",
+        "ordem"
+      ],
+      "correta": "critério",
+      "explicacao": "A pedido, a CRITÉRIO da Administração (discricionária). A pedido, independentemente do interesse, é direito do servidor nas hipóteses legais.",
+      "artigo": "Art. 36, parágrafo único, II"
+    },
+    {
+      "id": "8112-vacancia-2-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A remoção por motivo de saúde só alcança o próprio servidor, não podendo ser concedida por motivo de saúde de cônjuge, companheiro ou dependente.",
+      "correta": false,
+      "explicacao": "A lei admite remoção por saúde do servidor, do cônjuge, do companheiro OU de dependente que viva às suas expensas e conste do seu assentamento funcional.",
+      "artigo": "Art. 36, parágrafo único, III, b"
+    }
+  ]
+}

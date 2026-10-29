@@ -1,0 +1,165 @@
+{
+  "id": "9784-3",
+  "unidadeId": "9784",
+  "ordem": 3,
+  "titulo": "Instrução, decisão, anulação e recurso",
+  "materia": "Lei 9.784/99 (Processo administrativo)",
+  "fonte": "Lei 9.784",
+  "dica": "Provas ilícitas são inadmissíveis. Parecer obrigatório: 15 dias. Depois da instrução, 30 dias para decidir (prorrogável por igual período motivado). Anulação de ato favorável decai em 5 anos (salvo má-fé). Recurso: 10 dias, em regra sem efeito suspensivo, até 3 instâncias. Na revisão não se agrava a sanção.",
+  "questoes": [
+    {
+      "id": "9784-3-01",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "São inadmissíveis no processo administrativo as provas obtidas por ___.",
+      "banco": [
+        "meios ilícitos",
+        "meios indiretos",
+        "meios orais",
+        "terceiros"
+      ],
+      "correta": "meios ilícitos",
+      "explicacao": "Prova obtida por MEIOS ILÍCITOS é inadmissível no processo administrativo.",
+      "artigo": "Art. 30"
+    },
+    {
+      "id": "9784-3-02",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Salvo disposição legal em contrário, o recurso administrativo tem efeito suspensivo.",
+      "correta": false,
+      "explicacao": "Regra: recurso NÃO tem efeito suspensivo, mas a autoridade pode concedê-lo se houver justo receio de prejuízo de difícil ou incerta reparação.",
+      "artigo": "Art. 61"
+    },
+    {
+      "id": "9784-3-03",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido no prazo máximo de:",
+      "opcoes": [
+        "5 dias",
+        "10 dias",
+        "15 dias",
+        "30 dias",
+        "45 dias"
+      ],
+      "correta": 2,
+      "explicacao": "O parecer obrigatório deve sair em até 15 dias, salvo norma especial ou comprovada necessidade de maior prazo.",
+      "artigo": "Art. 42, caput"
+    },
+    {
+      "id": "9784-3-04",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "O comparecimento à consulta pública não confere, por si, a condição de ___ do processo, mas dá direito a resposta fundamentada.",
+      "banco": [
+        "interessado",
+        "parte",
+        "legitimado",
+        "recorrente"
+      ],
+      "correta": "interessado",
+      "explicacao": "Quem comparece à consulta pública não vira INTERESSADO, mas tem direito a resposta fundamentada.",
+      "artigo": "Art. 31, § 2º"
+    },
+    {
+      "id": "9784-3-05",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Concluída a instrução, a Administração tem o prazo para decidir de até:",
+      "opcoes": [
+        "10 dias, improrrogáveis",
+        "15 dias, prorrogáveis por igual período",
+        "30 dias, salvo prorrogação por igual período expressamente motivada",
+        "60 dias, prorrogáveis uma vez",
+        "90 dias, sem possibilidade de prorrogação"
+      ],
+      "correta": 2,
+      "explicacao": "São até 30 dias para decidir, prorrogáveis por igual período, com motivação expressa.",
+      "artigo": "Art. 49"
+    },
+    {
+      "id": "9784-3-06",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Se um parecer obrigatório e vinculante deixar de ser emitido no prazo, o processo poderá ser decidido com sua dispensa.",
+      "correta": false,
+      "explicacao": "Isso vale só para parecer obrigatório e NÃO vinculante. Se for vinculante, o processo não tem seguimento até a apresentação do parecer.",
+      "artigo": "Art. 42, §§ 1º e 2º"
+    },
+    {
+      "id": "9784-3-07",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "O direito da Administração de anular os atos de que decorram efeitos favoráveis para os destinatários decai em ___ anos, contados da data em que foram praticados, salvo comprovada má-fé.",
+      "banco": [
+        "5",
+        "10",
+        "3",
+        "2"
+      ],
+      "correta": "5",
+      "explicacao": "O prazo decadencial é de 5 anos. Em efeitos patrimoniais contínuos, conta-se do primeiro pagamento.",
+      "artigo": "Art. 54, caput e § 1º"
+    },
+    {
+      "id": "9784-3-08",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Quando o ato é eivado de vício de legalidade, a Administração tem mera faculdade de anulá-lo.",
+      "correta": false,
+      "explicacao": "A Administração DEVE anular seus atos ilegais. A faculdade existe na REVOGAÇÃO, por conveniência ou oportunidade, respeitados os direitos adquiridos.",
+      "artigo": "Art. 53"
+    },
+    {
+      "id": "9784-3-09",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Salvo disposição legal específica, o prazo para interposição de recurso administrativo, contado da ciência da decisão, é de:",
+      "opcoes": [
+        "5 dias",
+        "10 dias",
+        "15 dias",
+        "30 dias",
+        "60 dias"
+      ],
+      "correta": 1,
+      "explicacao": "O prazo do recurso é de 10 dias. Os 5 dias são para a autoridade reconsiderar antes de enviar à superior.",
+      "artigo": "Art. 59, caput; Art. 56, § 1º"
+    },
+    {
+      "id": "9784-3-10",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Os atos administrativos que importem anulação, revogação, suspensão ou convalidação de ato administrativo devem ser motivados, com indicação dos fatos e dos fundamentos jurídicos.",
+      "correta": true,
+      "explicacao": "Anulação, revogação, suspensão ou convalidação exigem MOTIVAÇÃO expressa.",
+      "artigo": "Art. 50, VIII"
+    },
+    {
+      "id": "9784-3-11",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Se da decisão do recurso puder decorrer gravame à situação do recorrente, a Lei 9.784/99 determina que:",
+      "opcoes": [
+        "a decisão é vedada em qualquer hipótese",
+        "o recorrente seja cientificado para formular alegações antes da decisão",
+        "a decisão seja tomada sem ouvir o recorrente",
+        "o recurso seja arquivado de ofício",
+        "o agravamento dependa de autorização judicial"
+      ],
+      "correta": 1,
+      "explicacao": "No recurso, a piora é possível, mas o recorrente deve ser CIENTIFICADO para alegar antes. Na REVISÃO de sanção, o agravamento é proibido.",
+      "artigo": "Art. 64, parágrafo único"
+    },
+    {
+      "id": "9784-3-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Da revisão de processo administrativo de que resultem sanções, quando surgirem fatos novos, pode resultar o agravamento da sanção aplicada.",
+      "correta": false,
+      "explicacao": "A revisão pode ocorrer a qualquer tempo, mas dela NÃO pode resultar agravamento da sanção.",
+      "artigo": "Art. 65, parágrafo único"
+    }
+  ]
+}

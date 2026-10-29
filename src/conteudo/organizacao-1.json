@@ -1,0 +1,176 @@
+{
+  "id": "organizacao-1",
+  "unidadeId": "organizacao",
+  "ordem": 1,
+  "titulo": "Centralização, descentralização e órgãos",
+  "materia": "Organização administrativa",
+  "fonte": "DL 200/67",
+  "dica": "Desconcentração = divide competências DENTRO da mesma pessoa jurídica (cria órgãos). Descentralização = passa a outra pessoa: por OUTORGA (lei cria entidade, transfere titularidade) ou por DELEGAÇÃO (contrato/ato, só a execução). Órgão não tem personalidade jurídica; entidade tem.",
+  "questoes": [
+    {
+      "id": "organizacao-1-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A Administração Direta constitui-se dos serviços integrados na estrutura administrativa da ___ e dos Ministérios.",
+      "banco": [
+        "Presidência da República",
+        "Câmara dos Deputados",
+        "Ministério Público",
+        "Tribunal de Contas"
+      ],
+      "correta": "Presidência da República",
+      "explicacao": "Direta = serviços integrados na estrutura da Presidência da República e dos Ministérios.",
+      "artigo": "Art. 4º, I, DL 200/67"
+    },
+    {
+      "id": "organizacao-1-02",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "As entidades da Administração Indireta são dotadas de personalidade jurídica própria.",
+      "correta": true,
+      "explicacao": "A Indireta é formada por entidades com personalidade jurídica própria; a Direta é formada por órgãos.",
+      "artigo": "Art. 4º, II, DL 200/67"
+    },
+    {
+      "id": "organizacao-1-03",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "A distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, sem criar nova pessoa, chama-se:",
+      "opcoes": [
+        "Desconcentração",
+        "Descentralização por outorga",
+        "Descentralização por delegação",
+        "Concentração",
+        "Centralização por avocação"
+      ],
+      "correta": 0,
+      "explicacao": "É a DESCONCENTRAÇÃO (dentro da mesma pessoa). Descentralização envolve OUTRA pessoa jurídica. Atenção: o DL 200 (art. 10, § 1º, a) chama esse caso de \"descentralização dentro dos quadros\".",
+      "artigo": "Doutrina; DL 200/67, art. 10, § 1º, a"
+    },
+    {
+      "id": "organizacao-1-04",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Na desconcentração, a Administração transfere competências a uma nova pessoa jurídica.",
+      "correta": false,
+      "explicacao": "Isso é DESCENTRALIZAÇÃO. Na desconcentração a competência fica na mesma pessoa jurídica, distribuída entre órgãos.",
+      "artigo": "Doutrina; DL 200/67, art. 10, § 1º, a"
+    },
+    {
+      "id": "organizacao-1-05",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "A descentralização por outorga ocorre quando:",
+      "opcoes": [
+        "A lei cria ou autoriza a criação de uma entidade e lhe transfere a titularidade e a execução do serviço",
+        "Um contrato transfere a particular apenas a execução do serviço",
+        "O chefe delega tarefas rotineiras ao subordinado",
+        "Um órgão é criado dentro do ministério",
+        "O serviço retorna ao Estado por encampação"
+      ],
+      "correta": 0,
+      "explicacao": "Outorga é feita por LEI e transfere titularidade e execução; delegação é feita por contrato ou ato e transfere só a execução.",
+      "artigo": "Art. 37, XIX, CF/88"
+    },
+    {
+      "id": "organizacao-1-06",
+      "tipo": "ce",
+      "categoria": "tipos",
+      "enunciado": "A descentralização da Administração Federal para a órbita privada pode ocorrer mediante contratos ou concessões.",
+      "correta": true,
+      "explicacao": "É a descentralização por colaboração/delegação: o particular só executa, e o Estado mantém a titularidade.",
+      "artigo": "Art. 10, § 1º, c, DL 200/67"
+    },
+    {
+      "id": "organizacao-1-07",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue o conceito ao seu significado:",
+      "pares": [
+        [
+          "Desconcentração",
+          "Divisão interna de competências"
+        ],
+        [
+          "Concentração",
+          "Competências em um só órgão"
+        ],
+        [
+          "Descentralização por outorga",
+          "Lei transfere titularidade e execução"
+        ],
+        [
+          "Desc. por delegação",
+          "Só a execução, por contrato ou ato"
+        ]
+      ],
+      "explicacao": "Desconcentração e concentração ocorrem DENTRO da pessoa jurídica; outorga e delegação são formas de descentralização.",
+      "artigo": "Art. 10, § 1º, DL 200/67 e Art. 37, XIX, CF/88"
+    },
+    {
+      "id": "organizacao-1-08",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Segundo a Lei 9.784/99, órgão é:",
+      "opcoes": [
+        "A unidade de atuação integrante da estrutura da Administração direta e da indireta",
+        "A unidade de atuação dotada de personalidade jurídica",
+        "O agente investido do poder de decisão",
+        "A entidade criada por lei específica",
+        "O conjunto de servidores de uma autarquia"
+      ],
+      "correta": 0,
+      "explicacao": "Órgão é unidade de atuação SEM personalidade própria; a dotada de personalidade é a ENTIDADE.",
+      "artigo": "Art. 1º, § 2º, I, Lei 9.784/99"
+    },
+    {
+      "id": "organizacao-1-09",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo a Lei 9.784/99, o órgão público é dotado de personalidade jurídica própria.",
+      "correta": false,
+      "explicacao": "Quem tem personalidade jurídica é a ENTIDADE. O órgão é mera unidade de atuação dentro da pessoa jurídica.",
+      "artigo": "Art. 1º, § 2º, I e II, Lei 9.784/99"
+    },
+    {
+      "id": "organizacao-1-10",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "NÃO é princípio fundamental a que obedecem as atividades da Administração Federal, nos termos do DL 200/67:",
+      "opcoes": [
+        "Moralidade",
+        "Planejamento",
+        "Coordenação",
+        "Descentralização",
+        "Delegação de competência"
+      ],
+      "correta": 0,
+      "explicacao": "O art. 6º lista: planejamento, coordenação, descentralização, delegação de competência e controle. Moralidade é da CF (art. 37), não do rol.",
+      "artigo": "Art. 6º, DL 200/67"
+    },
+    {
+      "id": "organizacao-1-11",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A decisão de recursos administrativos pode ser objeto de delegação.",
+      "correta": false,
+      "explicacao": "Não podem ser delegados: atos normativos, decisão de RECURSOS administrativos e matérias de competência exclusiva.",
+      "artigo": "Art. 13, II, Lei 9.784/99"
+    },
+    {
+      "id": "organizacao-1-12",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "O ato de delegação é revogável a qualquer ___ pela autoridade delegante.",
+      "banco": [
+        "tempo",
+        "prazo",
+        "título",
+        "juízo"
+      ],
+      "correta": "tempo",
+      "explicacao": "A delegação é precária: pode ser revogada A QUALQUER TEMPO pela autoridade delegante.",
+      "artigo": "Art. 14, § 2º, Lei 9.784/99"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "etica-1",
+  "unidadeId": "etica",
+  "ordem": 1,
+  "titulo": "Regras deontológicas e deveres do servidor",
+  "dica": "O Decreto 1.171/94 (é DECRETO, não lei) aprova o Código de Ética do servidor federal. Primados: Dignidade, Decoro, Zelo, Eficácia e Consciência dos princípios morais (DDZEC). O servidor decide entre o honesto e o desonesto, não só entre o legal e o ilegal.",
+  "questoes": [
+    {
+      "id": "etica-1-01",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Segundo o Código de Ética, são primados maiores que devem nortear o servidor: dignidade, decoro, zelo, eficácia e consciência dos princípios morais. NÃO está entre eles:",
+      "opcoes": [
+        "dignidade",
+        "decoro",
+        "zelo",
+        "eficácia",
+        "transparência"
+      ],
+      "correta": 4,
+      "explicacao": "Os cinco primados são dignidade, decoro, zelo, eficácia e consciência dos princípios morais. TRANSPARÊNCIA não consta desse rol.",
+      "artigo": "Anexo, Cap. I, Seç. I, I"
+    },
+    {
+      "id": "etica-1-02",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "O servidor público não poderá jamais desprezar o elemento ___ de sua conduta.",
+      "banco": [
+        "ético",
+        "legal",
+        "técnico",
+        "moral"
+      ],
+      "correta": "ético",
+      "explicacao": "O Código parte do elemento ÉTICO: o servidor deve distinguir o honesto do desonesto, além do legal e do ilegal.",
+      "artigo": "Anexo, Cap. I, Seç. I, II"
+    },
+    {
+      "id": "etica-1-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo o Código de Ética, ao decidir, o servidor deve se preocupar apenas com o que é legal ou ilegal.",
+      "correta": false,
+      "explicacao": "Além do legal e do ilegal, o servidor decide principalmente entre o HONESTO e o desonesto.",
+      "artigo": "Anexo, Cap. I, Seç. I, II"
+    },
+    {
+      "id": "etica-1-04",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "A conduta do servidor na vida privada pode acrescer ou diminuir o seu bom conceito na vida funcional.",
+      "correta": true,
+      "explicacao": "A função pública integra-se na vida particular do servidor; fatos da vida privada refletem no conceito funcional.",
+      "artigo": "Anexo, Cap. I, Seç. I, VI"
+    },
+    {
+      "id": "etica-1-05",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Segundo o Código, a publicidade de qualquer ato administrativo constitui requisito de:",
+      "opcoes": [
+        "validade e finalidade",
+        "eficácia e moralidade",
+        "competência e forma",
+        "motivo e objeto",
+        "oportunidade e conveniência"
+      ],
+      "correta": 1,
+      "explicacao": "A publicidade é requisito de EFICÁCIA e MORALIDADE. Exceções: segurança nacional, investigações policiais ou interesse superior do Estado e da Administração, em processo previamente declarado sigiloso.",
+      "artigo": "Anexo, Cap. I, Seç. I, VII"
+    },
+    {
+      "id": "etica-1-06",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Toda pessoa tem direito à ___; o servidor não pode omiti-la ou falseá-la.",
+      "banco": [
+        "verdade",
+        "informação",
+        "privacidade",
+        "transparência"
+      ],
+      "correta": "verdade",
+      "explicacao": "O Código garante o direito à VERDADE, ainda que contrária aos interesses do interessado ou da Administração.",
+      "artigo": "Anexo, Cap. I, Seç. I, VIII"
+    },
+    {
+      "id": "etica-1-07",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Deixar o usuário aguardar sem justo motivo ou permitir filas e demoras no atendimento é falta ética que causa dano moral ao usuário.",
+      "correta": true,
+      "explicacao": "O atraso sem justificativa e as filas são tratados pelo Código como comprometimento ético, com dano moral ao usuário.",
+      "artigo": "Anexo, Cap. I, Seç. I, X"
+    },
+    {
+      "id": "etica-1-08",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "É dever fundamental do servidor público, segundo o Código de Ética:",
+      "opcoes": [
+        "ser assíduo e frequente ao serviço",
+        "aceitar pequenos presentes de usuários",
+        "retirar documentos da repartição para trabalhar em casa",
+        "relevar erros de colegas por solidariedade",
+        "apresentar-se embriagado fora do serviço, se for ocasional"
+      ],
+      "correta": 0,
+      "explicacao": "Assiduidade e frequência são deveres (inciso XIV, 'l'). As demais alternativas são vedações ou distorções do Código.",
+      "artigo": "Anexo, Cap. I, Seç. II, XIV, 'l'"
+    },
+    {
+      "id": "etica-1-09",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "Entre os deveres do servidor está ser assíduo e ___ ao serviço.",
+      "banco": [
+        "frequente",
+        "pontual",
+        "dedicado",
+        "leal"
+      ],
+      "correta": "frequente",
+      "explicacao": "A redação é 'assíduo e FREQUENTE ao serviço', pois a ausência prejudica todo o sistema.",
+      "artigo": "Anexo, Cap. I, Seç. II, XIV, 'l'"
+    },
+    {
+      "id": "etica-1-10",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O Código de Ética determina que o servidor, ao exercer o direito de greve, zele pelas exigências específicas da defesa da vida e da segurança coletiva.",
+      "correta": true,
+      "explicacao": "Mesmo em greve, o servidor deve zelar pela defesa da vida e da segurança coletiva (alínea 'j').",
+      "artigo": "Anexo, Cap. I, Seç. II, XIV, 'j'"
+    },
+    {
+      "id": "etica-1-11",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue o tema à regra do Código:",
+      "pares": [
+        [
+          "Publicidade",
+          "Requisito de eficácia e moralidade"
+        ],
+        [
+          "Verdade",
+          "Não pode ser omitida ou falseada"
+        ],
+        [
+          "Vida privada",
+          "Reflete no conceito funcional"
+        ],
+        [
+          "Ausência injustificada",
+          "Desmoraliza o serviço público"
+        ]
+      ],
+      "explicacao": "Esses temas aparecem na Seção I (regras deontológicas) e costumam ser cobrados em provas.",
+      "artigo": "Anexo, Cap. I, Seç. I, VI a XII"
+    },
+    {
+      "id": "etica-1-12",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo o Código, a moralidade da Administração Pública:",
+      "opcoes": [
+        "limita-se a distinguir o bem do mal, sem relação com o bem comum",
+        "não se limita a distinguir o bem do mal, e visa sempre ao bem comum",
+        "independe da legalidade e da finalidade do ato",
+        "exige-se apenas dos ocupantes de cargo em comissão",
+        "aplica-se somente ao horário de expediente"
+      ],
+      "correta": 1,
+      "explicacao": "A moralidade NÃO se limita à distinção entre bem e mal: soma-se a ideia de que o fim é sempre o bem comum, equilibrando legalidade e finalidade.",
+      "artigo": "Anexo, Cap. I, Seç. I, III"
+    }
+  ],
+  "materia": "Decreto 1.171/94 (Ética)",
+  "fonte": "Decreto 1.171"
+}

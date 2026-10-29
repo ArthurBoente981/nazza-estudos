@@ -1,0 +1,175 @@
+{
+  "id": "8112-vacancia-3",
+  "unidadeId": "8112-vacancia",
+  "ordem": 3,
+  "titulo": "Redistribuição e substituição",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Redistribuição = o CARGO se desloca para outro órgão do mesmo Poder, com prévia apreciação do órgão central do SIPEC. Se o órgão é extinto e o estável não é redistribuído, vai para disponibilidade. Substituição: chefia e Natureza Especial têm substitutos automáticos; só recebe a retribuição do cargo se o afastamento passar de 30 dias consecutivos, proporcional aos dias excedentes.",
+  "questoes": [
+    {
+      "id": "8112-vacancia-3-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Redistribuição é o deslocamento de cargo de provimento efetivo, ocupado ou vago no âmbito do quadro geral de pessoal, para outro órgão ou entidade do ___ Poder.",
+      "banco": [
+        "mesmo",
+        "Executivo",
+        "próprio órgão",
+        "outro"
+      ],
+      "correta": "mesmo",
+      "explicacao": "A redistribuição ocorre dentro do MESMO Poder, para outro órgão ou entidade. Não vale entre Poderes diferentes.",
+      "artigo": "Art. 37, caput"
+    },
+    {
+      "id": "8112-vacancia-3-02",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O que se desloca na redistribuição é o cargo de provimento efetivo, ocupado ou vago, e não apenas o servidor.",
+      "correta": true,
+      "explicacao": "Na redistribuição o CARGO é deslocado (ocupado ou vago). Na remoção quem se desloca é o servidor, no mesmo quadro.",
+      "artigo": "Art. 37, caput"
+    },
+    {
+      "id": "8112-vacancia-3-03",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Não constitui requisito da redistribuição previsto no art. 37 da Lei 8.112/90:",
+      "opcoes": [
+        "interesse da Administração",
+        "equivalência de vencimentos",
+        "manutenção da essência das atribuições do cargo",
+        "mesmo nível de escolaridade, especialidade ou habilitação profissional",
+        "concordância expressa do servidor"
+      ],
+      "correta": 4,
+      "explicacao": "Os requisitos legais não incluem anuência do servidor: a redistribuição pode até ser feita de ofício (§ 1º), para ajuste de lotação e da força de trabalho.",
+      "artigo": "Art. 37, I a VI e § 1º"
+    },
+    {
+      "id": "8112-vacancia-3-04",
+      "tipo": "lacuna",
+      "categoria": "competencias",
+      "texto": "A redistribuição depende de prévia apreciação do órgão central do ___.",
+      "banco": [
+        "SIPEC",
+        "TCU",
+        "Congresso",
+        "Judiciário"
+      ],
+      "correta": "SIPEC",
+      "explicacao": "O órgão central do SIPEC (Sistema de Pessoal Civil da Administração Federal) aprecia previamente a redistribuição.",
+      "artigo": "Art. 37, caput"
+    },
+    {
+      "id": "8112-vacancia-3-05",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A redistribuição ocorrerá exclusivamente a pedido do servidor.",
+      "correta": false,
+      "explicacao": "Pelo § 1º, a redistribuição ocorrerá de OFÍCIO para ajustes de lotação e da força de trabalho às necessidades dos serviços.",
+      "artigo": "Art. 37, § 1º"
+    },
+    {
+      "id": "8112-vacancia-3-06",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Em caso de reorganização ou extinção de órgão ou entidade, o servidor estável que não for redistribuído:",
+      "opcoes": [
+        "será demitido",
+        "será exonerado de ofício",
+        "ficará em disponibilidade, até seu aproveitamento",
+        "será aposentado compulsoriamente",
+        "será reintegrado"
+      ],
+      "correta": 2,
+      "explicacao": "O estável não redistribuído fica em DISPONIBILIDADE, com remuneração proporcional ao tempo de serviço, até ser aproveitado (arts. 30 e 31).",
+      "artigo": "Art. 37, § 3º"
+    },
+    {
+      "id": "8112-vacancia-3-07",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Na reorganização ou extinção de órgão, o servidor não estável que não for redistribuído também fica em disponibilidade.",
+      "correta": false,
+      "explicacao": "A disponibilidade é garantia do servidor ESTÁVEL. O § 3º do art. 37 refere-se apenas ao estável.",
+      "artigo": "Art. 37, § 3º"
+    },
+    {
+      "id": "8112-vacancia-3-08",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue o instituto ao que ele desloca:",
+      "pares": [
+        [
+          "Remoção",
+          "Servidor, no mesmo quadro"
+        ],
+        [
+          "Redistribuição",
+          "Cargo, para outro órgão"
+        ],
+        [
+          "Substituição",
+          "Exercício do titular ausente"
+        ],
+        [
+          "Disponibilidade",
+          "Estável sem cargo, remunerado"
+        ]
+      ],
+      "explicacao": "Remoção desloca o servidor no mesmo quadro; redistribuição desloca o cargo de órgão; substituição cobre o titular ausente; disponibilidade é a espera do estável por aproveitamento.",
+      "artigo": "Arts. 30, 36, 37 e 38"
+    },
+    {
+      "id": "8112-vacancia-3-09",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "Os substitutos dos ocupantes de cargo ou função de direção ou chefia e de cargo de Natureza Especial serão:",
+      "opcoes": [
+        "eleitos pelos servidores da unidade",
+        "indicados no regimento interno ou, no caso de omissão, previamente designados pelo dirigente máximo do órgão ou entidade",
+        "sempre o servidor mais antigo da unidade",
+        "escolhidos pelo órgão central do SIPEC",
+        "aprovados pelo Congresso Nacional"
+      ],
+      "correta": 1,
+      "explicacao": "Os substitutos são indicados no REGIMENTO INTERNO ou, se omisso, previamente designados pelo dirigente máximo do órgão ou entidade.",
+      "artigo": "Art. 38, caput"
+    },
+    {
+      "id": "8112-vacancia-3-10",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O substituto assume automática e cumulativamente, sem prejuízo do cargo que ocupa, o cargo ou função de direção ou chefia, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo.",
+      "correta": true,
+      "explicacao": "A substituição é AUTOMÁTICA e CUMULATIVA, e o substituto deve optar pela remuneração de um dos cargos durante o período, salvo o direito à retribuição prevista no § 2º.",
+      "artigo": "Art. 38, § 1º"
+    },
+    {
+      "id": "8112-vacancia-3-11",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "O substituto fará jus à retribuição pelo exercício do cargo ou função de direção ou chefia ou de cargo de Natureza Especial, nos casos dos afastamentos ou impedimentos legais do titular, superiores a ___ dias consecutivos, paga na proporção dos dias de efetiva substituição, que excederem o referido período.",
+      "banco": [
+        "trinta",
+        "quinze",
+        "sessenta",
+        "dez"
+      ],
+      "correta": "trinta",
+      "explicacao": "A retribuição só vem quando o afastamento passa de TRINTA dias consecutivos, e é paga proporcionalmente aos dias que excederem esse período.",
+      "artigo": "Art. 38, § 2º"
+    },
+    {
+      "id": "8112-vacancia-3-12",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "As regras de substituição do art. 38 aplicam-se também aos titulares de unidades administrativas organizadas em nível de assessoria.",
+      "correta": true,
+      "explicacao": "O art. 39 estende o art. 38 aos titulares de unidades administrativas organizadas em nível de ASSESSORIA.",
+      "artigo": "Art. 39"
+    }
+  ]
+}

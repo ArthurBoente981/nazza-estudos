@@ -1,0 +1,182 @@
+{
+  "id": "afo-3",
+  "unidadeId": "afo",
+  "ordem": 3,
+  "titulo": "LRF: gestão fiscal responsável",
+  "materia": "AFO (Orçamento e LRF)",
+  "fonte": "LRF (LC 101)",
+  "dica": "Gestão fiscal responsável = ação PLANEJADA e TRANSPARENTE, que PREVINE riscos e CORRIGE desvios, buscando EQUILÍBRIO entre receitas e despesas. Pessoal: 50% (União) e 60% (estados e municípios) da RCL; alerta nos 90%, prudencial nos 95%. RREO é bimestral e RGF, quadrimestral.",
+  "questoes": [
+    {
+      "id": "afo-3-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A responsabilidade na gestão fiscal pressupõe a ação planejada e ___, em que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas públicas.",
+      "banco": [
+        "transparente",
+        "discricionária",
+        "centralizada",
+        "sigilosa"
+      ],
+      "correta": "transparente",
+      "explicacao": "O pressuposto básico é ação planejada e TRANSPARENTE, com metas de resultado entre receitas e despesas.",
+      "artigo": "Art. 1º, § 1º, LRF"
+    },
+    {
+      "id": "afo-3-02",
+      "tipo": "ce",
+      "categoria": "competencias",
+      "enunciado": "As disposições da LRF obrigam a União, os estados, o Distrito Federal e os municípios, abrangendo os Poderes Executivo, Legislativo (incluídos os Tribunais de Contas), Judiciário e o Ministério Público.",
+      "correta": true,
+      "explicacao": "A LRF é lei nacional: alcança todos os entes e todos os Poderes, mais o MP e os Tribunais de Contas.",
+      "artigo": "Art. 1º, §§ 2º e 3º, I, LRF"
+    },
+    {
+      "id": "afo-3-03",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "São pressupostos da responsabilidade na gestão fiscal, EXCETO:",
+      "opcoes": [
+        "a ampliação das despesas com pessoal sempre que a receita crescer",
+        "o cumprimento de metas de resultados entre receitas e despesas",
+        "a obediência a limites e condições para renúncia de receita",
+        "a obediência a limites e condições para a geração de despesas com pessoal",
+        "a obediência a limites e condições para a dívida consolidada e mobiliária"
+      ],
+      "correta": 0,
+      "explicacao": "Os limites para pessoal são uma exigência, não uma permissão para gastar mais quando a receita sobe.",
+      "artigo": "Art. 1º, § 1º, LRF"
+    },
+    {
+      "id": "afo-3-04",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Nos termos da LRF, os limites da despesa total com pessoal, em percentual da receita corrente líquida, são de:",
+      "opcoes": [
+        "50% para a União e 60% para estados e municípios",
+        "60% para a União e 50% para estados e municípios",
+        "60% para todos os entes",
+        "50% para todos os entes",
+        "40% para a União e 60% para os demais"
+      ],
+      "correta": 0,
+      "explicacao": "União: 50% da RCL. Estados e municípios: 60% da RCL.",
+      "artigo": "Art. 19, I a III, LRF"
+    },
+    {
+      "id": "afo-3-05",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "A receita corrente líquida é calculada somando-se as receitas arrecadadas no mês de referência e nos onze meses anteriores, excluídas as duplicidades.",
+      "correta": true,
+      "explicacao": "A RCL é apurada nos 12 últimos meses (mês de referência mais os onze anteriores), sem duplicidades.",
+      "artigo": "Art. 2º, § 3º, LRF"
+    },
+    {
+      "id": "afo-3-06",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "Os limites de despesa total com pessoal são verificados ao final de cada ___.",
+      "banco": [
+        "quadrimestre",
+        "bimestre",
+        "semestre",
+        "exercício"
+      ],
+      "correta": "quadrimestre",
+      "explicacao": "A verificação é QUADRIMESTRAL, mesma periodicidade do RGF.",
+      "artigo": "Art. 22, caput, LRF"
+    },
+    {
+      "id": "afo-3-07",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Quando a despesa total com pessoal ultrapassar 90% do limite, ficam vedadas ao Poder ou órgão a concessão de aumentos e a criação de cargos, entre outras.",
+      "correta": false,
+      "explicacao": "Esse efeito (limite prudencial) ocorre ao exceder 95% do limite. Os 90% são do alerta do Tribunal de Contas (art. 59, § 1º, II).",
+      "artigo": "Art. 22, parágrafo único, LRF"
+    },
+    {
+      "id": "afo-3-08",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Os relatórios previstos na LRF têm, respectivamente, periodicidade:",
+      "opcoes": [
+        "RREO bimestral e RGF quadrimestral",
+        "RREO quadrimestral e RGF bimestral",
+        "RREO e RGF bimestrais",
+        "RREO e RGF quadrimestrais",
+        "RREO semestral e RGF anual"
+      ],
+      "correta": 0,
+      "explicacao": "O RREO (Relatório Resumido da Execução Orçamentária) é bimestral; o RGF (Relatório de Gestão Fiscal) é quadrimestral.",
+      "artigo": "Arts. 52 e 54, LRF"
+    },
+    {
+      "id": "afo-3-09",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "São instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público: os planos, orçamentos e leis de diretrizes orçamentárias; as prestações de contas e o respectivo parecer prévio; o Relatório Resumido da Execução Orçamentária e o Relatório de ___; e as versões simplificadas desses documentos.",
+      "banco": [
+        "Gestão Fiscal",
+        "Riscos Fiscais",
+        "Metas Fiscais",
+        "Controle Interno"
+      ],
+      "correta": "Gestão Fiscal",
+      "explicacao": "São instrumentos de transparência: planos, orçamentos, LDO, contas, parecer prévio, RREO, RGF e versões simplificadas.",
+      "artigo": "Art. 48, caput, LRF"
+    },
+    {
+      "id": "afo-3-10",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "É vedado ao titular de Poder ou órgão, nos dois últimos quadrimestres do seu mandato:",
+      "opcoes": [
+        "contrair obrigação de despesa que não possa ser cumprida integralmente dentro dele",
+        "realizar qualquer despesa corrente",
+        "pagar despesas de pessoal",
+        "aplicar recursos em saúde e educação",
+        "receber transferências obrigatórias"
+      ],
+      "correta": 0,
+      "explicacao": "Vedação de fim de mandato: obrigação que não possa ser paga no mandato, ou com parcelas no exercício seguinte sem caixa suficiente.",
+      "artigo": "Art. 42, caput, LRF"
+    },
+    {
+      "id": "afo-3-11",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A LRF fixou os limites de pessoal de forma única para cada esfera, sendo vedado dividir o percentual entre os Poderes.",
+      "correta": false,
+      "explicacao": "Há limite global por esfera (art. 19) e repartição por Poder e órgão (art. 20): por exemplo, na União, Legislativo 2,5%, Judiciário 6%, Executivo 40,9%, MPU 0,6%.",
+      "artigo": "Art. 20, I, LRF"
+    },
+    {
+      "id": "afo-3-12",
+      "tipo": "pares",
+      "categoria": "prazos",
+      "enunciado": "Ligue cada item ao seu limite ou periodicidade na LRF:",
+      "pares": [
+        [
+          "União",
+          "50% da RCL"
+        ],
+        [
+          "Estados e municípios",
+          "60% da RCL"
+        ],
+        [
+          "Limite prudencial",
+          "95% do limite"
+        ],
+        [
+          "RGF",
+          "Quadrimestral"
+        ]
+      ],
+      "explicacao": "Limites globais no art. 19, prudencial no art. 22 (parágrafo único) e RGF no art. 54.",
+      "artigo": "Art. 19, Art. 22 e Art. 54, LRF"
+    }
+  ]
+}

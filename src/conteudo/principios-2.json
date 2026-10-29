@@ -1,0 +1,186 @@
+{
+  "id": "principios-2",
+  "unidadeId": "principios",
+  "ordem": 2,
+  "titulo": "Princípios implícitos",
+  "dica": "Os dois pilares do regime jurídico-administrativo: supremacia do interesse público (prerrogativas) e indisponibilidade (limites). Falou em ANULAR ou REVOGAR os próprios atos? Autotutela (Súmula 473). Anular = ilegalidade; revogar = conveniência e oportunidade.",
+  "questoes": [
+    {
+      "id": "principios-2-01",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue o princípio à sua ideia central:",
+      "pares": [
+        [
+          "Supremacia do int. público",
+          "Prerrogativas da Administração"
+        ],
+        [
+          "Indisponibilidade",
+          "Gestor não é dono da coisa pública"
+        ],
+        [
+          "Autotutela",
+          "Rever os próprios atos"
+        ],
+        [
+          "Motivação",
+          "Indicar fatos e fundamentos"
+        ],
+        [
+          "Segurança jurídica",
+          "Estabilidade das relações"
+        ]
+      ],
+      "explicacao": "Supremacia dá prerrogativas, indisponibilidade impõe limites; autotutela, motivação e segurança jurídica completam o conjunto.",
+      "artigo": "Art. 2º e art. 53, Lei 9.784; Súmula 473, STF (doutrina)"
+    },
+    {
+      "id": "principios-2-02",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "Entre os critérios do processo administrativo está o atendimento a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências, salvo ___ em lei.",
+      "banco": [
+        "autorização",
+        "delegação",
+        "regulamentação",
+        "ratificação"
+      ],
+      "correta": "autorização",
+      "explicacao": "Indisponibilidade do interesse público: o agente só renuncia a competências se a lei AUTORIZAR.",
+      "artigo": "Art. 2º, parágrafo único, II, Lei 9.784"
+    },
+    {
+      "id": "principios-2-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Em nome da supremacia do interesse público, a Administração pode ignorar direitos fundamentais do particular.",
+      "correta": false,
+      "explicacao": "A supremacia dá PRERROGATIVAS, mas não é carta branca: ela se limita pela legalidade, pelos direitos fundamentais e pela indisponibilidade.",
+      "artigo": "Doutrina (regime jurídico-administrativo); Art. 2º, caput, Lei 9.784"
+    },
+    {
+      "id": "principios-2-04",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, ou revogá-los, por motivo de conveniência ou ___.",
+      "banco": [
+        "oportunidade",
+        "urgência",
+        "legalidade",
+        "necessidade"
+      ],
+      "correta": "oportunidade",
+      "explicacao": "Súmula 473 do STF: anulação por ilegalidade; revogação por conveniência ou OPORTUNIDADE, respeitados direitos adquiridos.",
+      "artigo": "Súmula 473, STF"
+    },
+    {
+      "id": "principios-2-05",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Ao perceber que praticou ato ilegal, a Administração o anula por conta própria, sem precisar de decisão judicial. Isso decorre do princípio da:",
+      "opcoes": [
+        "especialidade",
+        "autotutela",
+        "contraditório",
+        "publicidade",
+        "razoabilidade"
+      ],
+      "correta": 1,
+      "explicacao": "AUTOTUTELA é o poder-dever de a Administração rever seus próprios atos, anulando os ilegais e revogando os inconvenientes.",
+      "artigo": "Súmula 473, STF"
+    },
+    {
+      "id": "principios-2-06",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A revogação do ato administrativo é feita por motivo de ilegalidade, enquanto a anulação se baseia em conveniência e oportunidade.",
+      "correta": false,
+      "explicacao": "Trocou! ANULAÇÃO = ilegalidade; REVOGAÇÃO = conveniência e oportunidade, respeitados os direitos adquiridos.",
+      "artigo": "Súmula 473, STF"
+    },
+    {
+      "id": "principios-2-07",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Demitir um servidor por um único atraso de poucos minutos, sem antecedentes, viola principalmente os princípios da:",
+      "opcoes": [
+        "razoabilidade e proporcionalidade",
+        "continuidade do serviço público",
+        "publicidade e eficiência",
+        "supremacia do interesse público",
+        "autotutela"
+      ],
+      "correta": 0,
+      "explicacao": "A sanção foi muito acima do necessário: viola a RAZOABILIDADE e a PROPORCIONALIDADE, que vedam excessos.",
+      "artigo": "Art. 2º, parágrafo único, VI, Lei 9.784"
+    },
+    {
+      "id": "principios-2-08",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Um dos critérios do processo administrativo é a adequação entre meios e ___, vedada a imposição de obrigações, restrições e sanções em medida superior às estritamente necessárias.",
+      "banco": [
+        "fins",
+        "resultados",
+        "prazos",
+        "custos"
+      ],
+      "correta": "fins",
+      "explicacao": "Proporcionalidade: adequação entre meios e FINS, sem excesso.",
+      "artigo": "Art. 2º, parágrafo único, VI, Lei 9.784"
+    },
+    {
+      "id": "principios-2-09",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "O princípio da motivação exige que a Administração indique os pressupostos de fato e de direito que determinarem a decisão.",
+      "correta": true,
+      "explicacao": "A motivação é a indicação dos fatos e dos fundamentos jurídicos que levaram ao ato.",
+      "artigo": "Art. 2º, parágrafo único, VII, Lei 9.784"
+    },
+    {
+      "id": "principios-2-10",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Se a Administração mudar a interpretação de uma norma, a nova interpretação pode ser aplicada retroativamente a situações já consolidadas, desde que atenda melhor ao fim público.",
+      "correta": false,
+      "explicacao": "A lei veda a aplicação RETROATIVA de nova interpretação: segurança jurídica significa que a mudança vale só para o futuro.",
+      "artigo": "Art. 2º, parágrafo único, XIII, Lei 9.784"
+    },
+    {
+      "id": "principios-2-11",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "O princípio da continuidade do serviço público busca assegurar que:",
+      "opcoes": [
+        "os serviços públicos sejam prestados de forma regular, sem interrupção injustificada",
+        "o serviço seja prestado sempre de graça ao usuário",
+        "a Administração nunca possa rever seus atos",
+        "os servidores jamais possam mudar de setor",
+        "o serviço seja sempre prestado pelo mesmo órgão"
+      ],
+      "correta": 0,
+      "explicacao": "Como atende necessidades coletivas, o serviço público deve ser prestado de modo regular e CONTÍNUO, sem paralisações injustificadas.",
+      "artigo": "Art. 6º, § 1º, Lei 8.987 (doutrina)"
+    },
+    {
+      "id": "principios-2-12",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "Um servidor é removido de cidade só para punir um desafeto do chefe, embora a lei permita remoção apenas por necessidade do serviço. Há violação do princípio da:",
+      "opcoes": [
+        "finalidade",
+        "continuidade",
+        "autotutela",
+        "publicidade",
+        "segurança jurídica"
+      ],
+      "correta": 0,
+      "explicacao": "O ato foi usado para fim diferente do previsto em lei: desvio de FINALIDADE, que fere também a impessoalidade.",
+      "artigo": "Art. 2º, Lei 9.784"
+    }
+  ],
+  "materia": "Princípios constitucionais",
+  "fonte": "CF/88"
+}

@@ -1,0 +1,176 @@
+{
+  "id": "8112-vacancia-1",
+  "unidadeId": "8112-vacancia",
+  "ordem": 1,
+  "titulo": "Vacância e exoneração",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Vacância = o cargo fica vago. Hipóteses atuais: exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo inacumulável e falecimento. Transferência e ascensão foram REVOGADAS. Exoneração de cargo efetivo: a pedido ou de ofício. Cargo em comissão: a critério da autoridade ou a pedido.",
+  "questoes": [
+    {
+      "id": "8112-vacancia-1-01",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Constitui hipótese de vacância do cargo público prevista no art. 33 da Lei 8.112/90:",
+      "opcoes": [
+        "a licença para tratar de interesses particulares",
+        "a promoção",
+        "a remoção de ofício",
+        "a cessão para outro órgão",
+        "a redistribuição"
+      ],
+      "correta": 1,
+      "explicacao": "A PROMOÇÃO vaga o cargo de origem (o servidor sobe de classe). Licença, remoção, cessão e redistribuição não geram vacância.",
+      "artigo": "Art. 33, III"
+    },
+    {
+      "id": "8112-vacancia-1-02",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A transferência e a ascensão continuam previstas como hipóteses de vacância no art. 33 da Lei 8.112/90.",
+      "correta": false,
+      "explicacao": "Os incisos IV (ascensão) e V (transferência) foram REVOGADOS pela Lei 9.527/97, e os respectivos institutos deixaram de existir.",
+      "artigo": "Art. 33, IV e V (revogados)"
+    },
+    {
+      "id": "8112-vacancia-1-03",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A vacância do cargo público decorrerá de exoneração, demissão, promoção, readaptação, aposentadoria, posse em outro cargo ___ e falecimento.",
+      "banco": [
+        "inacumulável",
+        "acumulável",
+        "efetivo",
+        "comissionado"
+      ],
+      "correta": "inacumulável",
+      "explicacao": "A posse em outro cargo INACUMULÁVEL vaga o cargo anterior. Se a acumulação for lícita, não há vacância.",
+      "artigo": "Art. 33, VIII"
+    },
+    {
+      "id": "8112-vacancia-1-04",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A exoneração de cargo efetivo dar-se-á a pedido do servidor ou de ofício.",
+      "correta": true,
+      "explicacao": "O art. 34 prevê exoneração de cargo efetivo a pedido ou de OFÍCIO. Já a demissão é penalidade e não se confunde com ela.",
+      "artigo": "Art. 34, caput"
+    },
+    {
+      "id": "8112-vacancia-1-05",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "A exoneração de ofício de cargo efetivo ocorrerá quando:",
+      "opcoes": [
+        "o servidor for punido com suspensão de 90 dias",
+        "o servidor completar 75 anos de idade",
+        "não forem satisfeitas as condições do estágio probatório",
+        "o servidor for removido para outra localidade",
+        "o servidor tirar licença para tratar de assuntos particulares"
+      ],
+      "correta": 2,
+      "explicacao": "De ofício: (1) condições do estágio probatório não satisfeitas e (2) empossado que não entra em exercício no prazo legal. Aposentadoria aos 75 é compulsória, não exoneração.",
+      "artigo": "Art. 34, parágrafo único, I e II"
+    },
+    {
+      "id": "8112-vacancia-1-06",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A exoneração de cargo em comissão e a dispensa de função de confiança dar-se-ão a juízo da autoridade competente ou a pedido do próprio servidor.",
+      "correta": true,
+      "explicacao": "Cargo em comissão é de livre exoneração: a critério da autoridade competente ou a pedido do servidor. A regra vale também para a dispensa de função de confiança.",
+      "artigo": "Art. 35, I e II"
+    },
+    {
+      "id": "8112-vacancia-1-07",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A exoneração de cargo em comissão e a dispensa de função de ___ dar-se-ão a juízo da autoridade competente ou a pedido do próprio servidor.",
+      "banco": [
+        "confiança",
+        "direção",
+        "chefia",
+        "assessoramento"
+      ],
+      "correta": "confiança",
+      "explicacao": "O art. 35 fala em dispensa de função de CONFIANÇA. Função não é cargo: dispensa-se função, exonera-se de cargo.",
+      "artigo": "Art. 35"
+    },
+    {
+      "id": "8112-vacancia-1-08",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "A respeito da exoneração e da demissão, assinale a alternativa correta.",
+      "opcoes": [
+        "Ambas são penalidades disciplinares previstas na Lei 8.112/90",
+        "A exoneração é forma de vacância sem caráter punitivo; a demissão é penalidade disciplinar",
+        "A demissão é sempre a pedido do servidor",
+        "A exoneração só pode ocorrer de ofício",
+        "A demissão aplica-se apenas a cargos em comissão"
+      ],
+      "correta": 1,
+      "explicacao": "EXONERAÇÃO não é punição; DEMISSÃO é penalidade disciplinar. Ambas, porém, geram vacância (art. 33, I e II).",
+      "artigo": "Arts. 33, 34 e 127"
+    },
+    {
+      "id": "8112-vacancia-1-09",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O servidor empossado que não entra em exercício no prazo legal tem o ato de provimento tornado sem efeito, e não é exonerado.",
+      "correta": false,
+      "explicacao": "Tornar SEM EFEITO é para quem NÃO tomou posse. Quem tomou posse e não entrou em exercício no prazo é EXONERADO de ofício.",
+      "artigo": "Art. 34, parágrafo único, II"
+    },
+    {
+      "id": "8112-vacancia-1-10",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue a situação à forma de vacância:",
+      "pares": [
+        [
+          "Pedido do servidor efetivo",
+          "Exoneração a pedido"
+        ],
+        [
+          "Reprovado no estágio",
+          "Exoneração de ofício"
+        ],
+        [
+          "Penalidade disciplinar",
+          "Demissão"
+        ],
+        [
+          "Morte do servidor",
+          "Falecimento"
+        ]
+      ],
+      "explicacao": "Exoneração (pedido ou ofício) não é punição; demissão é penalidade; falecimento é causa natural de vacância. Todas constam do art. 33.",
+      "artigo": "Arts. 33 e 34"
+    },
+    {
+      "id": "8112-vacancia-1-11",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Assinale a hipótese que NÃO configura vacância do cargo:",
+      "opcoes": [
+        "aposentadoria",
+        "falecimento",
+        "readaptação",
+        "afastamento para exercício de mandato eletivo",
+        "demissão"
+      ],
+      "correta": 3,
+      "explicacao": "No afastamento para mandato eletivo o servidor continua titular do cargo, apenas afastado. Aposentadoria, falecimento, readaptação e demissão vagam o cargo.",
+      "artigo": "Art. 33"
+    },
+    {
+      "id": "8112-vacancia-1-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O servidor que responde a processo disciplinar só poderá ser exonerado a pedido após a conclusão do processo e o cumprimento da penalidade, acaso aplicada.",
+      "correta": true,
+      "explicacao": "Regra do art. 172: durante o PAD o pedido de exoneração (ou de aposentadoria voluntária) fica travado até a conclusão do processo e o cumprimento da penalidade, se houver.",
+      "artigo": "Art. 172"
+    }
+  ]
+}

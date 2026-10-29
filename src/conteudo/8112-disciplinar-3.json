@@ -1,0 +1,186 @@
+{
+  "id": "8112-disciplinar-3",
+  "unidadeId": "8112-disciplinar",
+  "ordem": 3,
+  "titulo": "Sindicância, PAD e seguridade",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Sindicância: 30 dias (+30), serve para apurar e pode resultar em arquivamento, advertência ou suspensão de até 30 dias, ou PAD. PAD: comissão de 3 estáveis, 60 dias (+60). Afastamento preventivo: até 60 dias (+60). Rito sumário: 2 servidores, 30 dias (+15). E na seguridade: salário-família é do servidor, auxílio-reclusão é do dependente.",
+  "questoes": [
+    {
+      "id": "8112-disciplinar-3-01",
+      "tipo": "ce",
+      "categoria": "competencias",
+      "enunciado": "A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+      "correta": true,
+      "explicacao": "Dever de apurar: o chefe não escolhe se apura ou não; a apuração é obrigatória e imediata, com ampla defesa.",
+      "artigo": "Art. 143"
+    },
+    {
+      "id": "8112-disciplinar-3-02",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Denúncia anônima, desde que verossímil, é suficiente para a instauração de processo disciplinar.",
+      "correta": false,
+      "explicacao": "A denúncia só é apurada se formulada por escrito, com identificação e endereço do denunciante e autenticidade confirmada (art. 144).",
+      "artigo": "Art. 144"
+    },
+    {
+      "id": "8112-disciplinar-3-03",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "O prazo para conclusão da sindicância não excederá ___ dias, podendo ser prorrogado por igual período, a critério da autoridade superior.",
+      "banco": [
+        "30",
+        "60",
+        "15",
+        "90"
+      ],
+      "correta": "30",
+      "explicacao": "Sindicância: 30 dias, prorrogável por mais 30. O PAD é que tem 60 dias.",
+      "artigo": "Art. 145, parágrafo único"
+    },
+    {
+      "id": "8112-disciplinar-3-04",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Da sindicância poderá resultar qualquer das consequências abaixo, EXCETO:",
+      "opcoes": [
+        "arquivamento do processo",
+        "aplicação de penalidade de advertência",
+        "aplicação de penalidade de suspensão de até 30 dias",
+        "instauração de processo disciplinar",
+        "aplicação de penalidade de demissão"
+      ],
+      "correta": 4,
+      "explicacao": "Demissão exige PAD (obrigatório para suspensão superior a 30 dias, demissão, cassação e destituição de cargo em comissão).",
+      "artigo": "Art. 145 e Art. 146"
+    },
+    {
+      "id": "8112-disciplinar-3-05",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "Como medida cautelar, a autoridade instauradora do processo disciplinar poderá determinar o afastamento do servidor do exercício do cargo, pelo prazo de até ___ dias, sem prejuízo da remuneração.",
+      "banco": [
+        "60",
+        "30",
+        "90",
+        "120"
+      ],
+      "correta": "60",
+      "explicacao": "Afastamento preventivo: até 60 dias, prorrogável por mais 60; depois cessam os efeitos, ainda que o processo não esteja concluído.",
+      "artigo": "Art. 147 e parágrafo único"
+    },
+    {
+      "id": "8112-disciplinar-3-06",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "O processo administrativo disciplinar é conduzido por comissão composta de:",
+      "opcoes": [
+        "três servidores estáveis, designados pela autoridade competente, que indicará o presidente",
+        "dois servidores estáveis, escolhidos pelo acusado",
+        "três servidores, estáveis ou não, indicados pelo sindicato",
+        "cinco servidores estáveis, designados pelo Presidente da República",
+        "dois servidores estáveis, designados pela autoridade competente"
+      ],
+      "correta": 0,
+      "explicacao": "PAD: TRÊS servidores estáveis. A comissão de DOIS servidores é a do rito sumário (art. 133).",
+      "artigo": "Art. 149"
+    },
+    {
+      "id": "8112-disciplinar-3-07",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Segundo a Lei 8.112/90, o benefício do salário-família é devido ao servidor, enquanto o auxílio-funeral é benefício quanto ao dependente.",
+      "correta": true,
+      "explicacao": "Art. 185, I (servidor): aposentadoria, auxílio-natalidade, salário-família, licenças, assistência à saúde. II (dependente): pensão, auxílio-funeral, auxílio-reclusão, assistência à saúde.",
+      "artigo": "Art. 185, I, c e II, b"
+    },
+    {
+      "id": "8112-disciplinar-3-08",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Dentre os benefícios do Plano de Seguridade Social, é benefício quanto ao DEPENDENTE:",
+      "opcoes": [
+        "auxílio-reclusão",
+        "salário-família",
+        "auxílio-natalidade",
+        "licença à gestante, à adotante e licença-paternidade",
+        "licença por acidente em serviço"
+      ],
+      "correta": 0,
+      "explicacao": "Para o dependente: pensão vitalícia e temporária, auxílio-funeral, auxílio-reclusão e assistência à saúde. As demais opções são do servidor.",
+      "artigo": "Art. 185, II"
+    },
+    {
+      "id": "8112-disciplinar-3-09",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "No rito sumário para apuração de acumulação ilegal de cargos, a comissão é composta por dois servidores estáveis, após o servidor deixar de apresentar opção no prazo de dez dias.",
+      "correta": true,
+      "explicacao": "Detectada a acumulação, o servidor é notificado a optar em 10 dias improrrogáveis; omisso, instaura-se o rito sumário com comissão de DOIS servidores estáveis.",
+      "artigo": "Art. 133, caput e I"
+    },
+    {
+      "id": "8112-disciplinar-3-10",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "Na instrução do processo disciplinar, o indiciado será citado por mandado para apresentar defesa escrita no prazo de ___ dias, assegurada vista do processo na repartição.",
+      "banco": [
+        "10",
+        "5",
+        "15",
+        "30"
+      ],
+      "correta": "10",
+      "explicacao": "Defesa: 10 dias; se houver dois ou mais indiciados, o prazo é comum e de 20 dias.",
+      "artigo": "Art. 161, §§ 1º e 2º"
+    },
+    {
+      "id": "8112-disciplinar-3-11",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "O processo administrativo disciplinar desenvolve-se nas seguintes fases:",
+      "opcoes": [
+        "instauração, inquérito administrativo (instrução, defesa e relatório) e julgamento",
+        "sindicância, instrução e arquivamento",
+        "denúncia, afastamento preventivo e julgamento",
+        "instauração, perícia e execução da pena",
+        "inquérito, recurso e revisão"
+      ],
+      "correta": 0,
+      "explicacao": "Três fases: instauração (publicação do ato que constitui a comissão), inquérito administrativo e julgamento.",
+      "artigo": "Art. 151"
+    },
+    {
+      "id": "8112-disciplinar-3-12",
+      "tipo": "pares",
+      "categoria": "prazos",
+      "enunciado": "Ligue o procedimento ao prazo da lei:",
+      "pares": [
+        [
+          "Sindicância",
+          "30 dias, prorrogável por 30"
+        ],
+        [
+          "PAD",
+          "60 dias, prorrogável por 60"
+        ],
+        [
+          "Rito sumário",
+          "30 dias, prorrogável por 15"
+        ],
+        [
+          "Afastamento preventivo",
+          "até 60 dias, prorrogável"
+        ],
+        [
+          "Julgamento do PAD",
+          "20 dias do recebimento"
+        ]
+      ],
+      "explicacao": "São prazos vizinhos e fáceis de trocar: preste atenção em qual procedimento tem prorrogação de 30, 60 ou 15 dias.",
+      "artigo": "Arts. 133, 145, 147, 152 e 167"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "etica-2",
+  "unidadeId": "etica",
+  "ordem": 2,
+  "titulo": "Vedações e Comissões de Ética",
+  "dica": "Vedações: usar o cargo para favores, prejudicar reputação alheia, ser conivente por solidariedade, receber vantagem, alterar documento, usar informação privilegiada, embriaguez no serviço ou habitual fora dele. A Comissão de Ética só aplica CENSURA. Servidor, para o Código, inclui quem não é remunerado.",
+  "questoes": [
+    {
+      "id": "etica-2-01",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "É vedado ao servidor público, segundo o Código de Ética:",
+      "opcoes": [
+        "apresentar-se embriagado no serviço ou fora dele habitualmente",
+        "ser assíduo e frequente ao serviço",
+        "manter limpo e em ordem o local de trabalho",
+        "comunicar a superiores atos contrários ao interesse público",
+        "facilitar a fiscalização de seus atos e serviços"
+      ],
+      "correta": 0,
+      "explicacao": "A embriaguez no serviço, ou habitual fora dele, é vedação (XV, 'n'). As outras alternativas são DEVERES da Seção II.",
+      "artigo": "Anexo, Cap. I, Seç. III, XV, 'n'"
+    },
+    {
+      "id": "etica-2-02",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "É vedado ao servidor pleitear, solicitar, provocar, sugerir ou receber qualquer tipo de ajuda financeira, gratificação, prêmio, comissão, doação ou ___ de qualquer espécie.",
+      "banco": [
+        "vantagem",
+        "retribuição",
+        "cortesia",
+        "ressarcimento"
+      ],
+      "correta": "vantagem",
+      "explicacao": "A alínea 'g' proíbe receber ajuda, gratificação, prêmio, comissão, doação ou VANTAGEM de qualquer espécie.",
+      "artigo": "Anexo, Cap. I, Seç. III, XV, 'g'"
+    },
+    {
+      "id": "etica-2-03",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "É vedado ao servidor alterar ou deturpar o teor de documentos que deva encaminhar para providências.",
+      "correta": true,
+      "explicacao": "Alterar ou deturpar documentos que deva encaminhar é vedação expressa.",
+      "artigo": "Anexo, Cap. I, Seç. III, XV, 'h'"
+    },
+    {
+      "id": "etica-2-04",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O servidor pode usar informações privilegiadas obtidas no serviço em benefício próprio, desde que não cause prejuízo à Administração.",
+      "correta": false,
+      "explicacao": "É VEDADO usar informações privilegiadas em benefício próprio ou de terceiros, mesmo sem prejuízo comprovado.",
+      "artigo": "Anexo, Cap. I, Seç. III, XV, 'm'"
+    },
+    {
+      "id": "etica-2-05",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "Segundo o Código de Ética, a pena aplicável ao servidor público pela Comissão de Ética é a de:",
+      "opcoes": [
+        "advertência",
+        "suspensão",
+        "censura",
+        "demissão",
+        "multa"
+      ],
+      "correta": 2,
+      "explicacao": "A Comissão de Ética só pode aplicar CENSURA, fundamentada em parecer assinado por todos os integrantes, com ciência do faltoso.",
+      "artigo": "Anexo, Cap. II, XXII"
+    },
+    {
+      "id": "etica-2-06",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A Comissão de Ética pode aplicar ao servidor as penas de advertência, suspensão e demissão.",
+      "correta": false,
+      "explicacao": "A única pena da Comissão de Ética é a CENSURA. Advertência, suspensão e demissão são sanções disciplinares da Lei 8.112.",
+      "artigo": "Anexo, Cap. II, XXII"
+    },
+    {
+      "id": "etica-2-07",
+      "tipo": "lacuna",
+      "categoria": "competencias",
+      "texto": "A pena aplicável ao servidor público pela Comissão de Ética é a de ___.",
+      "banco": [
+        "censura",
+        "advertência",
+        "repreensão",
+        "suspensão"
+      ],
+      "correta": "censura",
+      "explicacao": "A pena é a CENSURA, e sua fundamentação consta de parecer assinado por todos os integrantes.",
+      "artigo": "Anexo, Cap. II, XXII"
+    },
+    {
+      "id": "etica-2-08",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "Em relação à criação das Comissões de Ética, o Código determina que:",
+      "opcoes": [
+        "devem ser criadas em todos os órgãos e entidades da Administração Pública Federal",
+        "só devem existir em órgãos do Poder Executivo central",
+        "são facultativas para as autarquias",
+        "só existem na Presidência da República",
+        "são criadas apenas se houver denúncia"
+      ],
+      "correta": 0,
+      "explicacao": "Todos os órgãos e entidades da Administração Federal (direta e indireta, autárquica e fundacional) devem ter Comissão de Ética.",
+      "artigo": "Anexo, Cap. II, XVI"
+    },
+    {
+      "id": "etica-2-09",
+      "tipo": "pares",
+      "categoria": "competencias",
+      "enunciado": "Ligue o tema à regra do Código sobre as Comissões de Ética:",
+      "pares": [
+        [
+          "Pena da Comissão",
+          "Censura"
+        ],
+        [
+          "Parecer fundamentado",
+          "Assinado por todos os integrantes"
+        ],
+        [
+          "Registros de conduta",
+          "Instruem promoções na carreira"
+        ],
+        [
+          "Servidor, para o Código",
+          "Inclui quem não é remunerado"
+        ]
+      ],
+      "explicacao": "A Comissão aplica censura em parecer assinado por todos; fornece registros de conduta para a carreira; e o conceito de servidor é amplo.",
+      "artigo": "Anexo, Cap. II, XVIII, XXII e XXIV"
+    },
+    {
+      "id": "etica-2-10",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Para efeito de apuração ética, considera-se servidor público aquele que presta serviços de natureza permanente, temporária ou excepcional, por força de lei, contrato ou ato jurídico:",
+      "opcoes": [
+        "ainda que sem retribuição financeira, desde que ligado a órgão do poder estatal",
+        "somente se for efetivo e estatutário",
+        "somente se receber remuneração dos cofres públicos",
+        "apenas na administração direta",
+        "apenas se ocupar cargo em comissão"
+      ],
+      "correta": 0,
+      "explicacao": "O conceito é amplo: inclui quem presta serviço permanente, temporário ou excepcional, mesmo sem retribuição financeira.",
+      "artigo": "Anexo, Cap. II, XXIV"
+    },
+    {
+      "id": "etica-2-11",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Para o Código de Ética, o conceito de servidor público alcança quem atua em empresa pública ou sociedade de economia mista.",
+      "correta": true,
+      "explicacao": "O conceito abrange autarquias, fundações, empresas públicas, sociedades de economia mista e setores onde prevaleça o interesse do Estado.",
+      "artigo": "Anexo, Cap. II, XXIV"
+    },
+    {
+      "id": "etica-2-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "É vedado ao servidor ser conivente com erro ou infração ao Código de Ética por espírito de solidariedade, mas é permitido quando se tratar de colega da mesma profissão.",
+      "correta": false,
+      "explicacao": "A vedação vale inclusive para o Código de Ética da PRÓPRIA profissão: nada de acobertar colega por solidariedade.",
+      "artigo": "Anexo, Cap. I, Seç. III, XV, 'c'"
+    }
+  ],
+  "materia": "Decreto 1.171/94 (Ética)",
+  "fonte": "Decreto 1.171"
+}

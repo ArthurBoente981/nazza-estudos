@@ -1,0 +1,182 @@
+{
+  "id": "8112-direitos-3",
+  "unidadeId": "8112-direitos",
+  "ordem": 3,
+  "titulo": "Licenças, afastamentos e concessões",
+  "dica": "Licenças (art. 81): família, cônjuge, serviço militar, política, capacitação, interesses particulares, mandato classista. Capacitação: 3 meses a cada 5 anos, com remuneração. Interesses particulares: até 3 anos, sem remuneração. Prescrição para requerer: 5 anos (demissão e patrimônio) ou 120 dias (demais). Recurso: 30 dias.",
+  "questoes": [
+    {
+      "id": "8112-direitos-3-01",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Não é licença prevista no art. 81 da Lei 8.112/90:",
+      "opcoes": [
+        "Licença por motivo de doença em pessoa da família",
+        "Licença para o serviço militar",
+        "Licença para atividade política",
+        "Licença para capacitação",
+        "Licença para mandato eletivo"
+      ],
+      "correta": 4,
+      "explicacao": "Mandato eletivo é caso de AFASTAMENTO (art. 94), não de licença. O art. 81 traz a licença para mandato CLASSISTA.",
+      "artigo": "Art. 81 e Art. 94"
+    },
+    {
+      "id": "8112-direitos-3-02",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A licença para capacitação é concedida após cada quinquênio de efetivo exercício, pelo prazo de até ___ meses, com a respectiva remuneração.",
+      "banco": [
+        "3",
+        "6",
+        "2",
+        "12"
+      ],
+      "correta": "3",
+      "explicacao": "Capacitação: até 3 meses após cada 5 anos de exercício, com remuneração, no interesse da Administração.",
+      "artigo": "Art. 87"
+    },
+    {
+      "id": "8112-direitos-3-03",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A licença para tratar de interesses particulares pode ser concedida pelo prazo de até ___ anos consecutivos, sem remuneração, a critério da Administração.",
+      "banco": [
+        "3",
+        "2",
+        "5",
+        "1"
+      ],
+      "correta": "3",
+      "explicacao": "Interesses particulares: até 3 anos consecutivos, sem remuneração, a critério da Administração e fora do estágio probatório.",
+      "artigo": "Art. 91"
+    },
+    {
+      "id": "8112-direitos-3-04",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A licença para tratar de interesses particulares pode ser concedida ao servidor em estágio probatório.",
+      "correta": false,
+      "explicacao": "A licença para interesses particulares exige servidor ocupante de cargo efetivo que NÃO esteja em estágio probatório.",
+      "artigo": "Art. 91, caput"
+    },
+    {
+      "id": "8112-direitos-3-05",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A licença para acompanhar cônjuge ou companheiro deslocado para outro ponto do território nacional é por prazo indeterminado e sem remuneração.",
+      "correta": true,
+      "explicacao": "O afastamento do cônjuge ou companheiro dá licença por prazo indeterminado e SEM remuneração.",
+      "artigo": "Art. 84, caput e § 1º"
+    },
+    {
+      "id": "8112-direitos-3-06",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Assinale a hipótese em que o servidor pode ser licenciado para exercer atividade política, nos termos da Lei 8.112/90:",
+      "opcoes": [
+        "a partir da convenção partidária até a véspera do registro da candidatura, sem remuneração",
+        "somente após o registro, sempre sem remuneração",
+        "durante todo o mandato eletivo, com remuneração",
+        "a partir do registro até a posse, sempre com remuneração",
+        "a qualquer tempo, a critério do chefe imediato"
+      ],
+      "correta": 0,
+      "explicacao": "Licença sem remuneração da convenção até a véspera do registro. Do registro até o décimo dia após a eleição, há licença com vencimentos por no máximo 3 meses.",
+      "artigo": "Art. 86, caput e § 2º"
+    },
+    {
+      "id": "8112-direitos-3-07",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "Segundo a Lei 8.112/90, o afastamento do servidor para estudo ou missão no exterior depende de autorização de:",
+      "opcoes": [
+        "chefe imediato",
+        "Ministro de Estado da área",
+        "Presidente da República, presidentes das Casas do Legislativo e do STF",
+        "Advogado-Geral da União",
+        "dirigente do órgão de recursos humanos"
+      ],
+      "correta": 2,
+      "explicacao": "A autorização é do Presidente da República, dos presidentes das Casas do Legislativo e do Presidente do STF; o afastamento não excede 4 anos.",
+      "artigo": "Art. 95, caput e § 1º"
+    },
+    {
+      "id": "8112-direitos-3-08",
+      "tipo": "ce",
+      "categoria": "prazos",
+      "enunciado": "O afastamento para estudo ou missão no exterior não poderá exceder quatro anos, e só será permitido novo afastamento após decorrido período igual ao do afastamento anterior.",
+      "correta": true,
+      "explicacao": "Limite de 4 anos; novo afastamento só depois de período igual ao anterior.",
+      "artigo": "Art. 95, § 1º"
+    },
+    {
+      "id": "8112-direitos-3-09",
+      "tipo": "pares",
+      "categoria": "prazos",
+      "enunciado": "Ligue a situação ao que a lei garante ao servidor:",
+      "pares": [
+        [
+          "Doação de sangue",
+          "1 dia"
+        ],
+        [
+          "Alistamento eleitoral",
+          "Até 2 dias"
+        ],
+        [
+          "Casamento ou luto",
+          "8 dias consecutivos"
+        ],
+        [
+          "Estudante (horário)",
+          "Horário especial, com compensação"
+        ]
+      ],
+      "explicacao": "Sem prejuízo da remuneração: 1 dia para doar sangue, até 2 dias para alistamento eleitoral e 8 dias por casamento ou falecimento de parente próximo. O estudante tem HORÁRIO ESPECIAL, compensando as horas.",
+      "artigo": "Arts. 97 e 98, § 1º"
+    },
+    {
+      "id": "8112-direitos-3-10",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "O prazo para o servidor interpor pedido de reconsideração ou recurso administrativo, contado da publicação ou ciência da decisão, é de:",
+      "opcoes": [
+        "5 dias",
+        "10 dias",
+        "30 dias",
+        "60 dias",
+        "120 dias"
+      ],
+      "correta": 2,
+      "explicacao": "Reconsideração e recurso: 30 dias da publicação ou da ciência da decisão recorrida.",
+      "artigo": "Art. 108"
+    },
+    {
+      "id": "8112-direitos-3-11",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "O direito de requerer prescreve em 5 (cinco) anos, quanto aos atos de demissão e de cassação de aposentadoria ou disponibilidade, ou que afetem interesse patrimonial e créditos resultantes das relações de trabalho; e em ___ dias, nos demais casos, salvo quando outro prazo for fixado em lei.",
+      "banco": [
+        "120",
+        "30",
+        "60",
+        "180"
+      ],
+      "correta": "120",
+      "explicacao": "Prescrição: 5 anos (demissão, cassação, patrimônio e créditos trabalhistas) ou 120 DIAS nos demais casos.",
+      "artigo": "Art. 110, I e II"
+    },
+    {
+      "id": "8112-direitos-3-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O pedido de reconsideração e o recurso, quando cabíveis, interrompem a prescrição, e esta é de ordem pública, não podendo ser relevada pela administração.",
+      "correta": true,
+      "explicacao": "Reconsideração e recurso INTERROMPEM a prescrição (art. 111), que é de ordem pública e não pode ser relevada pela Administração (art. 112).",
+      "artigo": "Arts. 111 e 112"
+    }
+  ],
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112"
+}

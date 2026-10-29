@@ -1,0 +1,182 @@
+{
+  "id": "8112-disciplinar-2",
+  "unidadeId": "8112-disciplinar",
+  "ordem": 2,
+  "titulo": "Responsabilidades e penalidades",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Civil, penal e administrativa são INDEPENDENTES; a absolvição criminal só afasta a administrativa se negar o fato ou a autoria. Penas: advertência, suspensão (até 90 dias), demissão, cassação, destituição de cargo e de função. Prescrição: 5 anos / 2 anos / 180 dias (demissão / suspensão / advertência).",
+  "questoes": [
+    {
+      "id": "8112-disciplinar-2-01",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "O servidor responde civil, penal e ___ pelo exercício irregular de suas atribuições.",
+      "banco": [
+        "administrativamente",
+        "disciplinarmente",
+        "politicamente",
+        "funcionalmente"
+      ],
+      "correta": "administrativamente",
+      "explicacao": "Três esferas: civil, penal e administrativa, que podem se acumular.",
+      "artigo": "Art. 121"
+    },
+    {
+      "id": "8112-disciplinar-2-02",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "As sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si.",
+      "correta": true,
+      "explicacao": "As esferas são independentes: o mesmo fato pode gerar sanção civil, penal e administrativa ao mesmo tempo.",
+      "artigo": "Art. 125"
+    },
+    {
+      "id": "8112-disciplinar-2-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A absolvição criminal sempre afasta a responsabilidade administrativa do servidor.",
+      "correta": false,
+      "explicacao": "Só afasta se a sentença negar a EXISTÊNCIA DO FATO ou sua AUTORIA. Absolvição por falta de provas, por exemplo, não impede a punição administrativa.",
+      "artigo": "Art. 126"
+    },
+    {
+      "id": "8112-disciplinar-2-04",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "NÃO é penalidade disciplinar prevista na Lei 8.112/90:",
+      "opcoes": [
+        "Advertência",
+        "Cassação de aposentadoria ou disponibilidade",
+        "Destituição de função comissionada",
+        "Multa",
+        "Suspensão"
+      ],
+      "correta": 3,
+      "explicacao": "A multa é só uma possível CONVERSÃO da suspensão, não uma penalidade autônoma do art. 127. As penalidades são seis.",
+      "artigo": "Art. 127 e Art. 130, § 2º"
+    },
+    {
+      "id": "8112-disciplinar-2-05",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A suspensão não poderá exceder de ___ dias.",
+      "banco": [
+        "90",
+        "30",
+        "60",
+        "120"
+      ],
+      "correta": "90",
+      "explicacao": "A suspensão vai até 90 dias. Não confunda com os 30 dias de competência do chefe da repartição (art. 141, III).",
+      "artigo": "Art. 130"
+    },
+    {
+      "id": "8112-disciplinar-2-06",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "Quando houver conveniência para o serviço, a penalidade de suspensão poderá ser convertida em multa, na base de ___ por dia de vencimento ou remuneração, ficando o servidor obrigado a permanecer em serviço.",
+      "banco": [
+        "50%",
+        "30%",
+        "25%",
+        "100%"
+      ],
+      "correta": "50%",
+      "explicacao": "Conversão em multa de 50% por dia, e o servidor continua trabalhando.",
+      "artigo": "Art. 130, § 2º"
+    },
+    {
+      "id": "8112-disciplinar-2-07",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Constitui hipótese de demissão (art. 132), EXCETO:",
+      "opcoes": [
+        "abandono de cargo",
+        "inassiduidade habitual",
+        "improbidade administrativa",
+        "acumulação ilegal de cargos, empregos ou funções públicas",
+        "recusa injustificada de submeter-se a inspeção médica determinada pela autoridade competente"
+      ],
+      "correta": 4,
+      "explicacao": "Recusa à inspeção médica gera SUSPENSÃO de até 15 dias (art. 130, § 1º), não demissão. As demais estão nos incisos do art. 132.",
+      "artigo": "Art. 132; Art. 130, § 1º"
+    },
+    {
+      "id": "8112-disciplinar-2-08",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Os registros das penalidades de advertência e de suspensão são cancelados, se não houver nova infração, após, respectivamente:",
+      "opcoes": [
+        "3 e 5 anos de efetivo exercício",
+        "2 e 5 anos de efetivo exercício",
+        "180 dias e 2 anos",
+        "5 e 5 anos de efetivo exercício",
+        "3 e 3 anos de efetivo exercício"
+      ],
+      "correta": 0,
+      "explicacao": "Cancelamento: 3 anos (advertência) e 5 anos (suspensão), SEM efeitos retroativos. Não confunda com a prescrição.",
+      "artigo": "Art. 131"
+    },
+    {
+      "id": "8112-disciplinar-2-09",
+      "tipo": "ce",
+      "categoria": "competencias",
+      "enunciado": "A demissão de servidor vinculado ao Poder Executivo federal, pela lei, é de competência do chefe da repartição.",
+      "correta": false,
+      "explicacao": "Demissão e cassação cabem ao Presidente da República e às demais autoridades máximas do art. 141, I. O chefe da repartição aplica só advertência e suspensão de até 30 dias.",
+      "artigo": "Art. 141, I e III"
+    },
+    {
+      "id": "8112-disciplinar-2-10",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "A abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição até a decisão final proferida por autoridade competente.",
+      "correta": true,
+      "explicacao": "A interrupção dura até a decisão final; cessada a interrupção, o prazo começa a correr de novo a partir desse dia (§ 4º).",
+      "artigo": "Art. 142, §§ 3º e 4º"
+    },
+    {
+      "id": "8112-disciplinar-2-11",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Prescreve a ação disciplinar em:",
+      "opcoes": [
+        "5 anos (demissão, cassação e destituição de cargo em comissão), 2 anos (suspensão) e 180 dias (advertência)",
+        "2 anos (demissão), 1 ano (suspensão) e 90 dias (advertência)",
+        "5 anos (demissão), 5 anos (suspensão) e 2 anos (advertência)",
+        "10 anos (demissão), 5 anos (suspensão) e 1 ano (advertência)",
+        "5 anos (demissão), 90 dias (suspensão) e 30 dias (advertência)"
+      ],
+      "correta": 0,
+      "explicacao": "Prazos do art. 142: 5 anos, 2 anos e 180 dias, contados da data em que o fato se tornou conhecido.",
+      "artigo": "Art. 142, I a III"
+    },
+    {
+      "id": "8112-disciplinar-2-12",
+      "tipo": "pares",
+      "categoria": "prazos",
+      "enunciado": "Ligue a penalidade (ou o marco) ao prazo de prescrição:",
+      "pares": [
+        [
+          "Advertência",
+          "180 dias"
+        ],
+        [
+          "Suspensão",
+          "2 anos"
+        ],
+        [
+          "Demissão",
+          "5 anos"
+        ],
+        [
+          "Início da contagem",
+          "Data em que o fato se tornou conhecido"
+        ]
+      ],
+      "explicacao": "A prescrição corre da data em que o fato se tornou conhecido; se a infração também for crime, aplicam-se os prazos de prescrição da lei penal.",
+      "artigo": "Art. 142, I a III e §§ 1º e 2º"
+    }
+  ]
+}

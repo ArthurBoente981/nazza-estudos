@@ -1,0 +1,176 @@
+{
+  "id": "8112-direitos-1",
+  "unidadeId": "8112-direitos",
+  "ordem": 1,
+  "titulo": "Vencimento, remuneração e indenizações",
+  "dica": "Vencimento = só o básico do cargo. Remuneração = vencimento + vantagens permanentes. Reposição: 30 dias, parcelas de no mínimo 10%. Indenização não se incorpora ao vencimento: é AJUDA, DIÁRIA, TRANSPORTE e MORADIA (A-D-T-M). Anota isso, amor!",
+  "questoes": [
+    {
+      "id": "8112-direitos-1-01",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Segundo a Lei 8.112/90, vencimento é:",
+      "opcoes": [
+        "a retribuição pecuniária pelo exercício de cargo público, com valor fixado em lei",
+        "o vencimento acrescido de todas as vantagens, inclusive indenizações",
+        "o valor pago apenas a servidores ocupantes de cargo em comissão",
+        "a soma do vencimento com a gratificação natalina e o adicional de férias",
+        "a retribuição fixada por ato do chefe de cada órgão"
+      ],
+      "correta": 0,
+      "explicacao": "Vencimento é a retribuição pelo exercício do cargo, com valor fixado em LEI. Não confunda com remuneração, que inclui vantagens permanentes.",
+      "artigo": "Art. 40"
+    },
+    {
+      "id": "8112-direitos-1-02",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Remuneração é o vencimento do cargo efetivo, acrescido das vantagens pecuniárias ___ estabelecidas em lei.",
+      "banco": [
+        "permanentes",
+        "eventuais",
+        "indenizatórias",
+        "transitórias"
+      ],
+      "correta": "permanentes",
+      "explicacao": "Remuneração = vencimento + vantagens PERMANENTES previstas em lei. Indenizações não entram nessa conta.",
+      "artigo": "Art. 41"
+    },
+    {
+      "id": "8112-direitos-1-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo a Lei 8.112/90, as indenizações incorporam-se ao vencimento ou provento para qualquer efeito.",
+      "correta": false,
+      "explicacao": "As indenizações NÃO se incorporam ao vencimento ou provento para qualquer efeito. Gratificações e adicionais só se incorporam nos casos e condições indicados em lei.",
+      "artigo": "Art. 49, § 1º"
+    },
+    {
+      "id": "8112-direitos-1-04",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Constitui indenização ao servidor, nos termos da Lei 8.112/90:",
+      "opcoes": [
+        "Gratificação natalina",
+        "Adicional noturno",
+        "Ajuda de custo",
+        "Adicional de férias",
+        "Gratificação por encargo de curso ou concurso"
+      ],
+      "correta": 2,
+      "explicacao": "São indenizações: ajuda de custo, diárias, transporte e auxílio-moradia. Os demais são gratificações ou adicionais.",
+      "artigo": "Art. 51"
+    },
+    {
+      "id": "8112-direitos-1-05",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "As reposições e indenizações ao erário, atualizadas até 30 de junho de 1994, serão previamente comunicadas ao servidor ativo, aposentado ou ao pensionista, para pagamento, no prazo máximo de ___ dias, podendo ser parceladas, a pedido do interessado.",
+      "banco": [
+        "30",
+        "15",
+        "60",
+        "90"
+      ],
+      "correta": "30",
+      "explicacao": "O prazo para pagamento da reposição é de 30 dias, com parcelamento a pedido do interessado.",
+      "artigo": "Art. 46, caput"
+    },
+    {
+      "id": "8112-direitos-1-06",
+      "tipo": "ce",
+      "categoria": "prazos",
+      "enunciado": "O valor de cada parcela da reposição ao erário não pode ser inferior a 10% da remuneração, provento ou pensão.",
+      "correta": true,
+      "explicacao": "Regra do parcelamento: parcela mínima de 10% da remuneração, provento ou pensão.",
+      "artigo": "Art. 46, § 1º"
+    },
+    {
+      "id": "8112-direitos-1-07",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "O servidor demitido ou exonerado que tiver débito com o erário tem prazo para quitá-lo; não quitado, é inscrito em dívida ativa. Esse prazo é de:",
+      "opcoes": [
+        "15 dias",
+        "30 dias",
+        "60 dias",
+        "90 dias",
+        "120 dias"
+      ],
+      "correta": 2,
+      "explicacao": "Demissão, exoneração ou cassação de aposentadoria: 60 dias para quitar o débito, sob pena de inscrição em dívida ativa. Não confunda com os 30 dias da reposição comum (art. 46).",
+      "artigo": "Art. 47"
+    },
+    {
+      "id": "8112-direitos-1-08",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O servidor que faltar sem motivo justificado perde a remuneração do dia, e a parcela proporcional a atrasos e saídas antecipadas pode ser compensada até o mês subsequente.",
+      "correta": true,
+      "explicacao": "A falta injustificada gera perda da remuneração do dia. Atrasos e saídas antecipadas descontam a parcela proporcional, salvo compensação de horário até o mês subsequente.",
+      "artigo": "Art. 44, I e II"
+    },
+    {
+      "id": "8112-direitos-1-09",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue a indenização à sua finalidade:",
+      "pares": [
+        [
+          "Ajuda de custo",
+          "Instalação em nova sede"
+        ],
+        [
+          "Diárias",
+          "Deslocamento eventual a serviço"
+        ],
+        [
+          "Indenização de transporte",
+          "Uso de meio próprio em serviço externo"
+        ],
+        [
+          "Auxílio-moradia",
+          "Aluguel ou hotel comprovado"
+        ]
+      ],
+      "explicacao": "Cada indenização tem finalidade própria: ajuda de custo (nova sede com mudança de domicílio), diárias (viagem a serviço), transporte (meio próprio) e moradia (despesa comprovada).",
+      "artigo": "Arts. 53, 58, 60 e 60-A"
+    },
+    {
+      "id": "8112-direitos-1-10",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "A ajuda de custo destina-se a compensar as despesas de instalação do servidor que, no interesse do serviço, passar a ter exercício em nova sede. Essa mudança exige:",
+      "opcoes": [
+        "domicílio em caráter permanente",
+        "domicílio em caráter provisório",
+        "apenas mudança de lotação, sem mudança de domicílio",
+        "pernoite fora da sede por período superior a 30 dias",
+        "pedido do servidor, mesmo sem interesse do serviço"
+      ],
+      "correta": 0,
+      "explicacao": "A ajuda de custo exige mudança de domicílio em caráter PERMANENTE. Deslocamento eventual ou transitório rende diárias.",
+      "artigo": "Art. 53, caput"
+    },
+    {
+      "id": "8112-direitos-1-11",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "As diárias são devidas ao servidor que se afastar da sede em caráter permanente, em razão de remoção de ofício.",
+      "correta": false,
+      "explicacao": "As diárias são para afastamento em caráter EVENTUAL ou TRANSITÓRIO. Mudança permanente de sede é caso de ajuda de custo.",
+      "artigo": "Art. 58, caput"
+    },
+    {
+      "id": "8112-direitos-1-12",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "As diárias serão concedidas por dia de afastamento, sendo devida pela metade quando o deslocamento não exigir pernoite fora da sede.",
+      "correta": true,
+      "explicacao": "Se não há pernoite fora da sede, a diária é paga pela metade. Também não há diária em deslocamento na mesma região metropolitana sem pernoite.",
+      "artigo": "Art. 58, §§ 1º e 3º"
+    }
+  ],
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112"
+}

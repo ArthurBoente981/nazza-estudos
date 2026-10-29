@@ -1,0 +1,182 @@
+{
+  "id": "8112-disciplinar-1",
+  "unidadeId": "8112-disciplinar",
+  "ordem": 1,
+  "titulo": "Deveres, proibições e acumulação",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Dever é o que o servidor TEM que fazer (art. 116); proibição é o que NÃO pode (art. 117). Advertência pega as proibições dos incisos I a VIII e XIX; as dos incisos IX a XVI levam à DEMISSÃO pelo art. 132, XIII. Pulo do gato, amor: decore o bloco IX–XVI!",
+  "questoes": [
+    {
+      "id": "8112-disciplinar-1-01",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "São deveres do servidor: cumprir as ordens superiores, exceto quando manifestamente ___.",
+      "banco": [
+        "ilegais",
+        "urgentes",
+        "verbais",
+        "injustas"
+      ],
+      "correta": "ilegais",
+      "explicacao": "A ordem só deixa de ser obrigatória se for MANIFESTAMENTE ilegal; ordem apenas injusta ou inconveniente deve ser cumprida.",
+      "artigo": "Art. 116, IV"
+    },
+    {
+      "id": "8112-disciplinar-1-02",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O servidor tem o dever de levar as irregularidades de que tiver ciência em razão do cargo ao conhecimento da autoridade superior ou, quando houver suspeita de envolvimento desta, de outra autoridade competente para apuração.",
+      "correta": true,
+      "explicacao": "Redação dada pela Lei 12.527/2011: se o chefe é o suspeito, a comunicação vai a OUTRA autoridade competente.",
+      "artigo": "Art. 116, VI"
+    },
+    {
+      "id": "8112-disciplinar-1-03",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue o capítulo do Regime Disciplinar ao tema:",
+      "pares": [
+        [
+          "Art. 116",
+          "Deveres"
+        ],
+        [
+          "Art. 117",
+          "Proibições"
+        ],
+        [
+          "Arts. 118 a 120",
+          "Acumulação"
+        ],
+        [
+          "Arts. 121 a 126-A",
+          "Responsabilidades"
+        ]
+      ],
+      "explicacao": "O Título IV (Regime Disciplinar) começa pelos deveres, segue com proibições, acumulação, responsabilidades e penalidades.",
+      "artigo": "Arts. 116 a 126-A"
+    },
+    {
+      "id": "8112-disciplinar-1-04",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A representação contra ilegalidade, omissão ou abuso de poder dispensa a via hierárquica e pode ser dirigida diretamente à autoridade que o representante escolher.",
+      "correta": false,
+      "explicacao": "A representação segue pela VIA HIERÁRQUICA e é apreciada pela autoridade superior àquela contra a qual é formulada, assegurada ampla defesa ao representado.",
+      "artigo": "Art. 116, XII e parágrafo único"
+    },
+    {
+      "id": "8112-disciplinar-1-05",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "A proibição cuja violação é, em regra, punida com ADVERTÊNCIA é:",
+      "opcoes": [
+        "ausentar-se do serviço durante o expediente, sem prévia autorização do chefe imediato",
+        "valer-se do cargo para lograr proveito pessoal em detrimento da dignidade da função",
+        "receber propina, comissão, presente ou vantagem de qualquer espécie em razão das atribuições",
+        "praticar usura sob qualquer de suas formas",
+        "utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares"
+      ],
+      "correta": 0,
+      "explicacao": "Advertência: incisos I a VIII e XIX do art. 117. As demais opções (IX a XVI) levam à DEMISSÃO pelo art. 132, XIII.",
+      "artigo": "Art. 117, I e Art. 129"
+    },
+    {
+      "id": "8112-disciplinar-1-06",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "A pena de advertência é aplicada por violação das proibições previstas no art. 117, incisos I a VIII e ___.",
+      "banco": [
+        "XIX",
+        "IX",
+        "XV",
+        "X"
+      ],
+      "correta": "XIX",
+      "explicacao": "Além de I a VIII, a advertência alcança o inciso XIX (recusar-se a atualizar seus dados cadastrais quando solicitado).",
+      "artigo": "Art. 129"
+    },
+    {
+      "id": "8112-disciplinar-1-07",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Valer-se do cargo para obter proveito pessoal ou de outrem, em detrimento da dignidade da função pública, é infração punível com advertência.",
+      "correta": false,
+      "explicacao": "Proibição do inciso IX do art. 117: está no bloco IX a XVI, que leva à DEMISSÃO (art. 132, XIII), e não à advertência.",
+      "artigo": "Art. 117, IX e Art. 132, XIII"
+    },
+    {
+      "id": "8112-disciplinar-1-08",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "A transgressão de uma das proibições abaixo NÃO enseja demissão com base no art. 132, XIII. Qual é?",
+      "opcoes": [
+        "receber propina, comissão ou presente em razão das atribuições",
+        "praticar usura sob qualquer forma",
+        "proceder de forma desidiosa",
+        "participar de gerência ou administração de sociedade privada",
+        "cometer a outro servidor atribuições estranhas ao cargo, salvo em situações de emergência e transitórias"
+      ],
+      "correta": 4,
+      "explicacao": "O art. 132, XIII só alcança os incisos IX a XVI do art. 117. O inciso XVII (atribuir funções estranhas) fica fora e é punido com suspensão.",
+      "artigo": "Art. 117, XVII e Art. 132, XIII"
+    },
+    {
+      "id": "8112-disciplinar-1-09",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "É proibido atuar, como procurador ou intermediário, junto a repartições públicas, salvo quando se tratar de benefícios previdenciários ou assistenciais de parentes até o ___ grau, e de cônjuge ou companheiro.",
+      "banco": [
+        "segundo",
+        "terceiro",
+        "primeiro",
+        "quarto"
+      ],
+      "correta": "segundo",
+      "explicacao": "Exceção: benefícios previdenciários ou assistenciais de parentes até o SEGUNDO grau, cônjuge ou companheiro.",
+      "artigo": "Art. 117, XI"
+    },
+    {
+      "id": "8112-disciplinar-1-10",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "É vedada a percepção de vencimento de cargo ou emprego público efetivo com proventos da inatividade, salvo quando os cargos de que decorram essas remunerações forem acumuláveis na atividade.",
+      "correta": true,
+      "explicacao": "Vale a regra da Constituição: só se pode receber vencimento junto com proventos se os cargos fossem acumuláveis na atividade.",
+      "artigo": "Art. 118, § 3º"
+    },
+    {
+      "id": "8112-disciplinar-1-11",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "O servidor que acumula licitamente dois cargos efetivos e é investido em cargo em comissão:",
+      "opcoes": [
+        "ficará afastado de ambos os cargos efetivos, salvo compatibilidade de horário e local com o exercício de um deles, declarada pelas autoridades máximas dos órgãos",
+        "poderá exercer os três cargos livremente, sem declaração",
+        "perderá automaticamente um dos cargos efetivos, à sua escolha",
+        "ficará afastado apenas do cargo efetivo de menor remuneração",
+        "exercerá os três cargos, mas só receberá pelo cargo em comissão"
+      ],
+      "correta": 0,
+      "explicacao": "Regra: afastamento de AMBOS os efetivos. Exceção: compatibilidade com um deles, declarada pelas autoridades máximas dos órgãos envolvidos.",
+      "artigo": "Art. 120"
+    },
+    {
+      "id": "8112-disciplinar-1-12",
+      "tipo": "mc",
+      "categoria": "pegadinhas",
+      "enunciado": "Quanto à vedação de acumulação de cargos, a Lei 8.112/90 estabelece que:",
+      "opcoes": [
+        "a proibição de acumular se estende a cargos, empregos e funções em autarquias, fundações, empresas públicas e sociedades de economia mista da União, dos Estados, DF e Municípios",
+        "a proibição vale apenas para cargos da administração direta",
+        "a acumulação lícita dispensa comprovação de compatibilidade de horários",
+        "o servidor pode exercer mais de um cargo em comissão, sem restrição",
+        "o servidor pode ser remunerado por participar de órgão de deliberação coletiva, sem exceção"
+      ],
+      "correta": 0,
+      "explicacao": "A vedação alcança também autarquias, fundações, empresas públicas e sociedades de economia mista; a acumulação lícita exige COMPATIBILIDADE de horários.",
+      "artigo": "Art. 118, §§ 1º e 2º; Art. 119"
+    }
+  ]
+}

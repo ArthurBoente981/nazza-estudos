@@ -1,0 +1,165 @@
+{
+  "id": "8112-direitos-2",
+  "unidadeId": "8112-direitos",
+  "ordem": 2,
+  "titulo": "Gratificações, adicionais e férias",
+  "dica": "Natalina: 1/12 por mês, paga até 20 de dezembro. Hora extra: +50%, máximo 2 h por jornada. Noturno: +25% das 22h às 5h. Adicional de férias: 1/3, sem precisar pedir. Férias: 30 dias, até 3 etapas, nunca descontando faltas. Bora fixar!",
+  "questoes": [
+    {
+      "id": "8112-direitos-2-01",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A gratificação natalina corresponde a ___ da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo ano.",
+      "banco": [
+        "1/12",
+        "1/3",
+        "1/6",
+        "1/2"
+      ],
+      "correta": "1/12",
+      "explicacao": "Natalina = 1/12 da remuneração de dezembro por mês de exercício. A fração igual ou superior a 15 dias conta como mês integral.",
+      "artigo": "Art. 63, caput"
+    },
+    {
+      "id": "8112-direitos-2-02",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A gratificação será paga até o dia ___ do mês de dezembro de cada ano.",
+      "banco": [
+        "20",
+        "10",
+        "25",
+        "30"
+      ],
+      "correta": "20",
+      "explicacao": "Natalina paga até o dia 20 de dezembro. O 13º é pago uma vez por ano, nesse prazo.",
+      "artigo": "Art. 64"
+    },
+    {
+      "id": "8112-direitos-2-03",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O servidor exonerado perceberá a gratificação natalina proporcional aos meses de exercício, calculada sobre a remuneração do mês da exoneração.",
+      "correta": true,
+      "explicacao": "A natalina proporcional é devida na exoneração, calculada sobre a remuneração do mês em que ocorreu.",
+      "artigo": "Art. 65"
+    },
+    {
+      "id": "8112-direitos-2-04",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "O serviço extraordinário será remunerado com acréscimo, em relação à hora normal de trabalho, de:",
+      "opcoes": [
+        "25%",
+        "50%",
+        "75%",
+        "100%",
+        "30%"
+      ],
+      "correta": 1,
+      "explicacao": "Hora extra: acréscimo de 50% sobre a hora normal. O adicional noturno é que é de 25%.",
+      "artigo": "Art. 73"
+    },
+    {
+      "id": "8112-direitos-2-05",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O serviço extraordinário pode ser realizado para atender a situações excepcionais e temporárias, respeitado o limite máximo de duas horas por jornada.",
+      "correta": true,
+      "explicacao": "Só se admite hora extra em situação EXCEPCIONAL e TEMPORÁRIA, com limite de 2 horas por jornada.",
+      "artigo": "Art. 74"
+    },
+    {
+      "id": "8112-direitos-2-06",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "O serviço noturno, prestado em horário compreendido entre 22 horas de um dia e 5 horas do dia seguinte, terá o valor-hora acrescido de:",
+      "opcoes": [
+        "50%",
+        "20%",
+        "25%",
+        "30%",
+        "10%"
+      ],
+      "correta": 2,
+      "explicacao": "Adicional noturno: 25% sobre o valor-hora, e a hora noturna é computada como 52 minutos e 30 segundos.",
+      "artigo": "Art. 75"
+    },
+    {
+      "id": "8112-direitos-2-07",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O adicional de férias, equivalente a 1/3 da remuneração do período de férias, só é pago se o servidor o requerer.",
+      "correta": false,
+      "explicacao": "O adicional de férias é pago INDEPENDENTEMENTE de solicitação, no valor de 1/3 da remuneração do período.",
+      "artigo": "Art. 76"
+    },
+    {
+      "id": "8112-direitos-2-08",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Sobre o servidor que tenha direito aos adicionais de insalubridade e de periculosidade, a Lei 8.112/90 dispõe que:",
+      "opcoes": [
+        "deverá optar por um deles",
+        "receberá os dois cumulativamente",
+        "receberá o de maior valor automaticamente",
+        "dependerá de autorização do chefe imediato",
+        "perderá ambos até a perícia"
+      ],
+      "correta": 0,
+      "explicacao": "Não há acúmulo: o servidor que fizer jus aos dois deve OPTAR por um deles. O direito cessa com a eliminação das condições ou riscos.",
+      "artigo": "Art. 68, § 1º"
+    },
+    {
+      "id": "8112-direitos-2-09",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "O servidor fará jus a trinta dias de férias, que podem ser acumuladas, até o máximo de dois períodos, no caso de ___.",
+      "banco": [
+        "necessidade do serviço",
+        "interesse do servidor",
+        "licença médica",
+        "doação de sangue"
+      ],
+      "correta": "necessidade do serviço",
+      "explicacao": "Acumulação de até dois períodos de férias só por NECESSIDADE DO SERVIÇO, vedada a de mais de dois.",
+      "artigo": "Art. 77, caput"
+    },
+    {
+      "id": "8112-direitos-2-10",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "É permitido levar à conta de férias a falta ao serviço do servidor.",
+      "correta": false,
+      "explicacao": "É VEDADO levar à conta de férias qualquer falta ao serviço.",
+      "artigo": "Art. 77, § 2º"
+    },
+    {
+      "id": "8112-direitos-2-11",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "As férias poderão ser parceladas em até:",
+      "opcoes": [
+        "duas etapas, de ofício",
+        "três etapas, a pedido do servidor e no interesse da administração",
+        "quatro etapas, a critério do servidor",
+        "três etapas, por determinação da chefia",
+        "duas etapas, por necessidade do serviço"
+      ],
+      "correta": 1,
+      "explicacao": "Parcelamento em até 3 etapas, desde que haja pedido do servidor E interesse da administração.",
+      "artigo": "Art. 77, § 3º"
+    },
+    {
+      "id": "8112-direitos-2-12",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "As férias somente podem ser interrompidas por motivo de calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, ou por necessidade do serviço declarada pela autoridade máxima do órgão.",
+      "correta": true,
+      "explicacao": "Lista fechada de hipóteses de interrupção das férias; a necessidade do serviço deve ser declarada pela autoridade máxima do órgão ou entidade.",
+      "artigo": "Art. 80"
+    }
+  ],
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112"
+}

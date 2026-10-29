@@ -1,0 +1,182 @@
+{
+  "id": "9784-2",
+  "unidadeId": "9784",
+  "ordem": 2,
+  "titulo": "Início, competência, impedimento e prazos",
+  "materia": "Lei 9.784/99 (Processo administrativo)",
+  "fonte": "Lei 9.784",
+  "dica": "Processo começa de ofício ou a pedido. Competência é irrenunciável: pode haver delegação (mesmo sem subordinação) e avocação (excepcional), mas NÃO se delegam atos normativos, decisão de recursos e competência exclusiva. Impedimento = interesse/litígio/atuação prévia (deve comunicar); suspeição = amizade íntima ou inimizade notória. Prazo geral: 5 dias; intimação: 3 dias úteis.",
+  "questoes": [
+    {
+      "id": "9784-2-01",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "São capazes, para fins de processo administrativo, os maiores de ___ anos, ressalvada previsão especial em ato normativo próprio.",
+      "banco": [
+        "18",
+        "16",
+        "21",
+        "14"
+      ],
+      "correta": "18",
+      "explicacao": "A capacidade para o processo administrativo é dos maiores de 18 anos.",
+      "artigo": "Art. 10"
+    },
+    {
+      "id": "9784-2-02",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "O requerimento inicial do interessado, salvo solicitação oral admitida, deve conter todos os dados abaixo, EXCETO:",
+      "opcoes": [
+        "órgão ou autoridade a que se dirige",
+        "identificação do interessado ou de seu representante",
+        "domicílio ou local para recebimento de comunicações",
+        "certidão negativa de débitos tributários",
+        "data e assinatura do requerente"
+      ],
+      "correta": 3,
+      "explicacao": "O art. 6º não exige certidão negativa de débitos. É vedada, aliás, a recusa imotivada de recebimento de documentos.",
+      "artigo": "Art. 6º"
+    },
+    {
+      "id": "9784-2-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A competência administrativa é renunciável quando houver conveniência para o serviço, mediante ato do próprio titular.",
+      "correta": false,
+      "explicacao": "A competência é IRRENUNCIÁVEL, exercendo-se pelo órgão a que foi atribuída, salvo delegação e avocação legalmente admitidas.",
+      "artigo": "Art. 11"
+    },
+    {
+      "id": "9784-2-04",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "Segundo a Lei 9.784/99, NÃO pode ser objeto de delegação:",
+      "opcoes": [
+        "a decisão de recursos administrativos",
+        "a prática de atos de instrução",
+        "a assinatura de despachos de expediente",
+        "a emissão de certidões",
+        "a realização de diligências"
+      ],
+      "correta": 0,
+      "explicacao": "Não se delegam: atos normativos, DECISÃO DE RECURSOS administrativos e matérias de competência exclusiva.",
+      "artigo": "Art. 13, II"
+    },
+    {
+      "id": "9784-2-05",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A delegação de competência só é possível a órgãos ou titulares hierarquicamente subordinados ao delegante.",
+      "correta": false,
+      "explicacao": "A delegação é possível ainda que o delegado NÃO seja subordinado, havendo conveniência técnica, social, econômica, jurídica ou territorial.",
+      "artigo": "Art. 12, caput"
+    },
+    {
+      "id": "9784-2-06",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "Será permitida, em caráter ___ e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior.",
+      "banco": [
+        "excepcional",
+        "permanente",
+        "ordinário",
+        "facultativo"
+      ],
+      "correta": "excepcional",
+      "explicacao": "A avocação é EXCEPCIONAL e temporária, com motivos relevantes justificados.",
+      "artigo": "Art. 15"
+    },
+    {
+      "id": "9784-2-07",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Constitui hipótese de IMPEDIMENTO para atuar em processo administrativo:",
+      "opcoes": [
+        "amizade íntima com o interessado",
+        "inimizade notória com o interessado",
+        "amizade íntima com o cônjuge do interessado",
+        "inimizade notória com parente do interessado até o 3º grau",
+        "ter participado como perito, testemunha ou representante"
+      ],
+      "correta": 4,
+      "explicacao": "Ter atuado como perito, testemunha ou representante gera IMPEDIMENTO. Amizade íntima e inimizade notória são SUSPEIÇÃO. Omitir o impedimento é falta grave.",
+      "artigo": "Art. 18, II; Art. 19, parágrafo único; Art. 20"
+    },
+    {
+      "id": "9784-2-08",
+      "tipo": "pares",
+      "categoria": "prazos",
+      "enunciado": "Ligue cada regra de prazo à sua consequência:",
+      "pares": [
+        [
+          "Prazo geral dos atos",
+          "5 dias"
+        ],
+        [
+          "Dilatação do prazo geral",
+          "Até o dobro, com justificação"
+        ],
+        [
+          "Prazos expressos em dias",
+          "Contam-se de modo contínuo"
+        ],
+        [
+          "Prazos em meses ou anos",
+          "Contam-se de data a data"
+        ]
+      ],
+      "explicacao": "Sem prazo específico, os atos têm 5 dias, dilatáveis até o dobro mediante justificação. Dias contam-se continuamente; meses e anos, de data a data.",
+      "artigo": "Art. 24 e Art. 66, §§ 2º e 3º"
+    },
+    {
+      "id": "9784-2-09",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A intimação observará a antecedência mínima de ___ dias úteis quanto à data de comparecimento.",
+      "banco": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "correta": "3",
+      "explicacao": "A intimação exige antecedência mínima de TRÊS dias úteis.",
+      "artigo": "Art. 26, § 2º"
+    },
+    {
+      "id": "9784-2-10",
+      "tipo": "mc",
+      "categoria": "prazos",
+      "enunciado": "Se o vencimento de um prazo cair em dia sem expediente, considera-se o prazo:",
+      "opcoes": [
+        "vencido no último dia útil anterior",
+        "prorrogado até o primeiro dia útil seguinte",
+        "prorrogado por mais cinco dias",
+        "suspenso até nova intimação",
+        "mantido, devendo o ato ser praticado por meio eletrônico"
+      ],
+      "correta": 1,
+      "explicacao": "Prorroga-se até o PRIMEIRO DIA ÚTIL seguinte. Na contagem, exclui-se o dia do começo e inclui-se o do vencimento.",
+      "artigo": "Art. 66, § 1º"
+    },
+    {
+      "id": "9784-2-11",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo a Lei 9.784/99, tem prioridade de tramitação a pessoa com idade igual ou superior a 65 anos.",
+      "correta": false,
+      "explicacao": "O limite é 60 anos. Também têm prioridade pessoas com deficiência e portadoras de doença grave, conforme o art. 69-A.",
+      "artigo": "Art. 69-A, I"
+    },
+    {
+      "id": "9784-2-12",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "Salvo motivo de força maior devidamente comprovado, os prazos processuais não se suspendem.",
+      "correta": true,
+      "explicacao": "Regra: prazos NÃO se suspendem. Só há exceção para força maior comprovada.",
+      "artigo": "Art. 67"
+    }
+  ]
+}

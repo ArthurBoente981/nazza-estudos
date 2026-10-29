@@ -1,0 +1,176 @@
+{
+  "id": "afo-2",
+  "unidadeId": "afo",
+  "ordem": 2,
+  "titulo": "Princípios orçamentários",
+  "materia": "AFO (Orçamento e LRF)",
+  "fonte": "CF/88 e Lei 4.320",
+  "dica": "Macete da Lei 4.320 (art. 2º): UNIDADE, UNIVERSALIDADE e ANUALIDADE. Depois guarde: exclusividade (165, § 8º), não afetação de impostos (167, IV), orçamento bruto (art. 6º) e especificação (art. 5º). Banca adora trocar um pelo outro!",
+  "questoes": [
+    {
+      "id": "afo-2-01",
+      "tipo": "lacuna",
+      "categoria": "tipos",
+      "texto": "A Lei de Orçamento conterá a discriminação da receita e despesa de forma a evidenciar a política econômica financeira e o programa de trabalho do Governo, obedecidos os princípios de unidade, universalidade e ___.",
+      "banco": [
+        "anualidade",
+        "exclusividade",
+        "legalidade",
+        "equilíbrio"
+      ],
+      "correta": "anualidade",
+      "explicacao": "O art. 2º da Lei 4.320 cita três princípios: unidade, universalidade e ANUALIDADE.",
+      "artigo": "Art. 2º, caput, Lei 4.320"
+    },
+    {
+      "id": "afo-2-02",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Pelo princípio da universalidade, a lei orçamentária deve compreender todas as receitas e todas as despesas dos órgãos da administração direta e entidades da administração indireta.",
+      "correta": true,
+      "explicacao": "Universalidade: tudo entra no orçamento (receitas e despesas), para permitir o controle do Legislativo.",
+      "artigo": "Arts. 3º e 4º, Lei 4.320, e art. 165, § 5º, CF"
+    },
+    {
+      "id": "afo-2-03",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "O princípio da exclusividade determina que a lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa. Está EXCLUÍDA dessa proibição:",
+      "opcoes": [
+        "a autorização para abertura de créditos suplementares e contratação de operações de crédito",
+        "a criação de novos tributos",
+        "a concessão de aumento a servidores",
+        "a alteração da legislação tributária",
+        "a criação de cargos públicos"
+      ],
+      "correta": 0,
+      "explicacao": "A exceção do princípio é a autorização para créditos suplementares e operações de crédito (inclusive ARO nos termos da lei). Outros assuntos configuram \"jabuti\".",
+      "artigo": "Art. 165, § 8º, CF"
+    },
+    {
+      "id": "afo-2-04",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Pelo princípio da anualidade, a vigência do orçamento coincide com o exercício financeiro, que corresponde ao ano civil.",
+      "correta": true,
+      "explicacao": "O exercício financeiro coincide com o ANO CIVIL (1º de janeiro a 31 de dezembro), e a LOA é elaborada e votada para esse período.",
+      "artigo": "Art. 34, Lei 4.320"
+    },
+    {
+      "id": "afo-2-05",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "A vedação à vinculação da receita de impostos a órgão, fundo ou despesa decorre do princípio da:",
+      "opcoes": [
+        "não afetação (ou não vinculação) de receitas",
+        "universalidade",
+        "exclusividade",
+        "unidade",
+        "especificação"
+      ],
+      "correta": 0,
+      "explicacao": "Receita de IMPOSTOS não pode ser vinculada a órgão, fundo ou despesa, ressalvadas saúde, educação, administração tributária, repartições e garantias.",
+      "artigo": "Art. 167, IV, CF"
+    },
+    {
+      "id": "afo-2-06",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A vedação de vinculação da receita de impostos a despesa específica é absoluta, sem qualquer exceção prevista na Constituição.",
+      "correta": false,
+      "explicacao": "Pegadinha do \"nunca\": o próprio inciso IV admite exceções, como repartição do FPE/FPM, saúde, educação e atividades da administração tributária.",
+      "artigo": "Art. 167, IV, CF"
+    },
+    {
+      "id": "afo-2-07",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "Todas as receitas e despesas constarão da Lei de Orçamento pelos seus totais, vedadas quaisquer ___.",
+      "banco": [
+        "deduções",
+        "compensações",
+        "reduções",
+        "omissões"
+      ],
+      "correta": "deduções",
+      "explicacao": "Esse é o princípio do orçamento BRUTO: nada de lançar só o saldo líquido, receitas e despesas entram pelos totais.",
+      "artigo": "Art. 6º, Lei 4.320"
+    },
+    {
+      "id": "afo-2-08",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "A Lei do Orçamento não consignará dotações globais destinadas a atender indiferentemente a despesas de pessoal, material, serviços de terceiros, transferências ou quaisquer outras. Essa regra reflete o princípio da:",
+      "opcoes": [
+        "especificação (ou discriminação)",
+        "universalidade",
+        "exclusividade",
+        "anualidade",
+        "unidade"
+      ],
+      "correta": 0,
+      "explicacao": "Dotações genéricas \"para tudo\" são vedadas: o orçamento deve discriminar a despesa. Ressalvam-se os casos do art. 20 e seu parágrafo único.",
+      "artigo": "Art. 5º, Lei 4.320"
+    },
+    {
+      "id": "afo-2-09",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue o princípio à ideia central:",
+      "pares": [
+        [
+          "Unidade",
+          "Um só orçamento por ente"
+        ],
+        [
+          "Universalidade",
+          "Todas as receitas e despesas"
+        ],
+        [
+          "Orçamento bruto",
+          "Valores totais, sem deduções"
+        ],
+        [
+          "Exclusividade",
+          "Só receita e despesa na LOA"
+        ]
+      ],
+      "explicacao": "Unidade e universalidade vêm da Lei 4.320 (arts. 2º a 4º); bruto, art. 6º; exclusividade, CF art. 165, § 8º.",
+      "artigo": "Arts. 2º a 6º, Lei 4.320, e art. 165, § 8º, CF"
+    },
+    {
+      "id": "afo-2-10",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O princípio da unidade exige que existam orçamentos separados para cada órgão, de modo a facilitar o controle específico de cada um.",
+      "correta": false,
+      "explicacao": "Inverteu a ideia: pela UNIDADE cada ente tem um orçamento único, com política orçamentária única e estrutura uniforme, ainda que haja três orçamentos integrados na LOA.",
+      "artigo": "Art. 2º, Lei 4.320 e Art. 165, § 5º, CF"
+    },
+    {
+      "id": "afo-2-11",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "O princípio da publicidade exige que a lei orçamentária seja divulgada pelos veículos oficiais de comunicação, para que a sociedade tome conhecimento e possa fiscalizar o gasto público.",
+      "correta": true,
+      "explicacao": "Publicidade (art. 37, caput, CF): os atos da administração, inclusive a lei orçamentária e os relatórios fiscais, devem ser divulgados.",
+      "artigo": "Art. 37, caput, CF"
+    },
+    {
+      "id": "afo-2-12",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "É vedado, segundo a CF/88, iniciar programas ou projetos não incluídos na lei orçamentária anual. Essa vedação decorre do princípio da:",
+      "opcoes": [
+        "legalidade orçamentária",
+        "publicidade",
+        "anualidade",
+        "unidade",
+        "não afetação"
+      ],
+      "correta": 0,
+      "explicacao": "Sem previsão na lei orçamentária, o gestor não pode iniciar programa, projeto ou despesa: é a LEGALIDADE orçamentária (art. 167, I e II).",
+      "artigo": "Art. 167, I, CF"
+    }
+  ]
+}

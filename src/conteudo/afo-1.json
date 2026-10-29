@@ -1,0 +1,175 @@
+{
+  "id": "afo-1",
+  "unidadeId": "afo",
+  "ordem": 1,
+  "titulo": "PPA, LDO e LOA",
+  "materia": "AFO (Orçamento e LRF)",
+  "fonte": "CF/88",
+  "dica": "Três leis, todas de iniciativa do EXECUTIVO (art. 165): PPA = planejamento de médio prazo (4 anos), LDO = ponte e regras do jogo, LOA = o orçamento do ano com os três orçamentos (fiscal, investimento, seguridade). Macete: PPA planeja, LDO orienta, LOA executa.",
+  "questoes": [
+    {
+      "id": "afo-1-01",
+      "tipo": "mc",
+      "categoria": "competencias",
+      "enunciado": "Segundo a CF/88, são de iniciativa do Poder Executivo as leis que estabelecerão:",
+      "opcoes": [
+        "apenas o orçamento anual",
+        "o plano plurianual, as diretrizes orçamentárias e os orçamentos anuais",
+        "somente o plano plurianual e a lei orçamentária anual",
+        "as diretrizes orçamentárias, de iniciativa do Legislativo",
+        "o plano plurianual e as diretrizes orçamentárias, mas não os orçamentos anuais"
+      ],
+      "correta": 1,
+      "explicacao": "O art. 165 atribui ao Executivo a iniciativa das TRÊS leis: PPA, LDO e orçamentos anuais.",
+      "artigo": "Art. 165, caput e incisos I a III, CF"
+    },
+    {
+      "id": "afo-1-02",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A lei que instituir o plano plurianual estabelecerá, de forma regionalizada, as diretrizes, objetivos e metas da administração pública federal para as despesas de capital e outras delas decorrentes e para as relativas aos programas de ___.",
+      "banco": [
+        "duração continuada",
+        "curto prazo",
+        "caráter eventual",
+        "execução imediata"
+      ],
+      "correta": "duração continuada",
+      "explicacao": "O PPA cobre despesas de capital, as delas decorrentes e os programas de DURAÇÃO CONTINUADA.",
+      "artigo": "Art. 165, § 1º, CF"
+    },
+    {
+      "id": "afo-1-03",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "A lei de diretrizes orçamentárias compreenderá as metas e prioridades da administração pública, orientará a elaboração da lei orçamentária anual e disporá sobre alterações na legislação tributária.",
+      "correta": true,
+      "explicacao": "Art. 165, § 2º (redação da EC 109/2021): metas e prioridades, diretrizes de política fiscal e metas em consonância com a dívida sustentável, orientação da LOA, alterações na legislação tributária e política das agências de fomento.",
+      "artigo": "Art. 165, § 2º, CF"
+    },
+    {
+      "id": "afo-1-04",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "A lei orçamentária anual compreenderá, nos termos da CF/88:",
+      "opcoes": [
+        "o orçamento fiscal, o de investimento das empresas estatais e o da seguridade social",
+        "o orçamento fiscal, o monetário e o de capital",
+        "o orçamento de custeio, o de capital e o previdenciário",
+        "o orçamento da União, dos estados e dos municípios",
+        "o orçamento fiscal e o de investimento, apenas"
+      ],
+      "correta": 0,
+      "explicacao": "A LOA abrange três orçamentos: FISCAL, de INVESTIMENTO das estatais (com maioria do capital votante da União) e da SEGURIDADE SOCIAL.",
+      "artigo": "Art. 165, § 5º, I a III, CF"
+    },
+    {
+      "id": "afo-1-05",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O orçamento de investimento da LOA refere-se às empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com direito a voto.",
+      "correta": true,
+      "explicacao": "O orçamento de investimento das estatais cobre empresas em que o ente tem a MAIORIA do capital social com direito a voto.",
+      "artigo": "Art. 165, § 5º, II, CF"
+    },
+    {
+      "id": "afo-1-06",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "A fixação da política das agências financeiras oficiais de fomento é matéria do plano plurianual.",
+      "correta": false,
+      "explicacao": "Pegadinha de troca de instrumento: a política das agências oficiais de fomento é matéria da LDO, não do PPA.",
+      "artigo": "Art. 165, § 2º, CF"
+    },
+    {
+      "id": "afo-1-07",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "O projeto de lei orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza ___, tributária e creditícia.",
+      "banco": [
+        "financeira",
+        "patrimonial",
+        "previdenciária",
+        "contábil"
+      ],
+      "correta": "financeira",
+      "explicacao": "O demonstrativo cobre benefícios de natureza FINANCEIRA, tributária e creditícia.",
+      "artigo": "Art. 165, § 6º, CF"
+    },
+    {
+      "id": "afo-1-08",
+      "tipo": "ce",
+      "categoria": "prazos",
+      "enunciado": "A vigência do plano plurianual é de quatro anos, começando no segundo ano do mandato do chefe do Executivo e terminando no primeiro ano do mandato seguinte.",
+      "correta": true,
+      "explicacao": "O PPA dura 4 anos e atravessa a troca de governo, o que garante continuidade administrativa. Regra transitória do ADCT, mantida até a lei complementar do art. 165, § 9º.",
+      "artigo": "Art. 35, § 2º, I, ADCT"
+    },
+    {
+      "id": "afo-1-09",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "A LRF acrescentou à lei de diretrizes orçamentárias, como parte integrante, o:",
+      "opcoes": [
+        "Anexo de Metas Fiscais",
+        "Anexo de Investimentos Plurianuais",
+        "Plano de Contas Nacional",
+        "Anexo de Créditos Adicionais",
+        "Relatório de Gestão Fiscal"
+      ],
+      "correta": 0,
+      "explicacao": "A LDO traz o Anexo de Metas Fiscais, com metas anuais de receitas, despesas, resultados nominal e primário e dívida pública.",
+      "artigo": "Art. 4º, § 1º, LRF"
+    },
+    {
+      "id": "afo-1-10",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "A lei de diretrizes orçamentárias conterá Anexo de ___, onde serão avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas, informando as providências a serem tomadas, caso se concretizem.",
+      "banco": [
+        "Riscos Fiscais",
+        "Metas Fiscais",
+        "Gestão Fiscal",
+        "Créditos Especiais"
+      ],
+      "correta": "Riscos Fiscais",
+      "explicacao": "Os passivos contingentes e demais riscos vão no Anexo de RISCOS Fiscais, com as providências caso se concretizem. Não confunda com o de Metas Fiscais.",
+      "artigo": "Art. 4º, § 3º, LRF"
+    },
+    {
+      "id": "afo-1-11",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue cada lei ao seu conteúdo:",
+      "pares": [
+        [
+          "PPA",
+          "Diretrizes e metas de 4 anos"
+        ],
+        [
+          "LDO",
+          "Metas e prioridades; orienta a LOA"
+        ],
+        [
+          "LOA",
+          "Fiscal, investimento, seguridade"
+        ],
+        [
+          "Anexo de Riscos Fiscais",
+          "Passivos contingentes (LDO/LRF)"
+        ]
+      ],
+      "explicacao": "PPA planeja, LDO orienta e a LOA executa. O Anexo de Riscos Fiscais integra a LDO por força da LRF.",
+      "artigo": "Art. 165, §§ 1º, 2º e 5º, CF e Art. 4º, § 3º, LRF"
+    },
+    {
+      "id": "afo-1-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O Poder Legislativo tem iniciativa para propor o plano plurianual, cabendo ao Executivo apenas sancioná-lo.",
+      "correta": false,
+      "explicacao": "A iniciativa do PPA, da LDO e da LOA é privativa do chefe do EXECUTIVO. O Legislativo aprecia e pode emendar, respeitados os limites do art. 166.",
+      "artigo": "Art. 165, caput, CF"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "id": "improbidade-1",
+  "unidadeId": "improbidade",
+  "ordem": 1,
+  "titulo": "Sujeitos e atos de improbidade",
+  "materia": "Lei 8.429/92 (Improbidade)",
+  "fonte": "Lei 8.429",
+  "dica": "Depois da Lei 14.230/2021 só existe improbidade DOLOSA: não tem mais improbidade culposa. Três tipos: art. 9º (enriquecimento ilícito), art. 10 (prejuízo ao erário) e art. 11 (violação de princípios). Art. 9º e 10 têm rol exemplificativo (\"notadamente\"); o art. 11 é taxativo. Terceiro só responde se induzir ou concorrer DOLOSAMENTE.",
+  "questoes": [
+    {
+      "id": "improbidade-1-01",
+      "tipo": "ce",
+      "enunciado": "Segundo a Lei 8.429/92, na redação dada pela Lei 14.230/2021, são considerados atos de improbidade administrativa as condutas dolosas tipificadas nos arts. 9º, 10 e 11.",
+      "correta": true,
+      "explicacao": "Hoje só existe improbidade DOLOSA. A modalidade culposa do art. 10 foi eliminada.",
+      "artigo": "Art. 1º, § 1º",
+      "categoria": "conceitos"
+    },
+    {
+      "id": "improbidade-1-02",
+      "tipo": "lacuna",
+      "texto": "Considera-se dolo a vontade livre e consciente de alcançar o ___ ilícito tipificado nos arts. 9º, 10 e 11 desta Lei, não bastando a voluntariedade do agente.",
+      "banco": [
+        "resultado",
+        "proveito",
+        "dano",
+        "benefício"
+      ],
+      "correta": "resultado",
+      "explicacao": "Dolo é a vontade livre e consciente de alcançar o RESULTADO ilícito; a mera ação voluntária não basta.",
+      "artigo": "Art. 1º, § 2º",
+      "categoria": "conceitos"
+    },
+    {
+      "id": "improbidade-1-03",
+      "tipo": "mc",
+      "enunciado": "Considera-se agente público, para os efeitos da Lei 8.429/92:",
+      "opcoes": [
+        "apenas o servidor público estatutário ocupante de cargo efetivo",
+        "apenas quem exerce cargo mediante concurso público",
+        "somente o agente político eleito e o servidor remunerado",
+        "o agente político, o servidor público e quem exerce, ainda que transitoriamente ou sem remuneração, mandato, cargo, emprego ou função, por qualquer forma de investidura",
+        "apenas quem exerce função na administração direta, excluídas as autarquias"
+      ],
+      "correta": 3,
+      "explicacao": "O conceito é amplo: inclui o exercício TRANSITÓRIO ou SEM REMUNERAÇÃO e qualquer forma de investidura (eleição, nomeação, designação, contratação).",
+      "artigo": "Art. 2º, caput",
+      "categoria": "conceitos"
+    },
+    {
+      "id": "improbidade-1-04",
+      "tipo": "ce",
+      "enunciado": "Quem não é agente público não pode ser alcançado pela Lei de Improbidade, que se aplica apenas a servidores e agentes políticos.",
+      "correta": false,
+      "explicacao": "A lei se aplica, no que couber, a quem NÃO é agente público mas induz ou concorre DOLOSAMENTE para o ato de improbidade.",
+      "artigo": "Art. 3º, caput",
+      "categoria": "pegadinhas"
+    },
+    {
+      "id": "improbidade-1-05",
+      "tipo": "mc",
+      "enunciado": "Quanto aos sócios, cotistas, diretores e colaboradores de pessoa jurídica de direito privado em relação ao ato de improbidade imputado à empresa, a Lei 8.429/92 estabelece que:",
+      "opcoes": [
+        "respondem sempre solidariamente com a empresa",
+        "não respondem pelo ato imputado à pessoa jurídica, salvo se comprovada sua participação e benefícios diretos, caso em que responderão nos limites da participação",
+        "respondem apenas se forem agentes públicos",
+        "respondem somente com a multa civil, nunca com a perda de bens",
+        "respondem de forma objetiva, independentemente de dolo"
+      ],
+      "correta": 1,
+      "explicacao": "Regra: NÃO respondem. Exceção: participação e benefício direto comprovados, e só nos limites da participação.",
+      "artigo": "Art. 3º, § 1º",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-1-06",
+      "tipo": "lacuna",
+      "texto": "Constitui ato de improbidade administrativa importando em enriquecimento ilícito auferir, mediante a prática de ato doloso, qualquer tipo de ___ patrimonial indevida em razão do exercício de cargo, de mandato, de função, de emprego ou de atividade nas entidades referidas no art. 1º desta Lei.",
+      "banco": [
+        "vantagem",
+        "prejuízo",
+        "lesão",
+        "doação"
+      ],
+      "correta": "vantagem",
+      "explicacao": "O art. 9º trata da VANTAGEM patrimonial indevida obtida em razão da função pública.",
+      "artigo": "Art. 9º, caput",
+      "categoria": "conceitos"
+    },
+    {
+      "id": "improbidade-1-07",
+      "tipo": "mc",
+      "enunciado": "Constitui ato de improbidade administrativa que importa ENRIQUECIMENTO ILÍCITO, nos termos do art. 9º:",
+      "opcoes": [
+        "negar publicidade a atos oficiais",
+        "liberar verba pública sem observar as normas pertinentes",
+        "receber dinheiro, bem móvel ou imóvel ou qualquer vantagem de quem tenha interesse que possa ser atingido pela atuação do agente",
+        "nomear cônjuge para cargo em comissão",
+        "permitir que particular use bem público sem as formalidades legais"
+      ],
+      "correta": 2,
+      "explicacao": "Receber vantagem de quem tem interesse afetado pela atuação do agente é enriquecimento ilícito (art. 9º, I). As demais são dos arts. 10 e 11.",
+      "artigo": "Art. 9º, I",
+      "categoria": "tipos"
+    },
+    {
+      "id": "improbidade-1-08",
+      "tipo": "ce",
+      "enunciado": "Para configurar ato de improbidade que causa lesão ao erário, o art. 10 exige ação ou omissão dolosa que cause perda patrimonial efetiva e comprovada.",
+      "correta": true,
+      "explicacao": "A perda patrimonial deve ser EFETIVA e COMPROVADA. Sem perda efetiva, inobservar formalidade não gera ressarcimento.",
+      "artigo": "Art. 10, caput e § 1º",
+      "categoria": "regras"
+    },
+    {
+      "id": "improbidade-1-09",
+      "tipo": "ce",
+      "enunciado": "O rol de condutas do art. 11, que trata da violação a princípios da administração pública, é exemplificativo, assim como o dos arts. 9º e 10.",
+      "correta": false,
+      "explicacao": "Os arts. 9º e 10 usam \"notadamente\" (exemplificativos). O art. 11 passou a ser TAXATIVO: só vale a conduta listada nos incisos.",
+      "artigo": "Art. 11, caput",
+      "categoria": "pegadinhas"
+    },
+    {
+      "id": "improbidade-1-10",
+      "tipo": "pares",
+      "enunciado": "Ligue o ato de improbidade ao artigo que o tipifica:",
+      "pares": [
+        [
+          "Art. 9º",
+          "Enriquecimento ilícito"
+        ],
+        [
+          "Art. 10",
+          "Prejuízo ao erário"
+        ],
+        [
+          "Art. 11",
+          "Violação de princípios"
+        ],
+        [
+          "Art. 1º, § 2º",
+          "Conceito de dolo"
+        ]
+      ],
+      "explicacao": "Os três tipos são os arts. 9º (enriquecimento), 10 (erário) e 11 (princípios). O conceito de dolo está no art. 1º, § 2º.",
+      "artigo": "Arts. 1º, 9º, 10 e 11",
+      "categoria": "tipos"
+    },
+    {
+      "id": "improbidade-1-11",
+      "tipo": "mc",
+      "enunciado": "Segundo o art. 11 da Lei 8.429/92, constitui ato de improbidade que atenta contra os princípios da administração pública:",
+      "opcoes": [
+        "adquirir bens de valor desproporcional à renda do agente",
+        "facilitar a incorporação de bem público ao patrimônio particular",
+        "nomear cônjuge, companheiro ou parente até o terceiro grau para cargo em comissão, de confiança ou função gratificada",
+        "usar em proveito próprio verbas do acervo público",
+        "ordenar despesas não autorizadas em lei, causando perda patrimonial"
+      ],
+      "correta": 2,
+      "explicacao": "O nepotismo (parente até o 3º grau em cargo em comissão, de confiança ou função gratificada) está no art. 11, XI. As demais são dos arts. 9º e 10.",
+      "artigo": "Art. 11, XI",
+      "categoria": "tipos"
+    },
+    {
+      "id": "improbidade-1-12",
+      "tipo": "ce",
+      "enunciado": "Segundo a Lei 8.429/92, ação ou omissão fundada em interpretação divergente da lei, baseada em jurisprudência, ainda que não pacificada, não configura improbidade administrativa.",
+      "correta": true,
+      "explicacao": "Pela letra do art. 1º, § 8º, não há improbidade quando o agente segue jurisprudência, ainda que não pacificada. Atenção: esse parágrafo está com a eficácia SUSPENSA por liminar do STF (ADI 7236); em prova literal, vale o texto da lei.",
+      "artigo": "Art. 1º, § 8º",
+      "categoria": "pegadinhas"
+    }
+  ]
+}

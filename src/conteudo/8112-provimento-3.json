@@ -1,0 +1,175 @@
+{
+  "id": "8112-provimento-3",
+  "unidadeId": "8112-provimento",
+  "ordem": 3,
+  "titulo": "Nomeação, estágio probatório e estabilidade",
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112",
+  "dica": "Efetivo = concurso; comissão = livre nomeação e exoneração. Estágio probatório avalia 5 fatores: ADIPR (Assiduidade, Disciplina, Iniciativa, Produtividade, Responsabilidade). Reprovado: exonerado, ou reconduzido se já era estável em outro cargo. Atenção: a 8.112 diz 24 meses, mas a CF (art. 41) fala em 3 anos.",
+  "questoes": [
+    {
+      "id": "8112-provimento-3-01",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Segundo a Lei 8.112/90, a nomeação para cargo público far-se-á:",
+      "opcoes": [
+        "apenas em caráter efetivo, em cargo isolado ou de carreira",
+        "em caráter efetivo, em cargo isolado ou de carreira, ou em comissão, inclusive em caráter interino, para cargos de confiança vagos",
+        "em caráter efetivo, em comissão ou em caráter temporário, por excepcional interesse público",
+        "em caráter vitalício ou efetivo, conforme o cargo",
+        "apenas em comissão, enquanto não houver concurso"
+      ],
+      "correta": 1,
+      "explicacao": "O art. 9º prevê duas formas de nomeação: em caráter EFETIVO (cargo isolado ou de carreira) e em COMISSÃO (inclusive interina, para cargos de confiança vagos).",
+      "artigo": "Art. 9º, I e II"
+    },
+    {
+      "id": "8112-provimento-3-02",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A nomeação para cargo de carreira ou cargo isolado de provimento efetivo depende de prévia habilitação em concurso público de provas ou de provas e títulos.",
+      "correta": true,
+      "explicacao": "Cargo efetivo exige concurso, observada a ordem de classificação e o prazo de validade. Cargo em comissão é que dispensa concurso.",
+      "artigo": "Art. 10, caput"
+    },
+    {
+      "id": "8112-provimento-3-03",
+      "tipo": "lacuna",
+      "categoria": "conceitos",
+      "texto": "O concurso será de provas ou de provas e ___, podendo ser realizado em duas etapas, conforme dispuserem a lei e o regulamento do respectivo plano de carreira.",
+      "banco": [
+        "títulos",
+        "entrevistas",
+        "experiência",
+        "currículos"
+      ],
+      "correta": "títulos",
+      "explicacao": "A modalidade é de provas ou de provas e TÍTULOS, podendo ser realizado em duas etapas.",
+      "artigo": "Art. 11"
+    },
+    {
+      "id": "8112-provimento-3-04",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "O servidor ocupante de cargo em comissão pode ser nomeado para exercer interinamente outro cargo de confiança, devendo optar pela remuneração de um deles durante a interinidade.",
+      "correta": true,
+      "explicacao": "O parágrafo único do art. 9º permite a nomeação interina para outro cargo de confiança, com opção por UMA das remunerações no período.",
+      "artigo": "Art. 9º, parágrafo único"
+    },
+    {
+      "id": "8112-provimento-3-05",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "Não é fator de avaliação do estágio probatório, nos termos do art. 20 da Lei 8.112/90:",
+      "opcoes": [
+        "assiduidade",
+        "disciplina",
+        "capacidade de iniciativa",
+        "titulação acadêmica",
+        "responsabilidade"
+      ],
+      "correta": 3,
+      "explicacao": "Os cinco fatores são assiduidade, disciplina, capacidade de iniciativa, produtividade e responsabilidade. Titulação acadêmica não entra.",
+      "artigo": "Art. 20, I a V"
+    },
+    {
+      "id": "8112-provimento-3-06",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "Quatro meses antes de findo o período do estágio probatório, a avaliação do desempenho será submetida à homologação da ___ competente.",
+      "banco": [
+        "autoridade",
+        "chefia imediata",
+        "comissão",
+        "corregedoria"
+      ],
+      "correta": "autoridade",
+      "explicacao": "A avaliação é feita por comissão constituída para essa finalidade e HOMOLOGADA pela autoridade competente, 4 meses antes do fim do estágio.",
+      "artigo": "Art. 20, § 1º"
+    },
+    {
+      "id": "8112-provimento-3-07",
+      "tipo": "ce",
+      "categoria": "prazos",
+      "enunciado": "Pela literalidade da Lei 8.112/90, o servidor nomeado para cargo efetivo fica sujeito a estágio probatório por período de 24 meses.",
+      "correta": true,
+      "explicacao": "A letra do art. 20 diz 24 meses. Mas ATENÇÃO: a CF (art. 41, EC 19/98) exige 3 anos para a estabilidade, e a jurisprudência alinha o estágio a esse prazo.",
+      "artigo": "Art. 20, caput"
+    },
+    {
+      "id": "8112-provimento-3-08",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "O servidor que não for aprovado no estágio probatório será:",
+      "opcoes": [
+        "demitido, sempre",
+        "exonerado ou, se estável, reconduzido ao cargo anteriormente ocupado",
+        "readaptado em outro cargo de mesmo nível",
+        "colocado em disponibilidade com remuneração proporcional",
+        "reintegrado ao cargo anterior"
+      ],
+      "correta": 1,
+      "explicacao": "Reprovado no estágio: EXONERAÇÃO; se já era estável em outro cargo, RECONDUÇÃO. Não é demissão, que é penalidade.",
+      "artigo": "Art. 20, § 2º"
+    },
+    {
+      "id": "8112-provimento-3-09",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O servidor em estágio probatório não pode ocupar cargo em comissão ou função de direção, chefia ou assessoramento.",
+      "correta": false,
+      "explicacao": "Pode, sim, exercer cargos em comissão ou funções de direção, chefia ou assessoramento no órgão de lotação. Para OUTRO órgão, só pode ser cedido para cargos de Natureza Especial ou DAS 6, 5 e 4, ou equivalentes.",
+      "artigo": "Art. 20, § 3º"
+    },
+    {
+      "id": "8112-provimento-3-10",
+      "tipo": "pares",
+      "categoria": "conceitos",
+      "enunciado": "Ligue o instituto ao seu conceito:",
+      "pares": [
+        [
+          "Nomeação efetiva",
+          "Exige concurso público"
+        ],
+        [
+          "Nomeação em comissão",
+          "Cargos de confiança vagos"
+        ],
+        [
+          "Estágio probatório",
+          "Avalia os 5 fatores do art. 20"
+        ],
+        [
+          "Estabilidade",
+          "Garantia após o efetivo exercício"
+        ]
+      ],
+      "explicacao": "Efetivo = concurso; comissão = confiança; estágio = avaliação por fatores; estabilidade = garantia adquirida após o período de efetivo exercício.",
+      "artigo": "Arts. 9º, 10, 20 e 21"
+    },
+    {
+      "id": "8112-provimento-3-11",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "O servidor habilitado em concurso público e empossado em cargo de provimento efetivo adquirirá estabilidade no serviço público ao completar 2 (dois) anos de efetivo ___.",
+      "banco": [
+        "exercício",
+        "mandato",
+        "provimento",
+        "estágio"
+      ],
+      "correta": "exercício",
+      "explicacao": "A contagem é de efetivo EXERCÍCIO. A lei fala em 2 anos, mas a CF (art. 41) exige 3, prevalecendo o prazo constitucional na prática.",
+      "artigo": "Art. 21"
+    },
+    {
+      "id": "8112-provimento-3-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo o art. 22 da Lei 8.112/90, o servidor estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou de processo administrativo disciplinar no qual lhe seja assegurada ampla defesa.",
+      "correta": true,
+      "explicacao": "Redação do art. 22. A CF acrescenta a perda por AVALIAÇÃO periódica de desempenho (art. 41, § 1º, III) e por excesso de despesa com pessoal (art. 169, § 4º).",
+      "artigo": "Art. 22; CF, arts. 41, § 1º, e 169, § 4º"
+    }
+  ]
+}

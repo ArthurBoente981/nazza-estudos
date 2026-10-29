@@ -1,0 +1,165 @@
+{
+  "id": "tae-2",
+  "unidadeId": "tae",
+  "ordem": 2,
+  "titulo": "Desenvolvimento na carreira",
+  "materia": "Lei 11.091/05 (Carreira TAE)",
+  "fonte": "Lei 11.091",
+  "dica": "Hoje o desenvolvimento se dá por PROGRESSÃO POR MÉRITO (a cada 12 meses de efetivo exercício, com avaliação de desempenho) ou ACELERAÇÃO DA PROGRESSÃO POR CAPACITAÇÃO (5 anos de interstício + certificação). Os antigos 18 meses do mérito foram revogados. Incentivo à qualificação: formação acima da exigida, sem acumular.",
+  "questoes": [
+    {
+      "id": "tae-2-01",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Nos termos do art. 10-B da Lei 11.091/05, o desenvolvimento do servidor na carreira ocorre por:",
+      "opcoes": [
+        "Progressão por mérito ou aceleração da progressão por capacitação",
+        "Apenas progressão por mérito",
+        "Promoção por antiguidade e merecimento",
+        "Ascensão funcional e transferência",
+        "Progressão horizontal e vertical por tempo de serviço"
+      ],
+      "correta": 0,
+      "explicacao": "O art. 10-B fala em PROGRESSÃO POR MÉRITO ou ACELERAÇÃO da progressão por capacitação.",
+      "artigo": "Art. 10-B, caput"
+    },
+    {
+      "id": "tae-2-02",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "Progressão por mérito é a mudança para o padrão de vencimento imediatamente subsequente, a cada ___ meses de efetivo exercício, desde que o servidor apresente resultado fixado em programa de avaliação de desempenho.",
+      "banco": [
+        "12",
+        "18",
+        "24",
+        "36"
+      ],
+      "correta": "12",
+      "explicacao": "Interstício de 12 MESES de efetivo exercício (vigente desde 1º/1/2025), com resultado fixado em avaliação de desempenho.",
+      "artigo": "Art. 10-B, § 1º"
+    },
+    {
+      "id": "tae-2-03",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "O interstício para a progressão por mérito, hoje, é de 18 meses.",
+      "correta": false,
+      "explicacao": "Os 18 meses estavam no art. 10-A, revogado. A regra vigente é de 12 MESES de efetivo exercício.",
+      "artigo": "Art. 10-B, § 1º (art. 10-A revogado)"
+    },
+    {
+      "id": "tae-2-04",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "A progressão por mérito depende de resultado fixado em avaliação de desempenho.",
+      "correta": true,
+      "explicacao": "O mérito exige o resultado fixado na AVALIAÇÃO DE DESEMPENHO, além do interstício.",
+      "artigo": "Art. 10-B, § 1º"
+    },
+    {
+      "id": "tae-2-05",
+      "tipo": "lacuna",
+      "categoria": "prazos",
+      "texto": "A aceleração da progressão por capacitação exige interstício de ___ de efetivo exercício.",
+      "banco": [
+        "cinco anos",
+        "dois anos",
+        "três anos",
+        "dez anos"
+      ],
+      "correta": "cinco anos",
+      "explicacao": "O interstício é de CINCO ANOS, mais certificação compatível com o cargo e carga horária mínima do Anexo III-A.",
+      "artigo": "Art. 10-B, § 3º"
+    },
+    {
+      "id": "tae-2-06",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Para a aceleração da progressão por capacitação, NÃO é requisito:",
+      "opcoes": [
+        "Titulação de mestrado ou doutorado",
+        "Interstício de cinco anos de efetivo exercício",
+        "Certificação em programa de capacitação compatível com o cargo",
+        "Carga horária mínima prevista no Anexo III-A",
+        "Efetivo exercício no cargo"
+      ],
+      "correta": 0,
+      "explicacao": "Exige-se certificação compatível com o cargo, não titulação de mestrado ou doutorado.",
+      "artigo": "Art. 10-B, § 3º"
+    },
+    {
+      "id": "tae-2-07",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Cada evento de capacitação pode ser computado mais de uma vez para fins de aceleração da progressão por capacitação.",
+      "correta": false,
+      "explicacao": "Cada evento de capacitação é computado UMA ÚNICA VEZ, para evitar aproveitamento duplicado.",
+      "artigo": "Art. 10-B, § 5º"
+    },
+    {
+      "id": "tae-2-08",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "A avaliação de desempenho funcional, como diretriz do plano, deve ser conduzida como:",
+      "opcoes": [
+        "Processo pedagógico, com critérios objetivos ligados às metas institucionais",
+        "Instrumento punitivo, com critérios definidos pela chefia imediata",
+        "Ato discricionário e sigiloso do dirigente",
+        "Processo exclusivamente individual, sem metas coletivas",
+        "Exame periódico de conhecimentos teóricos"
+      ],
+      "correta": 0,
+      "explicacao": "A avaliação é PROCESSO PEDAGÓGICO, com critérios objetivos, caráter coletivo do trabalho e expectativas dos usuários.",
+      "artigo": "Art. 3º, IX"
+    },
+    {
+      "id": "tae-2-09",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Constitui diretriz do plano quanto à capacitação:",
+      "opcoes": [
+        "Garantir programas de capacitação que cubram formação específica e geral, incluindo a educação formal",
+        "Limitar a capacitação aos cursos internos da instituição",
+        "Condicionar a capacitação ao cargo em comissão",
+        "Restringir a capacitação a servidores em estágio probatório",
+        "Vedar a formação em educação formal"
+      ],
+      "correta": 0,
+      "explicacao": "A lei garante programas de capacitação com formação ESPECÍFICA e GERAL, incluindo a educação formal.",
+      "artigo": "Art. 3º, VIII"
+    },
+    {
+      "id": "tae-2-10",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "O Incentivo à Qualificação é destinado ao servidor que possui educação formal superior à exigida para o cargo de que é titular.",
+      "correta": true,
+      "explicacao": "É o conceito do incentivo: formação acima da exigida pelo cargo, na forma do regulamento.",
+      "artigo": "Art. 11"
+    },
+    {
+      "id": "tae-2-11",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Os percentuais do Incentivo à Qualificação podem ser acumulados.",
+      "correta": false,
+      "explicacao": "Os percentuais NÃO são acumuláveis; a base de cálculo é o padrão de vencimento percebido.",
+      "artigo": "Art. 12-A, § 3º"
+    },
+    {
+      "id": "tae-2-12",
+      "tipo": "lacuna",
+      "categoria": "competencias",
+      "texto": "O plano de desenvolvimento deve conter o dimensionamento das necessidades, o Programa de Capacitação e Aperfeiçoamento e o Programa de ___.",
+      "banco": [
+        "Avaliação de Desempenho",
+        "Remoção",
+        "Reajuste",
+        "Reenquadramento"
+      ],
+      "correta": "Avaliação de Desempenho",
+      "explicacao": "O plano de desenvolvimento reúne o dimensionamento, o Programa de Capacitação e o Programa de AVALIAÇÃO DE DESEMPENHO.",
+      "artigo": "Art. 24, § 1º"
+    }
+  ]
+}

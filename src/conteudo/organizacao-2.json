@@ -1,0 +1,176 @@
+{
+  "id": "organizacao-2",
+  "unidadeId": "organizacao",
+  "ordem": 2,
+  "titulo": "Administração indireta",
+  "materia": "Organização administrativa",
+  "fonte": "DL 200/67",
+  "dica": "Indireta = AUTARQUIA, EMPRESA PÚBLICA, SOCIEDADE DE ECONOMIA MISTA e FUNDAÇÃO. Autarquia é criada por lei específica; as outras três têm a instituição AUTORIZADA por lei (CF 37, XIX). Direito público: autarquia. Direito privado: EP, SEM (S.A.) e fundação (segundo o DL 200).",
+  "questoes": [
+    {
+      "id": "organizacao-2-01",
+      "tipo": "mc",
+      "categoria": "tipos",
+      "enunciado": "NÃO integra a Administração Indireta, segundo o DL 200/67:",
+      "opcoes": [
+        "Ministério",
+        "Autarquia",
+        "Empresa pública",
+        "Sociedade de economia mista",
+        "Fundação pública"
+      ],
+      "correta": 0,
+      "explicacao": "A Indireta tem autarquias, empresas públicas, sociedades de economia mista e fundações. Ministério é Administração DIRETA.",
+      "artigo": "Art. 4º, II, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-02",
+      "tipo": "ce",
+      "categoria": "conceitos",
+      "enunciado": "Autarquia é o serviço autônomo, criado por lei, com personalidade jurídica, patrimônio e receita próprios.",
+      "correta": true,
+      "explicacao": "É a definição legal de AUTARQUIA, entidade de direito público criada por lei.",
+      "artigo": "Art. 5º, I, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-03",
+      "tipo": "lacuna",
+      "categoria": "regras",
+      "texto": "Somente por lei específica poderá ser criada ___ e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação.",
+      "banco": [
+        "autarquia",
+        "ministério",
+        "consórcio",
+        "secretaria"
+      ],
+      "correta": "autarquia",
+      "explicacao": "A AUTARQUIA é criada diretamente por lei específica; as demais têm sua instituição apenas autorizada.",
+      "artigo": "Art. 37, XIX, CF/88"
+    },
+    {
+      "id": "organizacao-2-04",
+      "tipo": "mc",
+      "categoria": "regras",
+      "enunciado": "Segundo o art. 37, XIX, da CF/88, a empresa pública, a sociedade de economia mista e a fundação dependem, para serem instituídas, de:",
+      "opcoes": [
+        "Lei específica que autorize sua instituição",
+        "Decreto do chefe do Executivo, sem lei",
+        "Lei complementar para todas elas",
+        "Portaria ministerial",
+        "Lei ordinária que as crie diretamente"
+      ],
+      "correta": 0,
+      "explicacao": "Essas entidades nascem de AUTORIZAÇÃO legal específica e depois do registro dos atos constitutivos.",
+      "artigo": "Art. 37, XIX, CF/88"
+    },
+    {
+      "id": "organizacao-2-05",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Segundo a CF/88, a lei específica cria diretamente a empresa pública e a sociedade de economia mista.",
+      "correta": false,
+      "explicacao": "A lei apenas AUTORIZA a instituição; só a autarquia é criada pela própria lei. O DL 200 usa 'criada por lei', mas a CF prevalece nas provas.",
+      "artigo": "Art. 37, XIX, CF/88"
+    },
+    {
+      "id": "organizacao-2-06",
+      "tipo": "lacuna",
+      "categoria": "tipos",
+      "texto": "A sociedade de economia mista é criada para a exploração de atividade econômica, sob a forma de sociedade ___.",
+      "banco": [
+        "anônima",
+        "limitada",
+        "simples",
+        "cooperativa"
+      ],
+      "correta": "anônima",
+      "explicacao": "SEM só pode ser SOCIEDADE ANÔNIMA. A empresa pública pode assumir qualquer forma admitida em direito.",
+      "artigo": "Art. 5º, III, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-07",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "No DL 200/67, a entidade dotada de personalidade jurídica de direito privado, com patrimônio próprio e capital exclusivo da União, criada para exploração de atividade econômica, é:",
+      "opcoes": [
+        "A empresa pública",
+        "A autarquia",
+        "A sociedade de economia mista",
+        "A fundação pública",
+        "O órgão autônomo"
+      ],
+      "correta": 0,
+      "explicacao": "EMPRESA PÚBLICA: direito privado e capital exclusivo da União. Na SEM o capital é misto, com maioria votante pública.",
+      "artigo": "Art. 5º, II, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-08",
+      "tipo": "mc",
+      "categoria": "conceitos",
+      "enunciado": "Segundo o DL 200/67, a fundação pública é a entidade dotada de personalidade jurídica de:",
+      "opcoes": [
+        "Direito privado, sem fins lucrativos, criada em virtude de autorização legislativa",
+        "Direito público, com fins lucrativos, criada por decreto",
+        "Direito privado, com fins lucrativos, criada por lei complementar",
+        "Direito público, criada por portaria",
+        "Direito privado, constituída apenas por contrato social"
+      ],
+      "correta": 0,
+      "explicacao": "No DL 200 a fundação é de direito PRIVADO, sem fins lucrativos, com autorização legislativa. A doutrina admite também fundação de direito público.",
+      "artigo": "Art. 5º, IV, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-09",
+      "tipo": "ce",
+      "categoria": "regras",
+      "enunciado": "As fundações públicas adquirem personalidade jurídica com a inscrição da escritura pública de sua constituição no Registro Civil de Pessoas Jurídicas.",
+      "correta": true,
+      "explicacao": "Como são de direito privado no DL 200, a personalidade nasce da INSCRIÇÃO da escritura pública no Registro Civil de Pessoas Jurídicas.",
+      "artigo": "Art. 5º, § 3º, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-10",
+      "tipo": "pares",
+      "categoria": "tipos",
+      "enunciado": "Ligue a entidade à sua característica no DL 200/67:",
+      "pares": [
+        [
+          "Autarquia",
+          "Serviço autônomo criado por lei"
+        ],
+        [
+          "Empresa pública",
+          "Capital exclusivo da União"
+        ],
+        [
+          "Sociedade de economia mista",
+          "Forma de sociedade anônima"
+        ],
+        [
+          "Fundação pública",
+          "Autorização legislativa; sem lucro"
+        ]
+      ],
+      "explicacao": "Cada entidade tem sua marca: criação por lei (autarquia), capital da União (EP), S.A. (SEM) e autorização legislativa sem fins lucrativos (fundação).",
+      "artigo": "Art. 5º, I a IV, DL 200/67"
+    },
+    {
+      "id": "organizacao-2-11",
+      "tipo": "ce",
+      "categoria": "competencias",
+      "enunciado": "A criação de subsidiárias das entidades da Administração Indireta depende de autorização legislativa em cada caso.",
+      "correta": true,
+      "explicacao": "A criação de subsidiárias, e a participação em empresa privada, exige autorização legislativa EM CADA CASO.",
+      "artigo": "Art. 37, XX, CF/88"
+    },
+    {
+      "id": "organizacao-2-12",
+      "tipo": "ce",
+      "categoria": "pegadinhas",
+      "enunciado": "Cabe à lei complementar definir as áreas de atuação das empresas públicas.",
+      "correta": false,
+      "explicacao": "A lei complementar define as áreas de atuação das FUNDAÇÕES, não das empresas públicas.",
+      "artigo": "Art. 37, XIX, CF/88"
+    }
+  ]
+}
