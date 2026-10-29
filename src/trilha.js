@@ -1,12 +1,15 @@
 import provimento1 from './conteudo/8112-provimento.json'
 import provimento2 from './conteudo/8112-formas-provimento.json'
 
-// Cada questão ganha um id fixo (lição + posição) e herda fonte/matéria da lição.
+// O id de cada questão vem fixo do JSON (o histórico de acertos depende dele,
+// então nunca reaproveitar nem renumerar). Cada questão herda fonte/matéria da lição.
+const idsVistos = new Set()
 function prepara(licao) {
-  return {
-    ...licao,
-    questoes: licao.questoes.map((q, i) => ({ ...q, id: `${licao.id}#${i}`, fonte: licao.fonte, materia: licao.materia })),
+  for (const q of licao.questoes) {
+    if (!q.id || idsVistos.has(q.id)) console.error(`Questão sem id ou com id repetido em ${licao.id}:`, q.id)
+    idsVistos.add(q.id)
   }
+  return { ...licao, questoes: licao.questoes.map((q) => ({ ...q, fonte: licao.fonte, materia: licao.materia })) }
 }
 
 export const categorias = {

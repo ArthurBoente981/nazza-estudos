@@ -7,15 +7,23 @@
   "dica": "São 7 formas: NPA + 4 R → Nomeação, Promoção, Aproveitamento + Readaptação, Reversão, Reintegração, Recondução. Reintegração = demissão anulada. Recondução = estável volta ao cargo antigo. Reversão = aposentado volta. Aproveitamento = sai da disponibilidade.",
   "questoes": [
     {
+      "id": "8112-formas-01",
       "tipo": "mc",
       "categoria": "formas",
       "enunciado": "A investidura do servidor em cargo de atribuições compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica, denomina-se:",
-      "opcoes": ["Reversão", "Readaptação", "Recondução", "Reintegração", "Aproveitamento"],
+      "opcoes": [
+        "Reversão",
+        "Readaptação",
+        "Recondução",
+        "Reintegração",
+        "Aproveitamento"
+      ],
       "correta": 1,
       "explicacao": "Limitação física ou mental + inspeção médica = READAPTAÇÃO.",
       "artigo": "Art. 24"
     },
     {
+      "id": "8112-formas-02",
       "tipo": "ce",
       "categoria": "pegadinhas",
       "enunciado": "Reintegração é o retorno do servidor estável ao cargo anteriormente ocupado em razão de inabilitação em estágio probatório relativo a outro cargo.",
@@ -24,28 +32,48 @@
       "artigo": "Arts. 28 e 29"
     },
     {
+      "id": "8112-formas-03",
       "tipo": "pares",
       "categoria": "formas",
       "enunciado": "Ligue cada forma de provimento ao que ela é:",
       "pares": [
-        ["Reversão", "Aposentado volta à ativa"],
-        ["Reintegração", "Volta após demissão anulada"],
-        ["Recondução", "Estável volta ao cargo anterior"],
-        ["Aproveitamento", "Sai da disponibilidade"]
+        [
+          "Reversão",
+          "Aposentado volta à ativa"
+        ],
+        [
+          "Reintegração",
+          "Volta após demissão anulada"
+        ],
+        [
+          "Recondução",
+          "Estável volta ao cargo anterior"
+        ],
+        [
+          "Aproveitamento",
+          "Sai da disponibilidade"
+        ]
       ],
       "explicacao": "Reversão (aposentado), Reintegração (demissão invalidada), Recondução (estável volta ao cargo antigo) e Aproveitamento (servidor em disponibilidade).",
       "artigo": "Arts. 25, 28, 29 e 30"
     },
     {
+      "id": "8112-formas-04",
       "tipo": "lacuna",
       "categoria": "conceitos",
       "texto": "A reintegração é a reinvestidura do servidor ___ no cargo anteriormente ocupado, quando invalidada a sua demissão por decisão administrativa ou judicial.",
-      "banco": ["estável", "efetivo", "aposentado", "comissionado"],
+      "banco": [
+        "estável",
+        "efetivo",
+        "aposentado",
+        "comissionado"
+      ],
       "correta": "estável",
       "explicacao": "Só o servidor ESTÁVEL é reintegrado, com ressarcimento de todas as vantagens.",
       "artigo": "Art. 28"
     },
     {
+      "id": "8112-formas-05",
       "tipo": "ce",
       "categoria": "regras",
       "enunciado": "Na reintegração, o servidor terá ressarcimento de todas as vantagens.",
@@ -54,33 +82,54 @@
       "artigo": "Art. 28"
     },
     {
+      "id": "8112-formas-06",
       "tipo": "mc",
       "categoria": "pegadinhas",
       "enunciado": "Reintegrado o servidor e encontrando-se provido o seu cargo, o eventual ocupante será:",
-      "opcoes": ["exonerado de ofício", "reconduzido ao cargo de origem, com direito a indenização", "reconduzido ao cargo de origem, sem direito a indenização", "aposentado compulsoriamente", "demitido, sem direito a indenização"],
+      "opcoes": [
+        "exonerado de ofício",
+        "reconduzido ao cargo de origem, com direito a indenização",
+        "reconduzido ao cargo de origem, sem direito a indenização",
+        "aposentado compulsoriamente",
+        "demitido, sem direito a indenização"
+      ],
       "correta": 2,
       "explicacao": "O ocupante é reconduzido ao cargo de origem SEM indenização (ou aproveitado em outro cargo, ou posto em disponibilidade).",
       "artigo": "Art. 28, § 2º"
     },
     {
+      "id": "8112-formas-07",
       "tipo": "mc",
       "categoria": "conceitos",
       "enunciado": "A recondução decorrerá de:",
-      "opcoes": ["limitação física verificada em inspeção médica", "inabilitação em estágio probatório relativo a outro cargo ou reintegração do anterior ocupante", "invalidação da demissão por decisão judicial", "aposentadoria por invalidez declarada insubsistente", "extinção do cargo ou declaração de sua desnecessidade"],
+      "opcoes": [
+        "limitação física verificada em inspeção médica",
+        "inabilitação em estágio probatório relativo a outro cargo ou reintegração do anterior ocupante",
+        "invalidação da demissão por decisão judicial",
+        "aposentadoria por invalidez declarada insubsistente",
+        "extinção do cargo ou declaração de sua desnecessidade"
+      ],
       "correta": 1,
       "explicacao": "Os dois casos de recondução: reprovado no estágio probatório de OUTRO cargo, ou o antigo ocupante foi reintegrado.",
       "artigo": "Art. 29"
     },
     {
+      "id": "8112-formas-08",
       "tipo": "lacuna",
       "categoria": "formas",
       "texto": "O retorno à atividade de servidor em disponibilidade far-se-á mediante ___ obrigatório em cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado.",
-      "banco": ["aproveitamento", "reversão", "recondução", "readaptação"],
+      "banco": [
+        "aproveitamento",
+        "reversão",
+        "recondução",
+        "readaptação"
+      ],
       "correta": "aproveitamento",
       "explicacao": "Disponibilidade → APROVEITAMENTO, e ele é obrigatório.",
       "artigo": "Art. 30"
     },
     {
+      "id": "8112-formas-09",
       "tipo": "ce",
       "categoria": "regras",
       "enunciado": "Será tornado sem efeito o aproveitamento e cassada a disponibilidade se o servidor não entrar em exercício no prazo legal, salvo doença comprovada por junta médica oficial.",
@@ -89,6 +138,7 @@
       "artigo": "Art. 32"
     },
     {
+      "id": "8112-formas-10",
       "tipo": "ce",
       "categoria": "pegadinhas",
       "enunciado": "Na readaptação, se o servidor for julgado incapaz para o serviço público, será exonerado.",
@@ -97,15 +147,23 @@
       "artigo": "Art. 24, § 1º"
     },
     {
+      "id": "8112-formas-11",
       "tipo": "mc",
       "categoria": "formas",
       "enunciado": "Segundo a Lei 8.112/90, reversão é:",
-      "opcoes": ["o retorno à atividade de servidor aposentado", "o retorno do servidor em disponibilidade", "a reinvestidura do servidor demitido", "o retorno do servidor estável ao cargo anterior", "a passagem para cargo compatível com limitação física"],
+      "opcoes": [
+        "o retorno à atividade de servidor aposentado",
+        "o retorno do servidor em disponibilidade",
+        "a reinvestidura do servidor demitido",
+        "o retorno do servidor estável ao cargo anterior",
+        "a passagem para cargo compatível com limitação física"
+      ],
       "correta": 0,
       "explicacao": "Reversão = REtorno do aposentado (por invalidez cujos motivos acabaram, ou no interesse da administração).",
       "artigo": "Art. 25"
     },
     {
+      "id": "8112-formas-12",
       "tipo": "ce",
       "categoria": "regras",
       "enunciado": "Na readaptação, inexistindo cargo vago, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga.",

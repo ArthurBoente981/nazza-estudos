@@ -5,6 +5,7 @@
   "dica": "Posse = assinar o termo (até 30 dias da publicação). Exercício = começar a trabalhar (até 15 dias da posse). Não tomou posse → ato sem efeito. Não entrou em exercício → exonerado.",
   "questoes": [
     {
+      "id": "8112-posse-01",
       "tipo": "mc",
       "enunciado": "Segundo a Lei 8.112/90, a posse deverá ocorrer no prazo de:",
       "opcoes": [
@@ -20,6 +21,7 @@
       "categoria": "prazos"
     },
     {
+      "id": "8112-posse-02",
       "tipo": "lacuna",
       "texto": "É de ___ dias o prazo para o servidor empossado em cargo público entrar em exercício, contados da data da posse.",
       "banco": [
@@ -34,6 +36,7 @@
       "categoria": "prazos"
     },
     {
+      "id": "8112-posse-03",
       "tipo": "ce",
       "enunciado": "Se a posse não ocorrer no prazo legal, o servidor será exonerado do cargo.",
       "correta": false,
@@ -42,6 +45,7 @@
       "categoria": "pegadinhas"
     },
     {
+      "id": "8112-posse-04",
       "tipo": "ce",
       "enunciado": "A posse poderá dar-se mediante procuração específica.",
       "correta": true,
@@ -50,6 +54,7 @@
       "categoria": "regras"
     },
     {
+      "id": "8112-posse-05",
       "tipo": "mc",
       "enunciado": "NÃO é forma de provimento de cargo público prevista no art. 8º da Lei 8.112/90:",
       "opcoes": [
@@ -65,6 +70,7 @@
       "categoria": "formas"
     },
     {
+      "id": "8112-posse-06",
       "tipo": "lacuna",
       "texto": "A investidura em cargo público ocorrerá com a ___.",
       "banco": [
@@ -79,6 +85,7 @@
       "categoria": "conceitos"
     },
     {
+      "id": "8112-posse-07",
       "tipo": "ce",
       "enunciado": "O servidor empossado que não entrar em exercício no prazo legal será exonerado do cargo.",
       "correta": true,
@@ -87,6 +94,7 @@
       "categoria": "regras"
     },
     {
+      "id": "8112-posse-08",
       "tipo": "mc",
       "enunciado": "O prazo de validade do concurso público, segundo a Lei 8.112/90, é de:",
       "opcoes": [
@@ -102,6 +110,7 @@
       "categoria": "prazos"
     },
     {
+      "id": "8112-posse-09",
       "tipo": "lacuna",
       "texto": "Às pessoas com deficiência serão reservadas até ___ das vagas oferecidas no concurso.",
       "banco": [
@@ -116,6 +125,7 @@
       "categoria": "prazos"
     },
     {
+      "id": "8112-posse-10",
       "tipo": "ce",
       "enunciado": "A posse em cargo público dependerá de prévia inspeção médica oficial.",
       "correta": true,
@@ -124,6 +134,7 @@
       "categoria": "regras"
     },
     {
+      "id": "8112-posse-11",
       "tipo": "mc",
       "enunciado": "São requisitos básicos para investidura em cargo público, EXCETO:",
       "opcoes": [
@@ -139,6 +150,7 @@
       "categoria": "regras"
     },
     {
+      "id": "8112-posse-12",
       "tipo": "ce",
       "enunciado": "A nomeação é forma de provimento, e a posse ocorre com a assinatura do respectivo termo.",
       "correta": true,
