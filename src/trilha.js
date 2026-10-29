@@ -1,45 +1,63 @@
-import provimento1 from './conteudo/8112-provimento.json'
-import provimento2 from './conteudo/8112-formas-provimento.json'
-
-// O id de cada questão vem fixo do JSON (o histórico de acertos depende dele,
-// então nunca reaproveitar nem renumerar). Cada questão herda fonte/matéria da lição.
-const idsVistos = new Set()
-function prepara(licao) {
-  for (const q of licao.questoes) {
-    if (!q.id || idsVistos.has(q.id)) console.error(`Questão sem id ou com id repetido em ${licao.id}:`, q.id)
-    idsVistos.add(q.id)
-  }
-  return { ...licao, questoes: licao.questoes.map((q) => ({ ...q, fonte: licao.fonte, materia: licao.materia })) }
-}
+// Todas as lições ficam em src/conteudo/*.json e entram sozinhas na trilha
+// pelo `unidadeId` + `ordem` de cada arquivo (formato em GUIA-CONTEUDO.md).
+const arquivos = import.meta.glob('./conteudo/*.json', { eager: true, import: 'default' })
 
 export const categorias = {
   prazos: { nome: 'Prazos e números', icone: 'Timer', cor: 'azul' },
   pegadinhas: { nome: 'Pegadinhas de banca', icone: 'Bomb', cor: 'rosa' },
   conceitos: { nome: 'Conceitos', icone: 'BookOpen', cor: 'roxo' },
   regras: { nome: 'Regras e requisitos', icone: 'Scale', cor: 'verde' },
-  formas: { nome: 'Formas de provimento', icone: 'Repeat', cor: 'ouro' },
+  tipos: { nome: 'Tipos e classificações', icone: 'Repeat', cor: 'ouro' },
+  competencias: { nome: 'Quem faz o quê', icone: 'Users', cor: 'laranja' },
 }
 
-// Seção 1 do edital (Conhecimentos de Administração Pública).
-// null = lição ainda sem conteúdo (aparece trancada pra mostrar o roadmap).
-export const secoes = [
+// Roadmap do edital. `licoes` = quantas lições a unidade terá (as que faltam aparecem trancadas).
+const roteiro = [
   {
     titulo: 'Administração Pública',
     unidades: [
-      { nome: 'Lei 8.112: Provimento', cor: 'roxo', licoes: [prepara(provimento1), prepara(provimento2), null] },
-      { nome: 'Lei 8.112: Vacância e movimentação', cor: 'azul', licoes: [null, null, null] },
-      { nome: 'Lei 8.112: Vantagens e licenças', cor: 'verde', licoes: [null, null, null] },
-      { nome: 'Lei 8.112: Regime disciplinar', cor: 'rosa', licoes: [null, null, null] },
-      { nome: 'Princípios constitucionais', cor: 'ouro', licoes: [null, null] },
-      { nome: 'Ética (Decreto 1.171)', cor: 'roxo', licoes: [null, null] },
-      { nome: 'Carreira TAE (Lei 11.091)', cor: 'azul', licoes: [null, null] },
-      { nome: 'Processo administrativo (Lei 9.784)', cor: 'verde', licoes: [null, null, null] },
-      { nome: 'Organização administrativa', cor: 'rosa', licoes: [null, null] },
-      { nome: 'Improbidade (Lei 8.429)', cor: 'ouro', licoes: [null, null] },
-      { nome: 'Gestão orçamentária (AFO)', cor: 'roxo', licoes: [null, null, null] },
+      { id: '8112-provimento', nome: 'Lei 8.112: Provimento', cor: 'roxo', licoes: 3 },
+      { id: '8112-vacancia', nome: 'Lei 8.112: Vacância e movimentação', cor: 'azul', licoes: 3 },
+      { id: '8112-direitos', nome: 'Lei 8.112: Direitos e vantagens', cor: 'verde', licoes: 3 },
+      { id: '8112-disciplinar', nome: 'Lei 8.112: Regime disciplinar', cor: 'rosa', licoes: 3 },
+      { id: 'principios', nome: 'Princípios constitucionais', cor: 'ouro', licoes: 2 },
+      { id: 'etica', nome: 'Ética (Decreto 1.171)', cor: 'roxo', licoes: 2 },
+      { id: 'tae', nome: 'Carreira TAE (Lei 11.091)', cor: 'azul', licoes: 2 },
+      { id: 'comunicacao', nome: 'Comunicação oficial (Decreto 9.758)', cor: 'verde', licoes: 1 },
+      { id: '9784', nome: 'Processo administrativo (Lei 9.784)', cor: 'rosa', licoes: 3 },
+      { id: 'organizacao', nome: 'Organização administrativa', cor: 'ouro', licoes: 2 },
+      { id: 'improbidade', nome: 'Improbidade (Lei 8.429)', cor: 'roxo', licoes: 2 },
+      { id: 'afo', nome: 'Gestão orçamentária (AFO)', cor: 'azul', licoes: 3 },
     ],
   },
 ]
+
+// O id de cada questão vem fixo do JSON (o histórico de acertos depende dele,
+// então nunca reaproveitar nem renumerar). Cada questão herda fonte/matéria da lição.
+const idsVistos = new Set()
+function prepara(licao, unidade) {
+  for (const q of licao.questoes) {
+    if (!q.id || idsVistos.has(q.id)) console.error(`Questão sem id ou com id repetido em ${licao.id}:`, q.id)
+    idsVistos.add(q.id)
+  }
+  return {
+    ...licao,
+    unidade: unidade.nome,
+    questoes: licao.questoes.map((q) => ({ ...q, fonte: licao.fonte, materia: licao.materia })),
+  }
+}
+
+const porUnidade = {}
+for (const l of Object.values(arquivos)) (porUnidade[l.unidadeId] ||= []).push(l)
+
+export const secoes = roteiro.map((s) => ({
+  ...s,
+  unidades: s.unidades.map((u) => {
+    const prontas = (porUnidade[u.id] || []).sort((a, b) => a.ordem - b.ordem).map((l) => prepara(l, u))
+    const total = Math.max(u.licoes, prontas.length)
+    return { ...u, licoes: Array.from({ length: total }, (_, i) => prontas[i] || null) }
+  }),
+}))
 
 export const todasLicoes = secoes.flatMap((s) => s.unidades.flatMap((u) => u.licoes.filter(Boolean)))
 export const todasQuestoes = todasLicoes.flatMap((l) => l.questoes)

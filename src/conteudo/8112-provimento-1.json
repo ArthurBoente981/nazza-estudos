@@ -1,6 +1,7 @@
 {
   "id": "8112-provimento-1",
-  "unidade": "Lei 8.112: Provimento",
+  "unidadeId": "8112-provimento",
+  "ordem": 1,
   "titulo": "Posse, exercício e formas de provimento",
   "dica": "Posse = assinar o termo (até 30 dias da publicação). Exercício = começar a trabalhar (até 15 dias da posse). Não tomou posse → ato sem efeito. Não entrou em exercício → exonerado.",
   "questoes": [
@@ -67,7 +68,7 @@
       "correta": 3,
       "explicacao": "A transferência (e a ascensão) foram revogadas. Formas atuais: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução.",
       "artigo": "Art. 8º",
-      "categoria": "formas"
+      "categoria": "tipos"
     },
     {
       "id": "8112-posse-06",

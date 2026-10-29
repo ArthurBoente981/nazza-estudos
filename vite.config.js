@@ -4,6 +4,8 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // No GitHub Pages o app fica em /nazza-estudos/; rodando local fica na raiz.
 export default defineConfig(({ command, isPreview }) => ({
+  // Data/hora do build, mostrada nos Ajustes pra conferir se o app instalado atualizou
+  define: { __VERSAO__: JSON.stringify(new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo', day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' })) },
   base: command === 'build' || isPreview ? '/nazza-estudos/' : '/',
   plugins: [
     react(),

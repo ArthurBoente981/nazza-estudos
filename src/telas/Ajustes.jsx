@@ -96,7 +96,7 @@ export default function Ajustes({ estado, aoMudar }) {
         </button>
       </Grupo>
 
-      <p className="rodape-ajustes">Estuda com a Nazza · v0.2 · seu progresso fica só neste aparelho</p>
+      <p className="rodape-ajustes">Estuda com a Nazza · v0.3 · versão de {__VERSAO__}<br />Seu progresso fica só neste aparelho</p>
 
       {confirmarZerar && (
         <div className="modal-fundo" onClick={() => setConfirmarZerar(false)}>

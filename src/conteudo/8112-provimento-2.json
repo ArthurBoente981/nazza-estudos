@@ -1,6 +1,7 @@
 {
   "id": "8112-provimento-2",
-  "unidade": "Lei 8.112: Provimento",
+  "unidadeId": "8112-provimento",
+  "ordem": 2,
   "titulo": "As formas de provimento",
   "materia": "Lei 8.112/90",
   "fonte": "Lei 8.112",
@@ -9,7 +10,7 @@
     {
       "id": "8112-formas-01",
       "tipo": "mc",
-      "categoria": "formas",
+      "categoria": "tipos",
       "enunciado": "A investidura do servidor em cargo de atribuições compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica, denomina-se:",
       "opcoes": [
         "Reversão",
@@ -34,7 +35,7 @@
     {
       "id": "8112-formas-03",
       "tipo": "pares",
-      "categoria": "formas",
+      "categoria": "tipos",
       "enunciado": "Ligue cada forma de provimento ao que ela é:",
       "pares": [
         [
@@ -116,7 +117,7 @@
     {
       "id": "8112-formas-08",
       "tipo": "lacuna",
-      "categoria": "formas",
+      "categoria": "tipos",
       "texto": "O retorno à atividade de servidor em disponibilidade far-se-á mediante ___ obrigatório em cargo de atribuições e vencimentos compatíveis com o anteriormente ocupado.",
       "banco": [
         "aproveitamento",
@@ -149,7 +150,7 @@
     {
       "id": "8112-formas-11",
       "tipo": "mc",
-      "categoria": "formas",
+      "categoria": "tipos",
       "enunciado": "Segundo a Lei 8.112/90, reversão é:",
       "opcoes": [
         "o retorno à atividade de servidor aposentado",
