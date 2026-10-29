@@ -7,93 +7,146 @@
     {
       "tipo": "mc",
       "enunciado": "Segundo a Lei 8.112/90, a posse deverá ocorrer no prazo de:",
-      "opcoes": ["15 dias contados da nomeação", "30 dias contados da publicação do ato de provimento", "30 dias contados da posse", "60 dias contados da homologação do concurso", "45 dias contados da publicação do ato de provimento"],
+      "opcoes": [
+        "15 dias contados da nomeação",
+        "30 dias contados da publicação do ato de provimento",
+        "30 dias contados da posse",
+        "60 dias contados da homologação do concurso",
+        "45 dias contados da publicação do ato de provimento"
+      ],
       "correta": 1,
       "explicacao": "A posse ocorre em até 30 dias contados da publicação do ato de provimento.",
-      "artigo": "Art. 13, § 1º"
+      "artigo": "Art. 13, § 1º",
+      "categoria": "prazos"
     },
     {
       "tipo": "lacuna",
       "texto": "É de ___ dias o prazo para o servidor empossado em cargo público entrar em exercício, contados da data da posse.",
-      "banco": ["15", "30", "10", "60"],
+      "banco": [
+        "15",
+        "30",
+        "10",
+        "60"
+      ],
       "correta": "15",
       "explicacao": "Depois da posse, o servidor tem 15 dias para entrar em exercício.",
-      "artigo": "Art. 15, § 1º"
+      "artigo": "Art. 15, § 1º",
+      "categoria": "prazos"
     },
     {
       "tipo": "ce",
       "enunciado": "Se a posse não ocorrer no prazo legal, o servidor será exonerado do cargo.",
       "correta": false,
       "explicacao": "Pegadinha clássica! Sem posse no prazo, o ato de provimento é tornado SEM EFEITO. Quem é exonerado é quem tomou posse mas não entrou em exercício.",
-      "artigo": "Art. 13, § 6º e Art. 15, § 2º"
+      "artigo": "Art. 13, § 6º e Art. 15, § 2º",
+      "categoria": "pegadinhas"
     },
     {
       "tipo": "ce",
       "enunciado": "A posse poderá dar-se mediante procuração específica.",
       "correta": true,
       "explicacao": "A lei permite posse por procuração, desde que específica.",
-      "artigo": "Art. 13, § 3º"
+      "artigo": "Art. 13, § 3º",
+      "categoria": "regras"
     },
     {
       "tipo": "mc",
       "enunciado": "NÃO é forma de provimento de cargo público prevista no art. 8º da Lei 8.112/90:",
-      "opcoes": ["Readaptação", "Reversão", "Aproveitamento", "Transferência", "Recondução"],
+      "opcoes": [
+        "Readaptação",
+        "Reversão",
+        "Aproveitamento",
+        "Transferência",
+        "Recondução"
+      ],
       "correta": 3,
       "explicacao": "A transferência (e a ascensão) foram revogadas. Formas atuais: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração e recondução.",
-      "artigo": "Art. 8º"
+      "artigo": "Art. 8º",
+      "categoria": "formas"
     },
     {
       "tipo": "lacuna",
       "texto": "A investidura em cargo público ocorrerá com a ___.",
-      "banco": ["posse", "nomeação", "exercício", "publicação"],
+      "banco": [
+        "posse",
+        "nomeação",
+        "exercício",
+        "publicação"
+      ],
       "correta": "posse",
       "explicacao": "Nomeação é o ato de provimento; a investidura só acontece com a posse.",
-      "artigo": "Art. 7º"
+      "artigo": "Art. 7º",
+      "categoria": "conceitos"
     },
     {
       "tipo": "ce",
       "enunciado": "O servidor empossado que não entrar em exercício no prazo legal será exonerado do cargo.",
       "correta": true,
       "explicacao": "Tomou posse e não entrou em exercício → exoneração (ou, se for função de confiança, torna-se sem efeito a designação).",
-      "artigo": "Art. 15, § 2º"
+      "artigo": "Art. 15, § 2º",
+      "categoria": "regras"
     },
     {
       "tipo": "mc",
       "enunciado": "O prazo de validade do concurso público, segundo a Lei 8.112/90, é de:",
-      "opcoes": ["até 1 ano, prorrogável por igual período", "até 2 anos, prorrogável uma única vez por igual período", "2 anos, improrrogável", "até 4 anos, prorrogável uma vez", "até 2 anos, prorrogável indefinidamente"],
+      "opcoes": [
+        "até 1 ano, prorrogável por igual período",
+        "até 2 anos, prorrogável uma única vez por igual período",
+        "2 anos, improrrogável",
+        "até 4 anos, prorrogável uma vez",
+        "até 2 anos, prorrogável indefinidamente"
+      ],
       "correta": 1,
       "explicacao": "Validade de até 2 anos, podendo ser prorrogada UMA ÚNICA VEZ por igual período.",
-      "artigo": "Art. 12"
+      "artigo": "Art. 12",
+      "categoria": "prazos"
     },
     {
       "tipo": "lacuna",
       "texto": "Às pessoas com deficiência serão reservadas até ___ das vagas oferecidas no concurso.",
-      "banco": ["20%", "5%", "10%", "30%"],
+      "banco": [
+        "20%",
+        "5%",
+        "10%",
+        "30%"
+      ],
       "correta": "20%",
       "explicacao": "A 8.112 fala em ATÉ 20% das vagas para pessoas com deficiência.",
-      "artigo": "Art. 5º, § 2º"
+      "artigo": "Art. 5º, § 2º",
+      "categoria": "prazos"
     },
     {
       "tipo": "ce",
       "enunciado": "A posse em cargo público dependerá de prévia inspeção médica oficial.",
       "correta": true,
       "explicacao": "Só toma posse quem for julgado apto física e mentalmente na inspeção médica oficial.",
-      "artigo": "Art. 14"
+      "artigo": "Art. 14",
+      "categoria": "regras"
     },
     {
       "tipo": "mc",
       "enunciado": "São requisitos básicos para investidura em cargo público, EXCETO:",
-      "opcoes": ["nacionalidade brasileira", "gozo dos direitos políticos", "idade mínima de 18 anos", "quitação com as obrigações militares e eleitorais", "experiência prévia no serviço público"],
+      "opcoes": [
+        "nacionalidade brasileira",
+        "gozo dos direitos políticos",
+        "idade mínima de 18 anos",
+        "quitação com as obrigações militares e eleitorais",
+        "experiência prévia no serviço público"
+      ],
       "correta": 4,
       "explicacao": "Requisitos do art. 5º: nacionalidade brasileira, direitos políticos, quitação militar e eleitoral, escolaridade exigida, 18 anos e aptidão física e mental. Experiência prévia não está lá.",
-      "artigo": "Art. 5º"
+      "artigo": "Art. 5º",
+      "categoria": "regras"
     },
     {
       "tipo": "ce",
       "enunciado": "A nomeação é forma de provimento, e a posse ocorre com a assinatura do respectivo termo.",
       "correta": true,
       "explicacao": "Nomeação é forma de provimento (art. 8º) e a posse se dá pela assinatura do termo, com atribuições, deveres e direitos do cargo.",
-      "artigo": "Art. 8º e Art. 13"
+      "artigo": "Art. 8º e Art. 13",
+      "categoria": "conceitos"
     }
-  ]
+  ],
+  "materia": "Lei 8.112/90",
+  "fonte": "Lei 8.112"
 }
